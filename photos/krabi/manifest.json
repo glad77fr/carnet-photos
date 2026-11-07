@@ -1,5 +1,6 @@
 {
- "_hash": "52497232a3c463c7746482a93803b769d5e78a86",
+ "_hash": "4eeac2dda3a9db3cf4003f0e1b38b3ef8a20125b",
+ "_demande": "82754f79a8bef634c2b8240b1de26cb25033638c",
  "photos": {
   "plage-phra-nang-railay": {
    "credit": "kallerna, CC BY-SA 3.0, via Wikimedia Commons",
@@ -42,9 +43,9 @@
    "fichier": "plage-klong-dao-koh-lanta.jpg"
   },
   "plage-nui-bay-koh-lanta": {
-   "credit": "Travelnikov, CC BY-SA 4.0, via Wikimedia Commons",
-   "titre": "File:Nui Bay, Ko Lanta, Thailand.png",
-   "page": "https://commons.wikimedia.org/wiki/File:Nui_Bay,_Ko_Lanta,_Thailand.png",
+   "credit": "Alexey Komarov, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Sunset at Nui Beach, Ko Lanta Yai, April, 2018.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Sunset_at_Nui_Beach,_Ko_Lanta_Yai,_April,_2018.jpg",
    "illustration": null,
    "requete": "Ko Lanta Nui beach",
    "fichier": "plage-nui-bay-koh-lanta.jpg"
@@ -59,8 +60,8 @@
   },
   "site-excursion-des-4-iles-poda-chicken-tup-phra-nang": {
    "credit": "kallerna, CC BY-SA 3.0, via Wikimedia Commons",
-   "titre": "File:Ko Kai & Ko Tub 11.jpg",
-   "page": "https://commons.wikimedia.org/wiki/File:Ko_Kai_%26_Ko_Tub_11.jpg",
+   "titre": "File:Ko Kai & Ko Tub 5.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Ko_Kai_%26_Ko_Tub_5.jpg",
    "illustration": null,
    "requete": "Chicken Island Krabi",
    "fichier": "site-excursion-des-4-iles-poda-chicken-tup-phra-nang.jpg"
@@ -162,9 +163,9 @@
    "fichier": "hebergement-avani-koh-lanta.jpg"
   },
   "hebergement-royal-lanta-resort": {
-   "credit": "Dirk Enthoven, CC BY 3.0, via Wikimedia Commons",
-   "titre": "File:Mangroven in koh lanta- krabi thailand - panoramio.jpg",
-   "page": "https://commons.wikimedia.org/wiki/File:Mangroven_in_koh_lanta-_krabi_thailand_-_panoramio.jpg",
+   "credit": "Wanjak Atikomchakorn, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:1062-mu-koh-lanta-national-park-02.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:1062-mu-koh-lanta-national-park-02.jpg",
    "illustration": "Koh Lanta",
    "requete": "Koh Lanta Krabi Thailand",
    "fichier": "hebergement-royal-lanta-resort.jpg"
@@ -202,49 +203,49 @@
    "fichier": "restaurant-tee-restaurant-in-the-jungle.jpg"
   },
   "restaurant-krabi-town-night-market": {
-   "credit": "Edson Aoki, CC BY-SA 3.0, via Wikimedia Commons",
-   "titre": "File:Krabi Night Market (cropped).JPG",
-   "page": "https://commons.wikimedia.org/wiki/File:Krabi_Night_Market_(cropped).JPG",
-   "illustration": null,
-   "requete": "Krabi town night market",
+   "credit": "kallerna, CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:Krabi town 6.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Krabi_town_6.jpg",
+   "illustration": "Krabi Town",
+   "requete": "Krabi Town Krabi Thailand",
    "fichier": "restaurant-krabi-town-night-market.jpg"
   },
   "restaurant-railay-family-restaurant": {
-   "credit": "Phuket@photographer.net from Phuket, Thailand, CC BY 2.0, via Wikimedia Commons",
-   "titre": "File:Sunset at Railay beach, Krabi, Thailand (37893931256).jpg",
-   "page": "https://commons.wikimedia.org/wiki/File:Sunset_at_Railay_beach,_Krabi,_Thailand_(37893931256).jpg",
-   "illustration": "Railay",
-   "requete": "Railay beach Krabi Thailand",
-   "fichier": "restaurant-railay-family-restaurant.jpg"
-  },
-  "restaurant-railay-beach-cafe": {
    "credit": "Karelj, Public domain, via Wikimedia Commons",
    "titre": "File:Railay beach, Krabi province, Thailand 2018 5.jpg",
    "page": "https://commons.wikimedia.org/wiki/File:Railay_beach,_Krabi_province,_Thailand_2018_5.jpg",
    "illustration": "Railay",
    "requete": "Railay beach Krabi Thailand",
+   "fichier": "restaurant-railay-family-restaurant.jpg"
+  },
+  "restaurant-railay-beach-cafe": {
+   "credit": "Karelj, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Railay beach, Krabi province, Thailand 2018 1.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Railay_beach,_Krabi_province,_Thailand_2018_1.jpg",
+   "illustration": "Railay",
+   "requete": "Railay beach Krabi Thailand",
    "fichier": "restaurant-railay-beach-cafe.jpg"
   },
   "restaurant-laanta-seafood": {
-   "credit": "Ilse Reijs and Jan-Noud Hutten, CC BY 2.0, via Wikimedia Commons",
-   "titre": "File:2010 Thailand Koh Phi Phi & Lanta scuba diving2.jpg",
-   "page": "https://commons.wikimedia.org/wiki/File:2010_Thailand_Koh_Phi_Phi_%26_Lanta_scuba_diving2.jpg",
+   "credit": "Jmex, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:KOH LANTA BRIDGE.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:KOH_LANTA_BRIDGE.jpg",
    "illustration": "Koh Lanta",
    "requete": "Koh Lanta Krabi Thailand",
    "fichier": "restaurant-laanta-seafood.jpg"
   },
   "restaurant-veedvew-beach-bar": {
-   "credit": "Ilse Reijs and Jan-Noud Hutten, CC BY 2.0, via Wikimedia Commons",
-   "titre": "File:2010 Thailand Koh Phi Phi & Lanta scuba diving3.jpg",
-   "page": "https://commons.wikimedia.org/wiki/File:2010_Thailand_Koh_Phi_Phi_%26_Lanta_scuba_diving3.jpg",
+   "credit": "Kritchayathorn, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Mu Ko Lanta National Park.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Mu_Ko_Lanta_National_Park.jpg",
    "illustration": "Koh Lanta",
    "requete": "Koh Lanta Krabi Thailand",
    "fichier": "restaurant-veedvew-beach-bar.jpg"
   },
   "restaurant-dirty-fish-beach-bistro": {
-   "credit": "Ilse Reijs and Jan-Noud Hutten, CC BY 2.0, via Wikimedia Commons",
-   "titre": "File:2010 Thailand Koh Phi Phi & Lanta scuba diving1.jpg",
-   "page": "https://commons.wikimedia.org/wiki/File:2010_Thailand_Koh_Phi_Phi_%26_Lanta_scuba_diving1.jpg",
+   "credit": "Krzysztof Golik, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Main road in Ko Lanta (4).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Main_road_in_Ko_Lanta_(4).jpg",
    "illustration": "Koh Lanta",
    "requete": "Koh Lanta Krabi Thailand",
    "fichier": "restaurant-dirty-fish-beach-bistro.jpg"
@@ -282,9 +283,9 @@
    "fichier": "plat-gai-tod.jpg"
   },
   "plat-tom-kha-gai": {
-   "credit": "lydiajoy1, CC BY 2.0, via Wikimedia Commons",
-   "titre": "File:Tom kha gai2.jpg",
-   "page": "https://commons.wikimedia.org/wiki/File:Tom_kha_gai2.jpg",
+   "credit": "Vyacheslav Argenberg, CC BY 4.0, via Wikimedia Commons",
+   "titre": "File:Chiang Mai, Thailand, Tom Kha, Thai coconut soup.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Chiang_Mai,_Thailand,_Tom_Kha,_Thai_coconut_soup.jpg",
    "illustration": null,
    "requete": "Tom kha kai",
    "fichier": "plat-tom-kha-gai.jpg"
@@ -306,9 +307,9 @@
    "fichier": "plat-mango-sticky-rice.jpg"
   },
   "plat-roti-banane": {
-   "credit": "Takeaway, CC BY-SA 3.0, via Wikimedia Commons",
-   "titre": "File:Roti kluai khai chiang mai 04.jpg",
-   "page": "https://commons.wikimedia.org/wiki/File:Roti_kluai_khai_chiang_mai_04.jpg",
+   "credit": "Andrea Schaffer from Sydney, Australia, CC BY 2.0, via Wikimedia Commons",
+   "titre": "File:Banana rotee stall (11900303024).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Banana_rotee_stall_(11900303024).jpg",
    "illustration": null,
    "requete": "Roti banana Thailand",
    "fichier": "plat-roti-banane.jpg"
@@ -338,5 +339,84 @@
    "fichier": "base-koh-lanta-klong-dao-5-a-6-nuits.jpg"
   }
  },
- "manquants": []
+ "manquants": [],
+ "videos": {
+  "general-0": {
+   "url": "https://www.youtube.com/watch?v=8gmPJL1Q_TI",
+   "titre": "The ONLY Krabi Itinerary You Will EVER Need (2026)",
+   "chaine": "Bangkok Jack",
+   "duree": 458,
+   "vues": 123941
+  },
+  "general-1": {
+   "url": "https://www.youtube.com/watch?v=rWTQRSjrgkI",
+   "titre": "Exploring KOH LANTA For A Week 🇹🇭",
+   "chaine": "Paddy Doyle",
+   "duree": 1779,
+   "vues": 175319
+  },
+  "plage-phra-nang-railay": {
+   "url": "https://www.youtube.com/watch?v=zkGCXxey4Tk",
+   "titre": "RAILAY BEACH Krabi Is it the BEST BEACH? How to get there Full Walking Street Tour",
+   "chaine": "Global Travel Mate",
+   "duree": 1216,
+   "vues": 83019
+  },
+  "plage-koh-poda": {
+   "url": "https://www.youtube.com/watch?v=q5BCNlyMaU4",
+   "titre": "Poda Island and Krabi's 4 Island Tour - BEST Day trip from Krabi",
+   "chaine": "Chase for Adventure",
+   "duree": 470,
+   "vues": 60488
+  },
+  "plage-klong-dao-koh-lanta": {
+   "url": "https://www.youtube.com/watch?v=coGhPM2GNtM",
+   "titre": "This Island is Better Than Phuket (But Nobody Talks About It) 🇹🇭 Koh Lanta Thailand Vlog",
+   "chaine": "TrekList [Dean and Tess]",
+   "duree": 1485,
+   "vues": 77960
+  },
+  "plage-nui-bay-koh-lanta": {
+   "url": "https://www.youtube.com/watch?v=JtwGJ6pNCSc",
+   "titre": "Nui Beach Koh Lanta Thailand Full HD",
+   "chaine": "kapumail",
+   "duree": 243,
+   "vues": 46127
+  },
+  "site-excursion-des-4-iles-poda-chicken-tup-phra-nang": {
+   "url": "https://www.youtube.com/watch?v=FGOPVsQOQGY",
+   "titre": "exploring Krabi, Thailand 🇹🇭 island tour, night markets, beaches | solo travel vlog",
+   "chaine": "Celine ♡",
+   "duree": 1442,
+   "vues": 278334
+  },
+  "site-emerald-pool-et-hot-springs": {
+   "url": "https://www.youtube.com/watch?v=GfoSqk7Q38c",
+   "titre": "Krabi - Hot Springs + Emerald Pool + Tiger Cave Temple Tour | Complete Guide",
+   "chaine": "World Ghoomo",
+   "duree": 729,
+   "vues": 89045
+  },
+  "site-lanta-old-town": {
+   "url": "https://www.youtube.com/watch?v=ttbgouD0Y8o",
+   "titre": "What to do in Koh Lanta Old Town? 🇹🇭 | Krabi, Thailand",
+   "chaine": "Feeding Foca",
+   "duree": 958,
+   "vues": 11832
+  },
+  "site-hong-islands-lagon": {
+   "url": "https://www.youtube.com/watch?v=eJv4Q8OLQv8",
+   "titre": "HONG ISLAND Krabi BEST 4 Island Tour 🇹🇭 Thailand",
+   "chaine": "Global Travel Mate",
+   "duree": 767,
+   "vues": 122887
+  },
+  "restaurant-krabi-town-night-market": {
+   "url": "https://www.youtube.com/watch?v=blZOoTsmKtc",
+   "titre": "Is Ao Nang Landmark Krabi's BEST Night Market? 🇹🇭 Our Honest Opinion (with prices)",
+   "chaine": "Where Next Family",
+   "duree": 823,
+   "vues": 23150
+  }
+ }
 }
