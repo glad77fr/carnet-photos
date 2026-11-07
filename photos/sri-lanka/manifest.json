@@ -1,0 +1,534 @@
+{
+ "_hash": "28ec562d52ce3295c3a0e8a49915815c47f5c485",
+ "_demande": "662fd05bb8f8a99d46ea432332340770fe04c43f",
+ "photos": {
+  "plage-plage-de-bentota-ventura-beach": {
+   "credit": "Vincent van Zeijst, CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:Sri Lanka, Bentota, beach (1).JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Sri_Lanka,_Bentota,_beach_(1).JPG",
+   "illustration": null,
+   "requete": "Bentota beach Sri Lanka",
+   "fichier": "plage-plage-de-bentota-ventura-beach.jpg"
+  },
+  "plage-plage-d-unawatuna": {
+   "credit": "Bernard Gagnon, CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:Unawatuna.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Unawatuna.jpg",
+   "illustration": null,
+   "requete": "Unawatuna beach",
+   "fichier": "plage-plage-d-unawatuna.jpg"
+  },
+  "plage-jungle-beach": {
+   "credit": "Hirushini Dematagoda, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Jungle Beach, Unawatuna, Sri Lanka.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Jungle_Beach,_Unawatuna,_Sri_Lanka.jpg",
+   "illustration": null,
+   "requete": "Jungle Beach Unawatuna",
+   "fichier": "plage-jungle-beach.jpg"
+  },
+  "plage-plage-de-dalawella-wijaya-beach": {
+   "credit": "Umeshani Wickramanayake, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:White sands of Dalawella.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:White_sands_of_Dalawella.jpg",
+   "illustration": null,
+   "requete": "Dalawella beach",
+   "fichier": "plage-plage-de-dalawella-wijaya-beach.jpg"
+  },
+  "plage-plage-de-hiriketiya": {
+   "credit": "Thedani Karasnagoda, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Mirissa sea 1.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Mirissa_sea_1.jpg",
+   "illustration": "Mirissa",
+   "requete": "Mirissa beach Sri Lanka",
+   "fichier": "plage-plage-de-hiriketiya.jpg"
+  },
+  "plage-plage-de-mirissa": {
+   "credit": "Ji-Elle, CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:Mirissa-Plage (3).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Mirissa-Plage_(3).jpg",
+   "illustration": null,
+   "requete": "Mirissa beach",
+   "fichier": "plage-plage-de-mirissa.jpg"
+  },
+  "site-fort-de-galle": {
+   "credit": "A.Savin, FAL, via Wikimedia Commons",
+   "titre": "File:SL Galle Fort asv2020-01 img24.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:SL_Galle_Fort_asv2020-01_img24.jpg",
+   "illustration": null,
+   "requete": "Galle Fort",
+   "fichier": "site-fort-de-galle.jpg"
+  },
+  "site-pagode-japonaise-de-la-paix": {
+   "credit": "MHFAfra, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Japanese peace pagoda in Rumassala,Unawatuna.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Japanese_peace_pagoda_in_Rumassala,Unawatuna.jpg",
+   "illustration": null,
+   "requete": "Japanese Peace Pagoda Rumassala",
+   "fichier": "site-pagode-japonaise-de-la-paix.jpg"
+  },
+  "site-riviere-madu-en-bateau-option-a": {
+   "credit": "Kalaiarasy, CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:Madu Ganga.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Madu_Ganga.jpg",
+   "illustration": null,
+   "requete": "Madu Ganga mangrove",
+   "fichier": "site-riviere-madu-en-bateau-option-a.jpg"
+  },
+  "site-centre-de-tortues-de-galbokka-option-a": {
+   "credit": "Jerzy Strzelecki, CC BY 3.0, via Wikimedia Commons",
+   "titre": "File:Hawksbill-sea-turtle1(js).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Hawksbill-sea-turtle1(js).jpg",
+   "illustration": null,
+   "requete": "sea turtle hatchery Sri Lanka",
+   "fichier": "site-centre-de-tortues-de-galbokka-option-a.jpg"
+  },
+  "site-safari-dans-le-parc-d-udawalawe-option-a": {
+   "credit": "Z thomas, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Udawalawe Elephant Transit Home 2017-10-27 (8).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Udawalawe_Elephant_Transit_Home_2017-10-27_(8).jpg",
+   "illustration": null,
+   "requete": "Udawalawe elephants",
+   "fichier": "site-safari-dans-le-parc-d-udawalawe-option-a.jpg"
+  },
+  "site-elephant-transit-home-option-a": {
+   "credit": "Z thomas, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Udawalawe Elephant Transit Home 2017-10-27 (31).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Udawalawe_Elephant_Transit_Home_2017-10-27_(31).jpg",
+   "illustration": null,
+   "requete": "Elephant Transit Home Udawalawe",
+   "fichier": "site-elephant-transit-home-option-a.jpg"
+  },
+  "site-sortie-baleines-a-mirissa": {
+   "credit": "Arian Zwegers, CC BY 2.0, via Wikimedia Commons",
+   "titre": "File:Mirissa, whale watching, blue whale (6918166357).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Mirissa,_whale_watching,_blue_whale_(6918166357).jpg",
+   "illustration": null,
+   "requete": "blue whale Mirissa",
+   "fichier": "site-sortie-baleines-a-mirissa.jpg"
+  },
+  "site-safari-elephants-de-minneriya-option-b": {
+   "credit": "GNethma, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Herd of elephants lephants at Minneriya National Park.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Herd_of_elephants_lephants_at_Minneriya_National_Park.jpg",
+   "illustration": null,
+   "requete": "Minneriya elephants",
+   "fichier": "site-safari-elephants-de-minneriya-option-b.jpg"
+  },
+  "site-rocher-de-sigiriya-option-b": {
+   "credit": "Bernard Gagnon, CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:Sigiriya.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Sigiriya.jpg",
+   "illustration": null,
+   "requete": "Sigiriya rock",
+   "fichier": "site-rocher-de-sigiriya-option-b.jpg"
+  },
+  "site-temple-grotte-de-dambulla-option-b": {
+   "credit": "Pierre André Leclercq, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Mucalinda in Dambulla cave temple (2015).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Mucalinda_in_Dambulla_cave_temple_(2015).jpg",
+   "illustration": null,
+   "requete": "Dambulla cave temple",
+   "fichier": "site-temple-grotte-de-dambulla-option-b.jpg"
+  },
+  "site-temple-de-la-dent-a-kandy-option-b": {
+   "credit": "Vyacheslav Argenberg, CC BY 4.0, via Wikimedia Commons",
+   "titre": "File:Sri Lanka, Kandy, Temple of the Tooth, Sri Dalada Maligawa.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Sri_Lanka,_Kandy,_Temple_of_the_Tooth,_Sri_Dalada_Maligawa.jpg",
+   "illustration": null,
+   "requete": "Temple of the Tooth Kandy",
+   "fichier": "site-temple-de-la-dent-a-kandy-option-b.jpg"
+  },
+  "site-jardin-botanique-de-peradeniya-option-b": {
+   "credit": "Vyacheslav Argenberg, CC BY 4.0, via Wikimedia Commons",
+   "titre": "File:Sri Lanka, Peradeniya Botanical Gardens, Landscaped Forest.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Sri_Lanka,_Peradeniya_Botanical_Gardens,_Landscaped_Forest.jpg",
+   "illustration": null,
+   "requete": "Peradeniya botanical garden",
+   "fichier": "site-jardin-botanique-de-peradeniya-option-b.jpg"
+  },
+  "site-coucher-de-soleil-sur-les-remparts-de-galle": {
+   "credit": "Philip Nalangan, CC BY 4.0, via Wikimedia Commons",
+   "titre": "File:Galle Lighthouse 1.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Galle_Lighthouse_1.jpg",
+   "illustration": null,
+   "requete": "Galle lighthouse",
+   "fichier": "site-coucher-de-soleil-sur-les-remparts-de-galle.jpg"
+  },
+  "site-spectacle-de-danses-kandyennes-option-b": {
+   "credit": "Philip Nalangan, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Kandyan Dance Kandy Sri Lanka 2.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Kandyan_Dance_Kandy_Sri_Lanka_2.jpg",
+   "illustration": null,
+   "requete": "Kandyan dance",
+   "fichier": "site-spectacle-de-danses-kandyennes-option-b.jpg"
+  },
+  "site-ceremonie-du-soir-au-temple-de-la-dent-option-b": {
+   "credit": "Nalin.Adikaram, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Kandy by night.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Kandy_by_night.jpg",
+   "illustration": null,
+   "requete": "Kandy lake temple night",
+   "fichier": "site-ceremonie-du-soir-au-temple-de-la-dent-option-b.jpg"
+  },
+  "hebergement-ziegler-cottage": {
+   "credit": "Steffen Schmitz (more photos), CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Negombo, Beach, 2025-08 CN-01.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Negombo,_Beach,_2025-08_CN-01.jpg",
+   "illustration": "Negombo",
+   "requete": "Negombo beach Sri Lanka",
+   "fichier": "hebergement-ziegler-cottage.jpg"
+  },
+  "hebergement-jetwing-thalahena-villas": {
+   "credit": "Steffen Schmitz (more photos), CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Negombo, Beach, 2025-08 CN-02.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Negombo,_Beach,_2025-08_CN-02.jpg",
+   "illustration": "Negombo",
+   "requete": "Negombo beach Sri Lanka",
+   "fichier": "hebergement-jetwing-thalahena-villas.jpg"
+  },
+  "hebergement-cinnamon-bentota-beach": {
+   "credit": "Vincent van Zeijst, CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:Sri Lanka, Bentota, beach (2).JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Sri_Lanka,_Bentota,_beach_(2).JPG",
+   "illustration": "Bentota",
+   "requete": "Bentota beach Sri Lanka",
+   "fichier": "hebergement-cinnamon-bentota-beach.jpg"
+  },
+  "hebergement-bentota-ceysands-resort": {
+   "credit": "Rambukwelladk, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Bentota beach in evening.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Bentota_beach_in_evening.jpg",
+   "illustration": "Bentota",
+   "requete": "Bentota beach Sri Lanka",
+   "fichier": "hebergement-bentota-ceysands-resort.jpg"
+  },
+  "hebergement-dhalaya-safari-resort": {
+   "credit": "M.S Dulan De Silva, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Landscape in Udawalawe National Park, Sri Lanka.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Landscape_in_Udawalawe_National_Park,_Sri_Lanka.jpg",
+   "illustration": "Udawalawe",
+   "requete": "Udawalawe Sri Lanka",
+   "fichier": "hebergement-dhalaya-safari-resort.jpg"
+  },
+  "hebergement-grand-udawalawe-safari-resort": {
+   "credit": "M.S Dulan De Silva, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Changeable hawk-eagle in flight in Udawalawe, Sri lanka. 12.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Changeable_hawk-eagle_in_flight_in_Udawalawe,_Sri_lanka._12.jpg",
+   "illustration": "Udawalawe",
+   "requete": "Udawalawe Sri Lanka",
+   "fichier": "hebergement-grand-udawalawe-safari-resort.jpg"
+  },
+  "hebergement-cinnamon-citadel-kandy": {
+   "credit": "A.Savin, FAL, via Wikimedia Commons",
+   "titre": "File:SL Kandy asv2020-01 img34 Sacred Tooth Temple.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:SL_Kandy_asv2020-01_img34_Sacred_Tooth_Temple.jpg",
+   "illustration": "Kandy",
+   "requete": "Kandy Sri Lanka",
+   "fichier": "hebergement-cinnamon-citadel-kandy.jpg"
+  },
+  "hebergement-thilanka-hotel": {
+   "credit": "Satdeep Gill, CC BY 4.0, via Wikimedia Commons",
+   "titre": "File:Cinereous tit in Kandy, Sri Lanka - 02.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Cinereous_tit_in_Kandy,_Sri_Lanka_-_02.jpg",
+   "illustration": "Kandy",
+   "requete": "Kandy Sri Lanka",
+   "fichier": "hebergement-thilanka-hotel.jpg"
+  },
+  "hebergement-amari-galle": {
+   "credit": "Sachinthana Prabhashini Yatamalagala Pathiranage, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Galle Sri Lanka.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Galle_Sri_Lanka.jpg",
+   "illustration": "Galle Sri Lanka",
+   "requete": "Galle Sri Lanka beach Sri Lanka",
+   "fichier": "hebergement-amari-galle.jpg"
+  },
+  "hebergement-jetwing-lighthouse": {
+   "credit": "amiladiman, CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:Jetwing Lighthouse - panoramio.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Jetwing_Lighthouse_-_panoramio.jpg",
+   "illustration": null,
+   "requete": "Jetwing Lighthouse Sri Lanka",
+   "fichier": "hebergement-jetwing-lighthouse.jpg"
+  },
+  "hebergement-villa-a-bentota-option-a": {
+   "credit": "Pavan Lulla, CC BY 3.0, via Wikimedia Commons",
+   "titre": "File:Bentota Beach Rocks - panoramio.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Bentota_Beach_Rocks_-_panoramio.jpg",
+   "illustration": "Bentota",
+   "requete": "Bentota beach Sri Lanka",
+   "fichier": "hebergement-villa-a-bentota-option-a.jpg"
+  },
+  "hebergement-villa-a-unawatuna-ou-dalawella": {
+   "credit": "Ruchira159, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Unawatuna beach sri lanka.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Unawatuna_beach_sri_lanka.jpg",
+   "illustration": "Unawatuna",
+   "requete": "Unawatuna beach Sri Lanka",
+   "fichier": "hebergement-villa-a-unawatuna-ou-dalawella.jpg"
+  },
+  "restaurant-ocean-14-beach-restaurant": {
+   "credit": "S B from Sydney, Australia, CC BY 2.0, via Wikimedia Commons",
+   "titre": "File:Negombo Beach, Sri Lanka.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Negombo_Beach,_Sri_Lanka.jpg",
+   "illustration": "Negombo",
+   "requete": "Negombo beach Sri Lanka",
+   "fichier": "restaurant-ocean-14-beach-restaurant.jpg"
+  },
+  "restaurant-olive-restaurant": {
+   "credit": "Pavan Lulla, CC BY 3.0, via Wikimedia Commons",
+   "titre": "File:Bentota Beach - panoramio (3).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Bentota_Beach_-_panoramio_(3).jpg",
+   "illustration": "Bentota",
+   "requete": "Bentota beach Sri Lanka",
+   "fichier": "restaurant-olive-restaurant.jpg"
+  },
+  "restaurant-ceylon-taste": {
+   "credit": "Pavan Lulla, CC BY 3.0, via Wikimedia Commons",
+   "titre": "File:Bentota Beach - panoramio (1).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Bentota_Beach_-_panoramio_(1).jpg",
+   "illustration": "Bentota",
+   "requete": "Bentota beach Sri Lanka",
+   "fichier": "restaurant-ceylon-taste.jpg"
+  },
+  "restaurant-cadjan-restaurant": {
+   "credit": "M.S Dulan De Silva, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Changeable hawk-eagle in flight in Udawalawe, Sri lanka. 11.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Changeable_hawk-eagle_in_flight_in_Udawalawe,_Sri_lanka._11.jpg",
+   "illustration": "Udawalawe",
+   "requete": "Udawalawe Sri Lanka",
+   "fichier": "restaurant-cadjan-restaurant.jpg"
+  },
+  "restaurant-lucky-fort-restaurant": {
+   "credit": "dronepicr, CC BY 2.0, via Wikimedia Commons",
+   "titre": "File:Galle beach Sri Lanka (29779096390).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Galle_beach_Sri_Lanka_(29779096390).jpg",
+   "illustration": "Galle",
+   "requete": "Galle beach Sri Lanka",
+   "fichier": "restaurant-lucky-fort-restaurant.jpg"
+  },
+  "restaurant-pedlar-s-inn-cafe": {
+   "credit": "Daibo Taku, CC BY 3.0, via Wikimedia Commons",
+   "titre": "File:Fort, Galle 80000, Sri Lanka - panoramio (54).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Fort,_Galle_80000,_Sri_Lanka_-_panoramio_(54).jpg",
+   "illustration": "Galle",
+   "requete": "Galle beach Sri Lanka",
+   "fichier": "restaurant-pedlar-s-inn-cafe.jpg"
+  },
+  "restaurant-wijaya-beach": {
+   "credit": "Samal Nadeeshan, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Wijaya beach Unawatuna Sri Lanka.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Wijaya_beach_Unawatuna_Sri_Lanka.jpg",
+   "illustration": null,
+   "requete": "Wijaya Beach Sri Lanka",
+   "fichier": "restaurant-wijaya-beach.jpg"
+  },
+  "restaurant-grandgers-unawatuna": {
+   "credit": "anjana.sudam, CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:Unawatuna beach - panoramio.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Unawatuna_beach_-_panoramio.jpg",
+   "illustration": "Unawatuna",
+   "requete": "Unawatuna beach Sri Lanka",
+   "fichier": "restaurant-grandgers-unawatuna.jpg"
+  },
+  "restaurant-red-snapper": {
+   "credit": "Geeklikepi, CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:Red Snapper.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Red_Snapper.jpg",
+   "illustration": null,
+   "requete": "Red Snapper",
+   "fichier": "restaurant-red-snapper.jpg"
+  },
+  "restaurant-ceylon-spicy-house": {
+   "credit": "Bernard Gagnon, CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:Sigiriya 02.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Sigiriya_02.jpg",
+   "illustration": "Sigiriya",
+   "requete": "Sigiriya Sri Lanka",
+   "fichier": "restaurant-ceylon-spicy-house.jpg"
+  },
+  "restaurant-kaluwara-option-b": {
+   "credit": "Ji-Elle, CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:Kaluwara-Diospyros ebenum-Sri Lanka (2).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Kaluwara-Diospyros_ebenum-Sri_Lanka_(2).jpg",
+   "illustration": null,
+   "requete": "Kaluwara Sri Lanka",
+   "fichier": "restaurant-kaluwara-option-b.jpg"
+  },
+  "restaurant-the-empire-cafe-option-b": {
+   "credit": "Satdeep Gill, CC BY 4.0, via Wikimedia Commons",
+   "titre": "File:Cinereous tit in Kandy, Sri Lanka - 01.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Cinereous_tit_in_Kandy,_Sri_Lanka_-_01.jpg",
+   "illustration": "Kandy",
+   "requete": "Kandy Sri Lanka",
+   "fichier": "restaurant-the-empire-cafe-option-b.jpg"
+  },
+  "plat-rice-and-curry": {
+   "credit": "Ocdp, CC0, via Wikimedia Commons",
+   "titre": "File:Beef curry rice 003.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Beef_curry_rice_003.jpg",
+   "illustration": null,
+   "requete": "Sri Lankan rice and curry",
+   "fichier": "plat-rice-and-curry.jpg"
+  },
+  "plat-egg-hopper": {
+   "credit": "Ji-Elle, CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:Sri Lanka-Egg hoppers.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Sri_Lanka-Egg_hoppers.jpg",
+   "illustration": null,
+   "requete": "Egg hopper Sri Lanka",
+   "fichier": "plat-egg-hopper.jpg"
+  },
+  "plat-kottu-roti": {
+   "credit": "Dankesie, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Kottu Roti (mit Meeresfrüchten).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Kottu_Roti_(mit_Meeresfr%C3%BCchten).jpg",
+   "illustration": null,
+   "requete": "Kottu roti",
+   "fichier": "plat-kottu-roti.jpg"
+  },
+  "plat-dhal-curry-parippu": {
+   "credit": "Alpha from Melbourne, Australia, CC BY-SA 2.0, via Wikimedia Commons",
+   "titre": "File:Roti with Dhal and Chicken Curry Sauce, Chicken Curry Puff - Rich Maha AUD4, AUD2 (4635003943).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Roti_with_Dhal_and_Chicken_Curry_Sauce,_Chicken_Curry_Puff_-_Rich_Maha_AUD4,_AUD2_(4635003943).jpg",
+   "illustration": null,
+   "requete": "Dhal curry",
+   "fichier": "plat-dhal-curry-parippu.jpg"
+  },
+  "plat-string-hoppers": {
+   "credit": "Ramesh NG, CC BY-SA 2.0, via Wikimedia Commons",
+   "titre": "File:Idiyappam - Kerala.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Idiyappam_-_Kerala.jpg",
+   "illustration": null,
+   "requete": "String hoppers",
+   "fichier": "plat-string-hoppers.jpg"
+  },
+  "plat-pol-sambol": {
+   "credit": "Dan arndt, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Pol Sambol.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Pol_Sambol.jpg",
+   "illustration": null,
+   "requete": "Pol sambol coconut",
+   "fichier": "plat-pol-sambol.jpg"
+  },
+  "plat-curd-and-treacle": {
+   "credit": "Ji-Elle, CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:Curd & treacle-Sri Lanka.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Curd_%26_treacle-Sri_Lanka.jpg",
+   "illustration": null,
+   "requete": "Curd and treacle Sri Lanka",
+   "fichier": "plat-curd-and-treacle.jpg"
+  },
+  "plat-king-coconut-thambili": {
+   "credit": "Aquinas Silva, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:King Coconuts.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:King_Coconuts.jpg",
+   "illustration": null,
+   "requete": "King coconut Sri Lanka",
+   "fichier": "plat-king-coconut-thambili.jpg"
+  },
+  "base-bentota-4-nuits": {
+   "credit": "Pavan Lulla, CC BY 3.0, via Wikimedia Commons",
+   "titre": "File:Bentota Beach - panoramio (2).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Bentota_Beach_-_panoramio_(2).jpg",
+   "illustration": null,
+   "requete": "Bentota beach",
+   "fichier": "base-bentota-4-nuits.jpg"
+  },
+  "base-udawalawe-2-nuits": {
+   "credit": "Sanduweragoda, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Udawalawe Elephants Sri Lanka.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Udawalawe_Elephants_Sri_Lanka.jpg",
+   "illustration": null,
+   "requete": "Udawalawe elephants",
+   "fichier": "base-udawalawe-2-nuits.jpg"
+  },
+  "base-habarana-4-nuits": {
+   "credit": "Yourusernamewillbepublic2, CC0, via Wikimedia Commons",
+   "titre": "File:Sigiriya rock from a distance.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Sigiriya_rock_from_a_distance.jpg",
+   "illustration": null,
+   "requete": "Sigiriya rock",
+   "fichier": "base-habarana-4-nuits.jpg"
+  },
+  "base-kandy-2-nuits": {
+   "credit": "AntanO, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Island of Kandy lake.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Island_of_Kandy_lake.JPG",
+   "illustration": null,
+   "requete": "Kandy lake",
+   "fichier": "base-kandy-2-nuits.jpg"
+  },
+  "base-unawatuna-6-nuits": {
+   "credit": "Aashaa, CC0, via Wikimedia Commons",
+   "titre": "File:Unawatuna Beach full view.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Unawatuna_Beach_full_view.jpg",
+   "illustration": null,
+   "requete": "Unawatuna beach",
+   "fichier": "base-unawatuna-6-nuits.jpg"
+  }
+ },
+ "manquants": [
+  "hebergement-habarana-village-by-cinnamon",
+  "hebergement-aliya-resort-spa",
+  "hebergement-calamander-unawatuna-beach",
+  "hebergement-rockside-cabanas"
+ ],
+ "videos": {
+  "general-0": {
+   "url": "https://www.youtube.com/watch?v=r45SDlI0vTs",
+   "titre": "Watch this BEFORE you come to Sri lanka | A locals guide",
+   "chaine": "Sheneller",
+   "duree": 1363,
+   "vues": 662912
+  },
+  "general-1": {
+   "url": "https://www.youtube.com/watch?v=yYuuDQbnvpU",
+   "titre": "Top 10 Places To Visit in Sri Lanka - Travel Guide",
+   "chaine": "Ryan Shirley",
+   "duree": 542,
+   "vues": 297152
+  },
+  "plage-plage-d-unawatuna": {
+   "url": "https://www.youtube.com/watch?v=f4zGHkR4m94",
+   "titre": "SRI LANKA'S FANTASTIC COAST! 🇱🇰 GALLE, UNAWATUNA & MIRISSA",
+   "chaine": "Jumping Places",
+   "duree": 1662,
+   "vues": 69653
+  },
+  "site-fort-de-galle": {
+   "url": "https://www.youtube.com/watch?v=DMIhGXWLNH4",
+   "titre": "Walking Through the Streets of Galle Fort, Sri Lanka | 4K Ultra HD Virtual Tour",
+   "chaine": "Street Walker",
+   "duree": 2330,
+   "vues": 4232
+  },
+  "site-riviere-madu-en-bateau-option-a": {
+   "url": "https://www.youtube.com/watch?v=HY218eU3KCk",
+   "titre": "Madu River Boat Safari | Sri Lanka | Chasing Sunsets | Fish Therapy | Benthota | Nomadic Duo",
+   "chaine": "Nomadic Duo - Sandu & Shamal",
+   "duree": 815,
+   "vues": 19371
+  },
+  "site-safari-dans-le-parc-d-udawalawe-option-a": {
+   "url": "https://www.youtube.com/watch?v=WR5ObguqYZ8",
+   "titre": "My SCARIEST safari experience in Udawalawe Sri Lanka 🇱🇰",
+   "chaine": "Tales of Odyssey",
+   "duree": 563,
+   "vues": 108196
+  },
+  "site-rocher-de-sigiriya-option-b": {
+   "url": "https://www.youtube.com/watch?v=uJQz2uWr2E8",
+   "titre": "Exploring the Sigiriya Rock Fortress in Sri Lanka",
+   "chaine": "Mike's Road Trip",
+   "duree": 303,
+   "vues": 349192
+  },
+  "site-spectacle-de-danses-kandyennes-option-b": {
+   "url": "https://www.youtube.com/watch?v=fdc3E4uO2rM",
+   "titre": "Kandyn Dance Performance For Srilanka Foundation Academiy Of Performaning Arts 2021.USA🇱🇰🇺🇲",
+   "chaine": "akila palipana dance studio",
+   "duree": 200,
+   "vues": 708768
+  }
+ }
+}
