@@ -1,10 +1,10 @@
 {
- "_hash": "23a31b25523eca4c2cc472a74aa3353971d58c32",
+ "_hash": "52497232a3c463c7746482a93803b769d5e78a86",
  "photos": {
   "plage-phra-nang-railay": {
    "credit": "kallerna, CC BY-SA 3.0, via Wikimedia Commons",
-   "titre": "File:Phra Nang beach panorama edit.jpg",
-   "page": "https://commons.wikimedia.org/wiki/File:Phra_Nang_beach_panorama_edit.jpg",
+   "titre": "File:Phra Nang beach 46.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Phra_Nang_beach_46.jpg",
    "illustration": null,
    "requete": "Phra Nang beach Railay",
    "fichier": "plage-phra-nang-railay.jpg"
@@ -27,8 +27,8 @@
   },
   "plage-tup-thale-waek-banc-de-sable": {
    "credit": "Maksym Kozlenko, CC BY-SA 4.0, via Wikimedia Commons",
-   "titre": "File:2016-04-14 Tup Island, Krabi Province 3.jpg",
-   "page": "https://commons.wikimedia.org/wiki/File:2016-04-14_Tup_Island,_Krabi_Province_3.jpg",
+   "titre": "File:2016-04-14 Tup Island, Krabi Province 1.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:2016-04-14_Tup_Island,_Krabi_Province_1.jpg",
    "illustration": null,
    "requete": "Ko Tup Krabi",
    "fichier": "plage-tup-thale-waek-banc-de-sable.jpg"
@@ -42,9 +42,9 @@
    "fichier": "plage-klong-dao-koh-lanta.jpg"
   },
   "plage-nui-bay-koh-lanta": {
-   "credit": "Alexey Komarov, CC BY-SA 4.0, via Wikimedia Commons",
-   "titre": "File:Sunset at Nui Beach, Ko Lanta Yai, April, 2018.jpg",
-   "page": "https://commons.wikimedia.org/wiki/File:Sunset_at_Nui_Beach,_Ko_Lanta_Yai,_April,_2018.jpg",
+   "credit": "Travelnikov, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Nui Bay, Ko Lanta, Thailand.png",
+   "page": "https://commons.wikimedia.org/wiki/File:Nui_Bay,_Ko_Lanta,_Thailand.png",
    "illustration": null,
    "requete": "Ko Lanta Nui beach",
    "fichier": "plage-nui-bay-koh-lanta.jpg"
@@ -57,20 +57,44 @@
    "requete": "Koh Lanta beach Krabi Thailand",
    "fichier": "plage-klong-jak-koh-lanta.jpg"
   },
+  "site-excursion-des-4-iles-poda-chicken-tup-phra-nang": {
+   "credit": "kallerna, CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:Ko Kai & Ko Tub 11.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Ko_Kai_%26_Ko_Tub_11.jpg",
+   "illustration": null,
+   "requete": "Chicken Island Krabi",
+   "fichier": "site-excursion-des-4-iles-poda-chicken-tup-phra-nang.jpg"
+  },
+  "site-emerald-pool-et-hot-springs": {
+   "credit": "Maksym Kozlenko, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Emerald Pool (Sa Morakot).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Emerald_Pool_(Sa_Morakot).jpg",
+   "illustration": null,
+   "requete": "Emerald Pool Krabi",
+   "fichier": "site-emerald-pool-et-hot-springs.jpg"
+  },
   "site-lanta-old-town": {
-   "credit": "Dronepicr, CC BY 3.0, via Wikimedia Commons",
-   "titre": "File:Strand In Koh Lanta Thailand (125165265).jpeg",
-   "page": "https://commons.wikimedia.org/wiki/File:Strand_In_Koh_Lanta_Thailand_(125165265).jpeg",
-   "illustration": "Koh Lanta",
-   "requete": "Koh Lanta beach Krabi Thailand",
+   "credit": "Stefan Fussan, CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:Ko Lanta - Lanta Old Town - 0049.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Ko_Lanta_-_Lanta_Old_Town_-_0049.jpg",
+   "illustration": null,
+   "requete": "Ko Lanta old town",
    "fichier": "site-lanta-old-town.jpg"
   },
+  "site-hong-islands-lagon": {
+   "credit": "Wolfgang Holzem, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:16.Ko Hong Island - Andaman Sea - Krabi Province, Thailand.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:16.Ko_Hong_Island_-_Andaman_Sea_-_Krabi_Province,_Thailand.jpg",
+   "illustration": null,
+   "requete": "Ko Hong Krabi",
+   "fichier": "site-hong-islands-lagon.jpg"
+  },
   "site-lagune-de-railay-princess-lagoon": {
-   "credit": "Vyacheslav Argenberg, CC BY 4.0, via Wikimedia Commons",
-   "titre": "File:Railay, Krabi, Thailand.jpg",
-   "page": "https://commons.wikimedia.org/wiki/File:Railay,_Krabi,_Thailand.jpg",
+   "credit": "kallerna, CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:Railay Beach 5.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Railay_Beach_5.jpg",
    "illustration": "Railay",
-   "requete": "Railay Krabi Thailand",
+   "requete": "Railay beach Krabi Thailand",
    "fichier": "site-lagune-de-railay-princess-lagoon.jpg"
   },
   "hebergement-centara-ao-nang-beach-resort": {
@@ -99,83 +123,163 @@
   },
   "hebergement-railay-village-resort": {
    "credit": "Vyacheslav Argenberg, CC BY 4.0, via Wikimedia Commons",
-   "titre": "File:Railay, Krabi, Boat, Thailand.jpg",
-   "page": "https://commons.wikimedia.org/wiki/File:Railay,_Krabi,_Boat,_Thailand.jpg",
+   "titre": "File:Railay, Krabi, Thailand.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Railay,_Krabi,_Thailand.jpg",
    "illustration": "Railay",
-   "requete": "Railay Krabi Thailand",
+   "requete": "Railay beach Krabi Thailand",
    "fichier": "hebergement-railay-village-resort.jpg"
   },
   "hebergement-sand-sea-resort": {
    "credit": "Karelj, CC BY 4.0, via Wikimedia Commons",
-   "titre": "File:East Railay Leh, Krabi province, Thailand 2018 6.jpg",
-   "page": "https://commons.wikimedia.org/wiki/File:East_Railay_Leh,_Krabi_province,_Thailand_2018_6.jpg",
+   "titre": "File:Railay beach, Krabi province, Thailand 2018 3.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Railay_beach,_Krabi_province,_Thailand_2018_3.jpg",
    "illustration": "Railay",
-   "requete": "Railay Krabi Thailand",
+   "requete": "Railay beach Krabi Thailand",
    "fichier": "hebergement-sand-sea-resort.jpg"
   },
   "hebergement-rayavadee": {
-   "credit": "Karelj, CC BY-SA 4.0, via Wikimedia Commons",
-   "titre": "File:East Railay Leh, Krabi province, Thailand 2018 7.jpg",
-   "page": "https://commons.wikimedia.org/wiki/File:East_Railay_Leh,_Krabi_province,_Thailand_2018_7.jpg",
+   "credit": "Karelj, Public domain, via Wikimedia Commons",
+   "titre": "File:Railay beach, Krabi province, Thailand 2018 2.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Railay_beach,_Krabi_province,_Thailand_2018_2.jpg",
    "illustration": "Railay",
-   "requete": "Railay Krabi Thailand",
+   "requete": "Railay beach Krabi Thailand",
    "fichier": "hebergement-rayavadee.jpg"
   },
-  "restaurant-kodam-kitchen": {
-   "credit": "kallerna, CC BY-SA 3.0, via Wikimedia Commons",
-   "titre": "File:Ao Nang beach panorama 2.jpg",
-   "page": "https://commons.wikimedia.org/wiki/File:Ao_Nang_beach_panorama_2.jpg",
-   "illustration": "Ao Nang",
-   "requete": "Ao Nang beach Krabi Thailand",
-   "fichier": "restaurant-kodam-kitchen.jpg"
+  "hebergement-southern-lanta-resort": {
+   "credit": "Dronepicr, CC BY 3.0, via Wikimedia Commons",
+   "titre": "File:Strand In Koh Lanta Thailand (125165265).jpeg",
+   "page": "https://commons.wikimedia.org/wiki/File:Strand_In_Koh_Lanta_Thailand_(125165265).jpeg",
+   "illustration": "Koh Lanta",
+   "requete": "Koh Lanta beach Krabi Thailand",
+   "fichier": "hebergement-southern-lanta-resort.jpg"
   },
-  "restaurant-family-thai-food-seafood": {
+  "hebergement-avani-koh-lanta": {
+   "credit": "Wanjak Atikomchakorn, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:1062-mu-koh-lanta-national-park-05.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:1062-mu-koh-lanta-national-park-05.jpg",
+   "illustration": "Koh Lanta",
+   "requete": "Koh Lanta Krabi Thailand",
+   "fichier": "hebergement-avani-koh-lanta.jpg"
+  },
+  "hebergement-royal-lanta-resort": {
+   "credit": "Dirk Enthoven, CC BY 3.0, via Wikimedia Commons",
+   "titre": "File:Mangroven in koh lanta- krabi thailand - panoramio.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Mangroven_in_koh_lanta-_krabi_thailand_-_panoramio.jpg",
+   "illustration": "Koh Lanta",
+   "requete": "Koh Lanta Krabi Thailand",
+   "fichier": "hebergement-royal-lanta-resort.jpg"
+  },
+  "restaurant-kodam-kitchen": {
    "credit": "kallerna, CC BY-SA 3.0, via Wikimedia Commons",
    "titre": "File:Ao Nang beach.jpg",
    "page": "https://commons.wikimedia.org/wiki/File:Ao_Nang_beach.jpg",
    "illustration": "Ao Nang",
    "requete": "Ao Nang beach Krabi Thailand",
-   "fichier": "restaurant-family-thai-food-seafood.jpg"
+   "fichier": "restaurant-kodam-kitchen.jpg"
   },
-  "restaurant-loong-wich": {
+  "restaurant-family-thai-food-seafood": {
    "credit": "Satdeep Gill, CC BY-SA 4.0, via Wikimedia Commons",
    "titre": "File:Ao Nang Beach, Krabi.jpg",
    "page": "https://commons.wikimedia.org/wiki/File:Ao_Nang_Beach,_Krabi.jpg",
    "illustration": "Ao Nang",
    "requete": "Ao Nang beach Krabi Thailand",
-   "fichier": "restaurant-loong-wich.jpg"
+   "fichier": "restaurant-family-thai-food-seafood.jpg"
   },
-  "restaurant-tee-restaurant-in-the-jungle": {
+  "restaurant-loong-wich": {
    "credit": "Максим Улитин, CC BY 3.0, via Wikimedia Commons",
    "titre": "File:Ao Nang, Mueang Krabi District, Krabi, Thailand - panoramio (85).jpg",
    "page": "https://commons.wikimedia.org/wiki/File:Ao_Nang,_Mueang_Krabi_District,_Krabi,_Thailand_-_panoramio_(85).jpg",
+   "illustration": "Ao Nang",
+   "requete": "Ao Nang beach Krabi Thailand",
+   "fichier": "restaurant-loong-wich.jpg"
+  },
+  "restaurant-tee-restaurant-in-the-jungle": {
+   "credit": "siraprapa khrueakaeo…, CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:Ao Nang Krabi,Thailand - panoramio.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Ao_Nang_Krabi,Thailand_-_panoramio.jpg",
    "illustration": "Ao Nang",
    "requete": "Ao Nang beach Krabi Thailand",
    "fichier": "restaurant-tee-restaurant-in-the-jungle.jpg"
   },
   "restaurant-krabi-town-night-market": {
    "credit": "Edson Aoki, CC BY-SA 3.0, via Wikimedia Commons",
-   "titre": "File:Krabi Night Market.JPG",
-   "page": "https://commons.wikimedia.org/wiki/File:Krabi_Night_Market.JPG",
+   "titre": "File:Krabi Night Market (cropped).JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Krabi_Night_Market_(cropped).JPG",
    "illustration": null,
    "requete": "Krabi town night market",
    "fichier": "restaurant-krabi-town-night-market.jpg"
   },
   "restaurant-railay-family-restaurant": {
-   "credit": "kallerna, CC BY-SA 3.0, via Wikimedia Commons",
-   "titre": "File:Railay Beach 5.jpg",
-   "page": "https://commons.wikimedia.org/wiki/File:Railay_Beach_5.jpg",
+   "credit": "Phuket@photographer.net from Phuket, Thailand, CC BY 2.0, via Wikimedia Commons",
+   "titre": "File:Sunset at Railay beach, Krabi, Thailand (37893931256).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Sunset_at_Railay_beach,_Krabi,_Thailand_(37893931256).jpg",
    "illustration": "Railay",
    "requete": "Railay beach Krabi Thailand",
    "fichier": "restaurant-railay-family-restaurant.jpg"
   },
   "restaurant-railay-beach-cafe": {
-   "credit": "Karelj, CC BY-SA 3.0 us, via Wikimedia Commons",
-   "titre": "File:Railay beach, waste, Krabi province, Thailand 2018 1.jpg",
-   "page": "https://commons.wikimedia.org/wiki/File:Railay_beach,_waste,_Krabi_province,_Thailand_2018_1.jpg",
+   "credit": "Karelj, Public domain, via Wikimedia Commons",
+   "titre": "File:Railay beach, Krabi province, Thailand 2018 5.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Railay_beach,_Krabi_province,_Thailand_2018_5.jpg",
    "illustration": "Railay",
    "requete": "Railay beach Krabi Thailand",
    "fichier": "restaurant-railay-beach-cafe.jpg"
+  },
+  "restaurant-laanta-seafood": {
+   "credit": "Ilse Reijs and Jan-Noud Hutten, CC BY 2.0, via Wikimedia Commons",
+   "titre": "File:2010 Thailand Koh Phi Phi & Lanta scuba diving2.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:2010_Thailand_Koh_Phi_Phi_%26_Lanta_scuba_diving2.jpg",
+   "illustration": "Koh Lanta",
+   "requete": "Koh Lanta Krabi Thailand",
+   "fichier": "restaurant-laanta-seafood.jpg"
+  },
+  "restaurant-veedvew-beach-bar": {
+   "credit": "Ilse Reijs and Jan-Noud Hutten, CC BY 2.0, via Wikimedia Commons",
+   "titre": "File:2010 Thailand Koh Phi Phi & Lanta scuba diving3.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:2010_Thailand_Koh_Phi_Phi_%26_Lanta_scuba_diving3.jpg",
+   "illustration": "Koh Lanta",
+   "requete": "Koh Lanta Krabi Thailand",
+   "fichier": "restaurant-veedvew-beach-bar.jpg"
+  },
+  "restaurant-dirty-fish-beach-bistro": {
+   "credit": "Ilse Reijs and Jan-Noud Hutten, CC BY 2.0, via Wikimedia Commons",
+   "titre": "File:2010 Thailand Koh Phi Phi & Lanta scuba diving1.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:2010_Thailand_Koh_Phi_Phi_%26_Lanta_scuba_diving1.jpg",
+   "illustration": "Koh Lanta",
+   "requete": "Koh Lanta Krabi Thailand",
+   "fichier": "restaurant-dirty-fish-beach-bistro.jpg"
+  },
+  "plat-khao-pad": {
+   "credit": "Takeaway, CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:Khao phat nam liap.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Khao_phat_nam_liap.jpg",
+   "illustration": null,
+   "requete": "Khao phat",
+   "fichier": "plat-khao-pad.jpg"
+  },
+  "plat-pad-thai": {
+   "credit": "Takeaway, CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:Phat Thai kung Chang Khien street stall.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Phat_Thai_kung_Chang_Khien_street_stall.jpg",
+   "illustration": null,
+   "requete": "Phat thai",
+   "fichier": "plat-pad-thai.jpg"
+  },
+  "plat-massaman": {
+   "credit": "Vee Satayamas, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Massaman curry, Bang Kapi, Bangkok.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Massaman_curry,_Bang_Kapi,_Bangkok.jpg",
+   "illustration": null,
+   "requete": "Massaman curry",
+   "fichier": "plat-massaman.jpg"
+  },
+  "plat-gai-tod": {
+   "credit": "Takeaway, CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:Kai thot takhrai.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Kai_thot_takhrai.jpg",
+   "illustration": null,
+   "requete": "Kai thot fried chicken",
+   "fichier": "plat-gai-tod.jpg"
   },
   "plat-tom-kha-gai": {
    "credit": "lydiajoy1, CC BY 2.0, via Wikimedia Commons",
@@ -202,17 +306,17 @@
    "fichier": "plat-mango-sticky-rice.jpg"
   },
   "plat-roti-banane": {
-   "credit": "Andrea Schaffer from Sydney, Australia, CC BY 2.0, via Wikimedia Commons",
-   "titre": "File:Banana rotee stall (11900303024).jpg",
-   "page": "https://commons.wikimedia.org/wiki/File:Banana_rotee_stall_(11900303024).jpg",
+   "credit": "Takeaway, CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:Roti kluai khai chiang mai 04.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Roti_kluai_khai_chiang_mai_04.jpg",
    "illustration": null,
    "requete": "Roti banana Thailand",
    "fichier": "plat-roti-banane.jpg"
   },
   "base-ao-nang-5-nuits": {
-   "credit": "WalkOnWater93, CC BY-SA 4.0, via Wikimedia Commons",
-   "titre": "File:Ao Nang Beach on a stormy day.jpg",
-   "page": "https://commons.wikimedia.org/wiki/File:Ao_Nang_Beach_on_a_stormy_day.jpg",
+   "credit": "kallerna, CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:Ao Nang beach 4.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Ao_Nang_beach_4.jpg",
    "illustration": null,
    "requete": "Ao Nang beach Krabi",
    "fichier": "base-ao-nang-5-nuits.jpg"
@@ -234,19 +338,5 @@
    "fichier": "base-koh-lanta-klong-dao-5-a-6-nuits.jpg"
   }
  },
- "manquants": [
-  "site-excursion-des-4-iles-poda-chicken-tup-phra-nang",
-  "site-emerald-pool-et-hot-springs",
-  "site-hong-islands-lagon",
-  "hebergement-southern-lanta-resort",
-  "hebergement-avani-koh-lanta",
-  "hebergement-royal-lanta-resort",
-  "restaurant-laanta-seafood",
-  "restaurant-veedvew-beach-bar",
-  "restaurant-dirty-fish-beach-bistro",
-  "plat-khao-pad",
-  "plat-pad-thai",
-  "plat-massaman",
-  "plat-gai-tod"
- ]
+ "manquants": []
 }
