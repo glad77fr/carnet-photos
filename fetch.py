@@ -12,6 +12,8 @@ import io
 import json
 import os
 import re
+import subprocess
+import sys
 import time
 
 import requests
@@ -19,10 +21,10 @@ from PIL import Image, ImageOps
 
 UA = {"User-Agent": "carnet-photos/1.0 (relais du skill carnet-vacances; GitHub Actions)"}
 API = "https://commons.wikimedia.org/w/api.php"
-VERSION = "3"  # changer cette valeur force le retraitement de toutes les demandes
+VERSION = "4"  # changer cette valeur force le retraitement de toutes les demandes
 # Titres à écarter : cartes, logos, catastrophes, animaux, etc.
 NOIRE = re.compile(r"tsunami|map\b|karte|flag|logo|damage|aftermath|destr|satellite|diagram|chart|macaca|monkey|"
-                   r"langur|lizard|monitor|snake|portrait|\bsign|menu|ticket|crowd of|wreck|flood|waste|garbage|trash|rubbish|storm|pollution|construction|\.svg|\.tif", re.I)
+                   r"langur|lizard|monitor|snake|portrait|\bsign|menu|ticket|crowd of|wreck|flood|scuba|diving|underwater|waste|garbage|trash|rubbish|storm|pollution|construction|\.svg|\.tif", re.I)
 
 
 def strip(s):
@@ -85,6 +87,42 @@ def download(url):
     return buf.getvalue()
 
 
+def yt_search(q, mots, n=10):
+    """Recherche YouTube via yt-dlp ; renvoie la vidéo la plus vue qui correspond au lieu."""
+    try:
+        out = subprocess.run([sys.executable, "-m", "yt_dlp", "--flat-playlist", "--dump-json", "--no-warnings", f"ytsearch{n}:{q}"],
+                             capture_output=True, text=True, timeout=180)
+    except Exception as ex:
+        print(f"    yt-dlp en échec ({ex})")
+        return None
+    if out.returncode != 0:
+        print(f"    yt-dlp : {out.stderr[-300:]}")
+    res = []
+    for line in out.stdout.splitlines():
+        try:
+            v = json.loads(line)
+        except ValueError:
+            continue
+        t, dur, vues = v.get("title") or "", v.get("duration") or 0, v.get("view_count") or 0
+        if dur < 90 or dur > 40 * 60:  # ni « shorts » ni vidéos de plusieurs heures
+            continue
+        if mots and not any(m.lower() in t.lower() for m in mots):
+            continue
+        res.append({"url": f"https://www.youtube.com/watch?v={v['id']}", "titre": t,
+                    "chaine": v.get("channel") or v.get("uploader") or "", "duree": int(dur), "vues": int(vues)})
+    res.sort(key=lambda x: -x["vues"])
+    return res[0] if res else None
+
+
+def repli_depuis_zone(lieu, dest):
+    z = lieu.get("zone")
+    if not z:
+        return lieu.get("repli", [])
+    zk = re.sub(r"^(koh|ko)\s+", "", z, flags=re.I)
+    return [{"requete": q, "mots": [zk], "illustration": z}
+            for q in (f"{z} beach {dest}", f"{z} {dest}", f"{zk} beach", zk)]
+
+
 def traiter(path):
     raw = open(path, "rb").read()
     dem = json.loads(raw)
@@ -96,10 +134,22 @@ def traiter(path):
         print(f"{carnet} : déjà traité")
         return
     os.makedirs(out_dir, exist_ok=True)
-    man, used = {"_hash": h, "photos": {}, "manquants": []}, set()
+    man, used = {"_hash": h, "_demande": hashlib.sha1(raw).hexdigest(), "photos": {}, "manquants": [],
+                 "videos": {}}, set()
+    dest = dem.get("dest", "")
+    for v in dem.get("videos_generales", []):
+        got_v = yt_search(v["requete"], v.get("mots", []))
+        if got_v:
+            man["videos"][v["id"]] = got_v
+            print(f"  vidéo {v['id']} : {got_v['titre']}")
     for lieu in dem.get("lieux", []):
         lid = lieu["id"]
         got = None
+        if lieu.get("video"):
+            got_v = yt_search(lieu["video"]["requete"], lieu["video"].get("mots", []))
+            if got_v:
+                man["videos"][lid] = got_v
+                print(f"  vidéo {lid} : {got_v['titre']}")
         if lieu.get("url"):
             try:
                 got = {"data": download(lieu["url"]), "credit": lieu.get("credit") or lieu["url"], "titre": lieu["url"]}
@@ -107,7 +157,7 @@ def traiter(path):
                 print(f"  {lid} : URL en échec ({e})")
         essais = [{"requete": q, "mots": lieu.get("mots", [])} for q in lieu.get("requetes", [])]
         essais += [{"requete": r["requete"], "mots": r.get("mots", []), "illustration": r.get("illustration")}
-                   for r in lieu.get("repli", [])]
+                   for r in repli_depuis_zone(lieu, dest)]
         for e in essais:
             if got:
                 break
@@ -144,5 +194,9 @@ def traiter(path):
 
 
 if __name__ == "__main__":
+    try:
+        import yt_dlp  # noqa: F401
+    except ImportError:
+        subprocess.run([sys.executable, "-m", "pip", "install", "-q", "yt-dlp"], check=False)
     for p in sorted(glob.glob("demandes/*.json")):
         traiter(p)
