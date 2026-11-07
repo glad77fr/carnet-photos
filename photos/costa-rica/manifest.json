@@ -1,0 +1,402 @@
+{
+ "_hash": "f75bcc2550295f4ceeac544ecfa6b93e5bf7cfcf",
+ "_demande": "34d6a7749bb32ae0dad7ddde6c8a22fa8dcd1706",
+ "photos": {
+  "plage-playa-hermosa-guanacaste": {
+   "credit": "Guacamolio, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Playa Hermosa Guanacaste Sunset.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Playa_Hermosa_Guanacaste_Sunset.jpg",
+   "illustration": null,
+   "requete": "Playa Hermosa Guanacaste",
+   "fichier": "plage-playa-hermosa-guanacaste.jpg"
+  },
+  "plage-playa-conchal": {
+   "credit": "Haakon S. Krohn, CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:Playa Conchal sand.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Playa_Conchal_sand.jpg",
+   "illustration": null,
+   "requete": "Playa Conchal Costa Rica",
+   "fichier": "plage-playa-conchal.jpg"
+  },
+  "plage-playa-biesanz-manuel-antonio": {
+   "credit": "Bernard Gagnon, CC0, via Wikimedia Commons",
+   "titre": "File:Parque Nacional Manuel Antonio 02.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Parque_Nacional_Manuel_Antonio_02.jpg",
+   "illustration": "Manuel Antonio",
+   "requete": "Manuel Antonio beach Costa Rica",
+   "fichier": "plage-playa-biesanz-manuel-antonio.jpg"
+  },
+  "plage-plage-du-parc-de-manuel-antonio": {
+   "credit": "Eric T Gunther, CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:Main Beach Manuel Antonio National Park Costa Rica.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Main_Beach_Manuel_Antonio_National_Park_Costa_Rica.JPG",
+   "illustration": null,
+   "requete": "Manuel Antonio National Park beach",
+   "fichier": "plage-plage-du-parc-de-manuel-antonio.jpg"
+  },
+  "plage-playa-espadilla-plage-publique-de-manuel-antonio": {
+   "credit": "Axxis10, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Playa Espadilla Norte P.N. Manuel Antonio.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Playa_Espadilla_Norte_P.N._Manuel_Antonio.JPG",
+   "illustration": null,
+   "requete": "Playa Espadilla Manuel Antonio",
+   "fichier": "plage-playa-espadilla-plage-publique-de-manuel-antonio.jpg"
+  },
+  "site-ponts-suspendus-de-mistico": {
+   "credit": "Peter Hook, CC BY 2.0, via Wikimedia Commons",
+   "titre": "File:Arenal Hanging Bridges 0685 adj.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Arenal_Hanging_Bridges_0685_adj.jpg",
+   "illustration": null,
+   "requete": "Arenal hanging bridges",
+   "fichier": "site-ponts-suspendus-de-mistico.jpg"
+  },
+  "site-sources-chaudes-termalitas-del-arenal": {
+   "credit": "Rhododendrites, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Arenal volcano (70785p).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Arenal_volcano_(70785p).jpg",
+   "illustration": "Arenal",
+   "requete": "Arenal Costa Rica",
+   "fichier": "site-sources-chaudes-termalitas-del-arenal.jpg"
+  },
+  "site-balade-a-paresseux-sloth-s-territory": {
+   "credit": "Marimar Ortiz, CC BY 3.0, via Wikimedia Commons",
+   "titre": "File:Sloth In Costa Rica (262457409).jpeg",
+   "page": "https://commons.wikimedia.org/wiki/File:Sloth_In_Costa_Rica_(262457409).jpeg",
+   "illustration": null,
+   "requete": "sloth Costa Rica tree",
+   "fichier": "site-balade-a-paresseux-sloth-s-territory.jpg"
+  },
+  "site-parc-national-du-volcan-arenal": {
+   "credit": "Rhododendrites, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Arenal volcano (70785p) (cropped).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Arenal_volcano_(70785p)_(cropped).jpg",
+   "illustration": null,
+   "requete": "Arenal Volcano",
+   "fichier": "site-parc-national-du-volcan-arenal.jpg"
+  },
+  "site-visite-de-nuit-a-l-ecocentro-danaus": {
+   "credit": "Charles J. Sharp, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Golden-eyed tree frog (Agalychnis annae) 1.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Golden-eyed_tree_frog_(Agalychnis_annae)_1.jpg",
+   "illustration": null,
+   "requete": "red-eyed tree frog Costa Rica",
+   "fichier": "site-visite-de-nuit-a-l-ecocentro-danaus.jpg"
+  },
+  "site-cascade-de-la-fortuna": {
+   "credit": "Photo by and (c)2007 Derek Ramsey (Ram-Man), CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:La Fortuna Waterfall Wide Left.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:La_Fortuna_Waterfall_Wide_Left.jpg",
+   "illustration": null,
+   "requete": "La Fortuna waterfall",
+   "fichier": "site-cascade-de-la-fortuna.jpg"
+  },
+  "site-catamaran-dans-le-golfe-de-papagayo-option-a": {
+   "credit": "Bernard Gagnon, CC0, via Wikimedia Commons",
+   "titre": "File:Cráter Playa Hermosa 01.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Cr%C3%A1ter_Playa_Hermosa_01.jpg",
+   "illustration": "Playa Hermosa",
+   "requete": "Playa Hermosa beach Costa Rica",
+   "fichier": "site-catamaran-dans-le-golfe-de-papagayo-option-a.jpg"
+  },
+  "site-bateau-a-crocodiles-de-palo-verde-option-a": {
+   "credit": "Adam Jones from Kelowna, BC, Canada, CC BY-SA 2.0, via Wikimedia Commons",
+   "titre": "File:Boys on Beach - Playa Hermosa - Near Jaco - Costa Rica (8484262162).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Boys_on_Beach_-_Playa_Hermosa_-_Near_Jaco_-_Costa_Rica_(8484262162).jpg",
+   "illustration": "Playa Hermosa",
+   "requete": "Playa Hermosa beach Costa Rica",
+   "fichier": "site-bateau-a-crocodiles-de-palo-verde-option-a.jpg"
+  },
+  "site-parc-national-de-manuel-antonio-option-b": {
+   "credit": "Bernard Gagnon, CC0, via Wikimedia Commons",
+   "titre": "File:Parque Nacional Manuel Antonio 01.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Parque_Nacional_Manuel_Antonio_01.jpg",
+   "illustration": null,
+   "requete": "Manuel Antonio National Park",
+   "fichier": "site-parc-national-de-manuel-antonio-option-b.jpg"
+  },
+  "site-mangrove-de-damas-en-bateau-option-b": {
+   "credit": "Steve Knight, CC BY 4.0, via Wikimedia Commons",
+   "titre": "File:Manuel Antonio beach, Costa Rica - 55078432582.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Manuel_Antonio_beach,_Costa_Rica_-_55078432582.jpg",
+   "illustration": "Manuel Antonio",
+   "requete": "Manuel Antonio beach Costa Rica",
+   "fichier": "site-mangrove-de-damas-en-bateau-option-b.jpg"
+  },
+  "hebergement-trapp-family-country-inn": {
+   "credit": "Rodrigo Fernández, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Plaza Alajuela fuente detalle.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Plaza_Alajuela_fuente_detalle.jpg",
+   "illustration": "Alajuela",
+   "requete": "Alajuela",
+   "fichier": "hebergement-trapp-family-country-inn.jpg"
+  },
+  "hebergement-arenal-kioro-suites-spa": {
+   "credit": "Bernard Gagnon, CC0, via Wikimedia Commons",
+   "titre": "File:Arenal Volcano 01.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Arenal_Volcano_01.jpg",
+   "illustration": "Arenal",
+   "requete": "Arenal Costa Rica",
+   "fichier": "hebergement-arenal-kioro-suites-spa.jpg"
+  },
+  "hebergement-hotel-arenal-paraiso": {
+   "credit": "Bernard Gagnon, CC0, via Wikimedia Commons",
+   "titre": "File:Arenal Volcano 02.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Arenal_Volcano_02.jpg",
+   "illustration": "Arenal",
+   "requete": "Arenal Costa Rica",
+   "fichier": "hebergement-hotel-arenal-paraiso.jpg"
+  },
+  "hebergement-arenal-montechiari": {
+   "credit": "Rhododendrites, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Arenal Volcano (70602).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Arenal_Volcano_(70602).jpg",
+   "illustration": "Arenal",
+   "requete": "Arenal Costa Rica",
+   "fichier": "hebergement-arenal-montechiari.jpg"
+  },
+  "hebergement-hotel-y-villas-huetares": {
+   "credit": "François Bianco, CC BY-SA 2.0, via Wikimedia Commons",
+   "titre": "File:Sunset on Playa Hermosa (15272800014).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Sunset_on_Playa_Hermosa_(15272800014).jpg",
+   "illustration": "Playa Hermosa",
+   "requete": "Playa Hermosa beach Costa Rica",
+   "fichier": "hebergement-hotel-y-villas-huetares.jpg"
+  },
+  "hebergement-villas-sol": {
+   "credit": "Jorge Dominguez Marenco, CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:Playa Hermosa Ensenada.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Playa_Hermosa_Ensenada.jpg",
+   "illustration": "Playa Hermosa",
+   "requete": "Playa Hermosa beach Costa Rica",
+   "fichier": "hebergement-villas-sol.jpg"
+  },
+  "hebergement-parador-resort-spa": {
+   "credit": "Steve Knight, CC BY 4.0, via Wikimedia Commons",
+   "titre": "File:Manuel Antonio beach, Costa Rica - 55079587209.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Manuel_Antonio_beach,_Costa_Rica_-_55079587209.jpg",
+   "illustration": "Manuel Antonio",
+   "requete": "Manuel Antonio beach Costa Rica",
+   "fichier": "hebergement-parador-resort-spa.jpg"
+  },
+  "hebergement-shana-by-the-beach": {
+   "credit": "Eric T Gunther, CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:Main Beach Manuel Antonio Park Costa Rica.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Main_Beach_Manuel_Antonio_Park_Costa_Rica.JPG",
+   "illustration": "Manuel Antonio",
+   "requete": "Manuel Antonio beach Costa Rica",
+   "fichier": "hebergement-shana-by-the-beach.jpg"
+  },
+  "restaurant-casa-fortuna": {
+   "credit": "Adam Jones from Kelowna, BC, Canada, CC BY-SA 2.0, via Wikimedia Commons",
+   "titre": "File:Roman-Era Painting in Excavated House - Casa Fortuna - Cartagena - Spain (14442749491).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Roman-Era_Painting_in_Excavated_House_-_Casa_Fortuna_-_Cartagena_-_Spain_(14442749491).jpg",
+   "illustration": null,
+   "requete": "Casa Fortuna",
+   "fichier": "restaurant-casa-fortuna.jpg"
+  },
+  "restaurant-la-ventanita": {
+   "credit": "Tamanoeconomico, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:La Ventanita.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:La_Ventanita.jpg",
+   "illustration": null,
+   "requete": "La Ventanita",
+   "fichier": "restaurant-la-ventanita.jpg"
+  },
+  "restaurant-selvarustica": {
+   "credit": "BNP-CR506, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Arenal Lake dam road.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Arenal_Lake_dam_road.jpg",
+   "illustration": "Arenal",
+   "requete": "Arenal Costa Rica",
+   "fichier": "restaurant-selvarustica.jpg"
+  },
+  "restaurant-restaurante-almar": {
+   "credit": "Bernard Gagnon, CC0, via Wikimedia Commons",
+   "titre": "File:Cráter Playa Hermosa 02.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Cr%C3%A1ter_Playa_Hermosa_02.jpg",
+   "illustration": "Playa Hermosa",
+   "requete": "Playa Hermosa beach Costa Rica",
+   "fichier": "restaurant-restaurante-almar.jpg"
+  },
+  "restaurant-roberto-s": {
+   "credit": "diegogrez2024, CC BY 2.0, via Wikimedia Commons",
+   "titre": "File:10-03 Playa Hermosa (Pichilemu).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:10-03_Playa_Hermosa_(Pichilemu).jpg",
+   "illustration": "Playa Hermosa",
+   "requete": "Playa Hermosa beach Costa Rica",
+   "fichier": "restaurant-roberto-s.jpg"
+  },
+  "restaurant-coco-viquez": {
+   "credit": "diegogrez2024, CC BY 2.0, via Wikimedia Commons",
+   "titre": "File:10-02 Playa Hermosa (Pichilemu).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:10-02_Playa_Hermosa_(Pichilemu).jpg",
+   "illustration": "Playa Hermosa",
+   "requete": "Playa Hermosa beach Costa Rica",
+   "fichier": "restaurant-coco-viquez.jpg"
+  },
+  "restaurant-restaurante-cerdo-feliz": {
+   "credit": "Guardabarranconi, CC BY 4.0, via Wikimedia Commons",
+   "titre": "File:Playa Manuel Antonio en Costa Rica 01.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Playa_Manuel_Antonio_en_Costa_Rica_01.jpg",
+   "illustration": "Manuel Antonio",
+   "requete": "Manuel Antonio beach Costa Rica",
+   "fichier": "restaurant-restaurante-cerdo-feliz.jpg"
+  },
+  "restaurant-agua-azul": {
+   "credit": "Carlos Valenzuela, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Cascadas de Agua Azul2020p3.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Cascadas_de_Agua_Azul2020p3.jpg",
+   "illustration": null,
+   "requete": "Agua Azul",
+   "fichier": "restaurant-agua-azul.jpg"
+  },
+  "restaurant-le-papillon": {
+   "credit": "Guardabarranconi, CC BY 4.0, via Wikimedia Commons",
+   "titre": "File:Playa Manuel Antonio en Costa Rica 02.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Playa_Manuel_Antonio_en_Costa_Rica_02.jpg",
+   "illustration": "Manuel Antonio",
+   "requete": "Manuel Antonio beach Costa Rica",
+   "fichier": "restaurant-le-papillon.jpg"
+  },
+  "plat-gallo-pinto": {
+   "credit": "C T Johansson, CC BY 3.0, via Wikimedia Commons",
+   "titre": "File:Gallo pinto-IMG 0672.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Gallo_pinto-IMG_0672.JPG",
+   "illustration": null,
+   "requete": "Gallo pinto Costa Rica",
+   "fichier": "plat-gallo-pinto.jpg"
+  },
+  "plat-casado": {
+   "credit": "Grendelkhan, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Vegetarian casado at Restaurante La Amistad, Alajuela.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Vegetarian_casado_at_Restaurante_La_Amistad,_Alajuela.jpg",
+   "illustration": null,
+   "requete": "Casado Costa Rica",
+   "fichier": "plat-casado.jpg"
+  },
+  "plat-arroz-con-pollo": {
+   "credit": "Kobako, CC BY-SA 2.5, via Wikimedia Commons",
+   "titre": "File:Arroz-con-Pollo.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Arroz-con-Pollo.jpg",
+   "illustration": null,
+   "requete": "Arroz con pollo",
+   "fichier": "plat-arroz-con-pollo.jpg"
+  },
+  "plat-patacones": {
+   "credit": "Jdvillalobos, CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:Patacones.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Patacones.JPG",
+   "illustration": null,
+   "requete": "Patacones",
+   "fichier": "plat-patacones.jpg"
+  },
+  "plat-ceviche": {
+   "credit": "Rodtico21, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Ceviche de pianguas. Puntarenas.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Ceviche_de_pianguas._Puntarenas.jpg",
+   "illustration": null,
+   "requete": "Ceviche Costa Rica",
+   "fichier": "plat-ceviche.jpg"
+  },
+  "plat-chifrijo": {
+   "credit": "Aleat88, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Chifrijo tico.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Chifrijo_tico.jpg",
+   "illustration": null,
+   "requete": "Chifrijo",
+   "fichier": "plat-chifrijo.jpg"
+  },
+  "plat-batidos": {
+   "credit": "Vyacheslav Argenberg, CC BY 4.0, via Wikimedia Commons",
+   "titre": "File:San Vicente, Milkshake, Palawan, Philippines.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:San_Vicente,_Milkshake,_Palawan,_Philippines.jpg",
+   "illustration": null,
+   "requete": "Batidos",
+   "fichier": "plat-batidos.jpg"
+  },
+  "plat-tres-leches": {
+   "credit": "auteur inconnu, CC BY-SA 2.0, via Wikimedia Commons",
+   "titre": "File:Tres leches cake.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Tres_leches_cake.jpg",
+   "illustration": null,
+   "requete": "Tres leches cake",
+   "fichier": "plat-tres-leches.jpg"
+  },
+  "base-la-fortuna-arenal-4-nuits": {
+   "credit": "Utcatdad, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Arenal Volcano with cattle in foreground.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Arenal_Volcano_with_cattle_in_foreground.jpg",
+   "illustration": null,
+   "requete": "Arenal Volcano",
+   "fichier": "base-la-fortuna-arenal-4-nuits.jpg"
+  },
+  "base-playa-hermosa-guanacaste-7-nuits": {
+   "credit": "Peloy (Allan H.M.), CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:Camino a Playa Hermosa, Guanacaste, Costa Rica - panoramio.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Camino_a_Playa_Hermosa,_Guanacaste,_Costa_Rica_-_panoramio.jpg",
+   "illustration": null,
+   "requete": "Playa Hermosa Guanacaste",
+   "fichier": "base-playa-hermosa-guanacaste-7-nuits.jpg"
+  },
+  "base-manuel-antonio-7-nuits": {
+   "credit": "Keagiles, CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:Manuel Antonio Beach.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Manuel_Antonio_Beach.jpg",
+   "illustration": null,
+   "requete": "Manuel Antonio beach",
+   "fichier": "base-manuel-antonio-7-nuits.jpg"
+  }
+ },
+ "manquants": [],
+ "videos": {
+  "general-0": {
+   "url": "https://www.youtube.com/watch?v=xi0EP4UwjqI",
+   "titre": "ULTIMATE 1 Week Itinerary in Costa Rica | Perfect 7 Day Travel Guide 2025",
+   "chaine": "Emma Terra",
+   "duree": 2030,
+   "vues": 86521
+  },
+  "general-1": {
+   "url": "https://www.youtube.com/watch?v=8w3dfEkC4YY",
+   "titre": "Closest Beach to Liberia Airport? Playa Hermosa, Costa Rica | Where To Stay",
+   "chaine": "Emma Terra",
+   "duree": 715,
+   "vues": 10613
+  },
+  "site-ponts-suspendus-de-mistico": {
+   "url": "https://www.youtube.com/watch?v=yN-_QU6TEBk",
+   "titre": "Mistico Arenal Hanging Bridges Park",
+   "chaine": "Mistico Park Arenal Hanging Bridges",
+   "duree": 143,
+   "vues": 45101
+  },
+  "site-balade-a-paresseux-sloth-s-territory": {
+   "url": "https://www.youtube.com/watch?v=Ngrn6Wd_gSc",
+   "titre": "La Fortuna Sloth Tour, Costa Rica",
+   "chaine": "Mytanfeet Costa Rica Travel",
+   "duree": 156,
+   "vues": 14165
+  },
+  "site-parc-national-du-volcan-arenal": {
+   "url": "https://www.youtube.com/watch?v=w44AD2WVx0E",
+   "titre": "Arenal Volcano National Park: Easy Hike to See the Volcano!",
+   "chaine": "Mytanfeet Costa Rica Travel",
+   "duree": 247,
+   "vues": 25151
+  },
+  "site-bateau-a-crocodiles-de-palo-verde-option-a": {
+   "url": "https://www.youtube.com/watch?v=COjCl1KkQIQ",
+   "titre": "Palo Verde National Park Boat Tour: Great Wildlife Safari Day Excursion in Guanacaste",
+   "chaine": "Mytanfeet Costa Rica Travel",
+   "duree": 182,
+   "vues": 11147
+  },
+  "site-parc-national-de-manuel-antonio-option-b": {
+   "url": "https://www.youtube.com/watch?v=L9Rv9ddRgfw",
+   "titre": "Watch This Before You Go to Manuel Antonio Costa Rica",
+   "chaine": "Emma Terra",
+   "duree": 1121,
+   "vues": 30566
+  }
+ }
+}
