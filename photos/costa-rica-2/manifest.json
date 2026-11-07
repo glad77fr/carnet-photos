@@ -1,0 +1,90 @@
+{
+ "_hash": "0f406bf7a11d9c76053dc85f72bb3296b8278dfc",
+ "_demande": "e9cee1ccda0ae2b840a562b4dddf42651eaa183b",
+ "photos": {
+  "site-catamaran-dans-le-golfe-de-papagayo-option-a": {
+   "credit": "Rodtico21, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Golfo de Papagayo, Costa Rica.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Golfo_de_Papagayo,_Costa_Rica.JPG",
+   "illustration": null,
+   "requete": "Golfo de Papagayo Costa Rica",
+   "fichier": "site-catamaran-dans-le-golfe-de-papagayo-option-a.jpg"
+  },
+  "site-bateau-a-crocodiles-de-palo-verde-option-a": {
+   "credit": "Paul Kehrer, CC BY 2.0, via Wikimedia Commons",
+   "titre": "File:Iguana iguana -Palo Verde National Park, Costa Rica -in tree-8a.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Iguana_iguana_-Palo_Verde_National_Park,_Costa_Rica_-in_tree-8a.jpg",
+   "illustration": null,
+   "requete": "Palo Verde National Park Costa Rica",
+   "fichier": "site-bateau-a-crocodiles-de-palo-verde-option-a.jpg"
+  },
+  "hebergement-villas-sol": {
+   "credit": "Elcocobeach, CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:New Marlin in Playas del Coco, Guanacaste, Costa Rica.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:New_Marlin_in_Playas_del_Coco,_Guanacaste,_Costa_Rica.JPG",
+   "illustration": null,
+   "requete": "Playas del Coco Guanacaste",
+   "fichier": "hebergement-villas-sol.jpg"
+  },
+  "hebergement-hotel-y-villas-huetares": {
+   "credit": "Kailash U, CC0, via Wikimedia Commons",
+   "titre": "File:Playa Panama Aerial Shot (259750835).jpeg",
+   "page": "https://commons.wikimedia.org/wiki/File:Playa_Panama_Aerial_Shot_(259750835).jpeg",
+   "illustration": null,
+   "requete": "Playa Panama Guanacaste",
+   "fichier": "hebergement-hotel-y-villas-huetares.jpg"
+  },
+  "restaurant-roberto-s": {
+   "credit": "Peloy (Allan H.M.), CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:Camino a Playa Hermosa, Guanacaste, Costa Rica - panoramio.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Camino_a_Playa_Hermosa,_Guanacaste,_Costa_Rica_-_panoramio.jpg",
+   "illustration": null,
+   "requete": "Playa Hermosa Guanacaste Costa Rica",
+   "fichier": "restaurant-roberto-s.jpg"
+  },
+  "restaurant-coco-viquez": {
+   "credit": "Tyk, CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:Sardinal Museo Fuengirola.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Sardinal_Museo_Fuengirola.jpg",
+   "illustration": null,
+   "requete": "Sardinal Guanacaste",
+   "fichier": "restaurant-coco-viquez.jpg"
+  },
+  "restaurant-la-ventanita": {
+   "credit": "Rhododendrites, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Arenal Lake (60159p).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Arenal_Lake_(60159p).jpg",
+   "illustration": null,
+   "requete": "Lake Arenal Costa Rica",
+   "fichier": "restaurant-la-ventanita.jpg"
+  },
+  "restaurant-agua-azul": {
+   "credit": "Marc-Lautenbacher, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Abandoned house in Quepos Costa Rica.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Abandoned_house_in_Quepos_Costa_Rica.jpg",
+   "illustration": null,
+   "requete": "Quepos Costa Rica",
+   "fichier": "restaurant-agua-azul.jpg"
+  },
+  "restaurant-casa-fortuna": {
+   "credit": "Erick Hidalgo, CC BY 3.0, via Wikimedia Commons",
+   "titre": "File:La Fortuna town, Arenal volcano, Costa Rica - panoramio.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:La_Fortuna_town,_Arenal_volcano,_Costa_Rica_-_panoramio.jpg",
+   "illustration": null,
+   "requete": "La Fortuna Costa Rica town",
+   "fichier": "restaurant-casa-fortuna.jpg"
+  },
+  "restaurant-selvarustica": {
+   "credit": "Alanthebox, CC0, via Wikimedia Commons",
+   "titre": "File:Hanging bridges, La Fortuna.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Hanging_bridges,_La_Fortuna.jpg",
+   "illustration": null,
+   "requete": "La Fortuna rainforest",
+   "fichier": "restaurant-selvarustica.jpg"
+  }
+ },
+ "manquants": [
+  "restaurant-restaurante-almar"
+ ],
+ "videos": {}
+}
