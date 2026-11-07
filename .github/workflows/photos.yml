@@ -1,0 +1,23 @@
+name: photos
+on:
+  push:
+    paths: ["demandes/**", "fetch.py", ".github/workflows/photos.yml"]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: photos
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests pillow
+      - run: python fetch.py
+      - run: |
+          git config user.name "carnet-photos-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add photos
+          git diff --cached --quiet || (git commit -m "Photos" && git pull --rebase && git push)
