@@ -19,9 +19,10 @@ from PIL import Image, ImageOps
 
 UA = {"User-Agent": "carnet-photos/1.0 (relais du skill carnet-vacances; GitHub Actions)"}
 API = "https://commons.wikimedia.org/w/api.php"
+VERSION = "3"  # changer cette valeur force le retraitement de toutes les demandes
 # Titres à écarter : cartes, logos, catastrophes, animaux, etc.
 NOIRE = re.compile(r"tsunami|map\b|karte|flag|logo|damage|aftermath|destr|satellite|diagram|chart|macaca|monkey|"
-                   r"langur|lizard|monitor|snake|portrait|\bsign|menu|ticket|crowd of|wreck|flood|\.svg|\.tif", re.I)
+                   r"langur|lizard|monitor|snake|portrait|\bsign|menu|ticket|crowd of|wreck|flood|waste|garbage|trash|rubbish|storm|pollution|construction|\.svg|\.tif", re.I)
 
 
 def strip(s):
@@ -32,7 +33,16 @@ def search(q, n=30):
     params = dict(action="query", format="json", generator="search", gsrsearch=f"{q} filetype:bitmap",
                   gsrnamespace=6, gsrlimit=n, prop="imageinfo",
                   iiprop="url|size|extmetadata|mime", iiurlwidth=1600)
-    r = requests.get(API, params=params, headers=UA, timeout=30)
+    for essai in range(5):  # Wikimedia limite le débit : on relance avec un délai croissant
+        r = requests.get(API, params={**params, "maxlag": 5}, headers=UA, timeout=30)
+        try:
+            ok = r.status_code == 200 and "error" not in r.json()
+        except ValueError:
+            ok = False
+        if ok:
+            break
+        print(f"    recherche ralentie ({r.status_code}), nouvel essai")
+        time.sleep(5 * (essai + 1))
     r.raise_for_status()
     pages = sorted((r.json().get("query") or {}).get("pages", {}).values(), key=lambda p: p.get("index", 99))
     out = []
@@ -41,7 +51,7 @@ def search(q, n=30):
         if info.get("mime") not in ("image/jpeg", "image/png"):
             continue
         w, h = info.get("width", 0), info.get("height", 0)
-        if w < 800 or w < h * 1.0:  # paysage ou carré, assez grand (recadré ensuite)
+        if w < 800 or w < h * 1.0 or w > h * 2.4:  # ni portrait ni panorama trop étiré
             continue
         if NOIRE.search(p.get("title", "")):
             continue
@@ -61,7 +71,11 @@ def score(c, mots):
 
 
 def download(url):
-    r = requests.get(url, headers=UA, timeout=60)
+    for essai in range(4):
+        r = requests.get(url, headers=UA, timeout=60)
+        if r.status_code == 200:
+            break
+        time.sleep(5 * (essai + 1))
     r.raise_for_status()
     img = ImageOps.exif_transpose(Image.open(io.BytesIO(r.content))).convert("RGB")
     if img.width > 1600:
@@ -77,7 +91,7 @@ def traiter(path):
     carnet = dem.get("carnet") or os.path.splitext(os.path.basename(path))[0]
     out_dir = os.path.join("photos", carnet)
     man_path = os.path.join(out_dir, "manifest.json")
-    h = hashlib.sha1(raw).hexdigest()
+    h = hashlib.sha1(raw + VERSION.encode()).hexdigest()
     if os.path.exists(man_path) and json.load(open(man_path)).get("_hash") == h:
         print(f"{carnet} : déjà traité")
         return
@@ -115,7 +129,7 @@ def traiter(path):
                     break
                 except Exception as ex:
                     print(f"  {lid} : téléchargement en échec ({ex})")
-            time.sleep(0.5)
+            time.sleep(1.5)
         if got:
             fn = f"{lid}.jpg"
             open(os.path.join(out_dir, fn), "wb").write(got.pop("data"))
