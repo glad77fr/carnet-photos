@@ -19,13 +19,16 @@ from PIL import Image, ImageOps
 
 UA = {"User-Agent": "carnet-photos/1.0 (relais du skill carnet-vacances; GitHub Actions)"}
 API = "https://commons.wikimedia.org/w/api.php"
+# Titres à écarter : cartes, logos, catastrophes, animaux, etc.
+NOIRE = re.compile(r"tsunami|map\b|karte|flag|logo|damage|aftermath|destr|satellite|diagram|chart|macaca|monkey|"
+                   r"langur|lizard|monitor|snake|portrait|\bsign|menu|ticket|crowd of|wreck|flood|\.svg|\.tif", re.I)
 
 
 def strip(s):
     return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "", s or "")).strip()
 
 
-def search(q, n=12):
+def search(q, n=30):
     params = dict(action="query", format="json", generator="search", gsrsearch=f"{q} filetype:bitmap",
                   gsrnamespace=6, gsrlimit=n, prop="imageinfo",
                   iiprop="url|size|extmetadata|mime", iiurlwidth=1600)
@@ -38,7 +41,9 @@ def search(q, n=12):
         if info.get("mime") not in ("image/jpeg", "image/png"):
             continue
         w, h = info.get("width", 0), info.get("height", 0)
-        if w < 1000 or w < h * 1.15:  # paysage, assez grand
+        if w < 800 or w < h * 1.0:  # paysage ou carré, assez grand (recadré ensuite)
+            continue
+        if NOIRE.search(p.get("title", "")):
             continue
         em = info.get("extmetadata", {})
         lic = strip(em.get("LicenseShortName", {}).get("value"))
@@ -98,10 +103,10 @@ def traiter(path):
                 print(f"  {lid} : recherche en échec ({ex})")
                 time.sleep(2)
                 continue
-            if e["mots"]:
-                seuil = min(2, len(e["mots"]))  # tous les mots-clés s'il y en a 1 ou 2, sinon au moins 2
-                pert = [c for c in cands if score(c, e["mots"]) >= seuil]
-                cands = sorted(pert, key=lambda c: -score(c, e["mots"])) if pert else ([] if not e.get("illustration") else cands)
+            excl = [x.lower() for x in lieu.get("exclure", [])]
+            cands = [c for c in cands if not any(x in c["titre"].lower() for x in excl)]
+            if e["mots"]:  # au moins une des expressions doit figurer dans le titre de la photo
+                cands = sorted([c for c in cands if score(c, e["mots"]) >= 1], key=lambda c: -score(c, e["mots"]))
             for c in cands[:3]:
                 try:
                     got = {"data": download(c["url"]), "credit": c["credit"], "titre": c["titre"],
