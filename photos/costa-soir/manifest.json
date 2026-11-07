@@ -1,0 +1,40 @@
+{
+ "_hash": "53d2a43a63e287bc455a9ce52cce52e6938452d5",
+ "_demande": "c3bf07cb6620facbe5b2562e965c2cbca0dc25db",
+ "photos": {
+  "site-parc-central-de-la-fortuna": {
+   "credit": "Igorgalli, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Rafting in La Fortuna, Costa Rica.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Rafting_in_La_Fortuna,_Costa_Rica.JPG",
+   "illustration": "La Fortuna",
+   "requete": "La Fortuna Costa Rica",
+   "fichier": "site-parc-central-de-la-fortuna.jpg"
+  },
+  "site-balade-crepusculaire-a-paresseux-sloth-park": {
+   "credit": "Charles J. Sharp, CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:Brown-throated three-toed sloth female.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Brown-throated_three-toed_sloth_female.JPG",
+   "illustration": null,
+   "requete": "sloth Costa Rica",
+   "fichier": "site-balade-crepusculaire-a-paresseux-sloth-park.jpg"
+  },
+  "site-balade-nocturne-en-foret-option-b": {
+   "credit": "Charles J. Sharp, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Golden-eyed tree frog (Agalychnis annae) 1.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Golden-eyed_tree_frog_(Agalychnis_annae)_1.jpg",
+   "illustration": null,
+   "requete": "red-eyed tree frog",
+   "fichier": "site-balade-nocturne-en-foret-option-b.jpg"
+  },
+  "site-coucher-de-soleil-a-el-avion-option-b": {
+   "credit": "Sunset Sails, CC BY 4.0, via Wikimedia Commons",
+   "titre": "File:Manuel Antonio National Park on sunset sails.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Manuel_Antonio_National_Park_on_sunset_sails.jpg",
+   "illustration": null,
+   "requete": "Manuel Antonio sunset",
+   "fichier": "site-coucher-de-soleil-a-el-avion-option-b.jpg"
+  }
+ },
+ "manquants": [],
+ "videos": {}
+}
