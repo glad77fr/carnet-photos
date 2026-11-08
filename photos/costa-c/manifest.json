@@ -1,0 +1,112 @@
+{
+ "_hash": "c23de7615148aa714ac417b92c01f20917bd2d04",
+ "_demande": "cb5bef67c973a946276cd61ba12a3f5b36da37b8",
+ "photos": {
+  "site-tour-du-cafe-et-du-chocolat-north-fields": {
+   "credit": "Rhododendrites, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Arenal volcano (70785p).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Arenal_volcano_(70785p).jpg",
+   "illustration": "Arenal",
+   "requete": "Arenal Costa Rica",
+   "fichier": "site-tour-du-cafe-et-du-chocolat-north-fields.jpg"
+  },
+  "site-hacienda-guachipelin-rincon-de-la-vieja-options-a-et-c": {
+   "credit": "dave massie, CC BY 2.0, via Wikimedia Commons",
+   "titre": "File:Road to Rincon De La Vieja, Costa Rica.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Road_to_Rincon_De_La_Vieja,_Costa_Rica.jpg",
+   "illustration": null,
+   "requete": "Rincon de la Vieja",
+   "fichier": "site-hacienda-guachipelin-rincon-de-la-vieja-options-a-et-c.jpg"
+  },
+  "site-catamaran-planet-dolphin-option-b": {
+   "credit": "Bernard Gagnon, CC0, via Wikimedia Commons",
+   "titre": "File:Parque Nacional Manuel Antonio 02.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Parque_Nacional_Manuel_Antonio_02.jpg",
+   "illustration": "Manuel Antonio",
+   "requete": "Manuel Antonio beach Costa Rica",
+   "fichier": "site-catamaran-planet-dolphin-option-b.jpg"
+  },
+  "site-reserve-de-la-foret-de-nuages-de-monteverde-option-c": {
+   "credit": "Haakon S. Krohn, CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:Monteverde bosque.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Monteverde_bosque.jpg",
+   "illustration": null,
+   "requete": "Monteverde cloud forest",
+   "fichier": "site-reserve-de-la-foret-de-nuages-de-monteverde-option-c.jpg"
+  },
+  "site-ponts-suspendus-de-selvatura-option-c": {
+   "credit": "Erebus555, CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:Monteverde, Costa Rica centre.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Monteverde,_Costa_Rica_centre.JPG",
+   "illustration": "Monteverde",
+   "requete": "Monteverde Costa Rica",
+   "fichier": "site-ponts-suspendus-de-selvatura-option-c.jpg"
+  },
+  "site-jardin-des-colibris-de-monteverde-option-c": {
+   "credit": "Hanna5ilva, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Hummingbird Biodiversity in the Costa Rican Cloud Forest.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Hummingbird_Biodiversity_in_the_Costa_Rican_Cloud_Forest.jpg",
+   "illustration": null,
+   "requete": "hummingbird Monteverde",
+   "fichier": "site-jardin-des-colibris-de-monteverde-option-c.jpg"
+  },
+  "site-balade-nocturne-en-foret-de-monteverde-option-c": {
+   "credit": "PLAyLuXu, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Sunset in Monteverde, Costa Rica.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Sunset_in_Monteverde,_Costa_Rica.jpg",
+   "illustration": "Monteverde",
+   "requete": "Monteverde Costa Rica",
+   "fichier": "site-balade-nocturne-en-foret-de-monteverde-option-c.jpg"
+  },
+  "hebergement-camino-verde-b-b": {
+   "credit": "Matthias Bethke, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:2006-08-08 Brüllaffe mit Jungtier, Monteverde (Costa Rica).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:2006-08-08_Br%C3%BCllaffe_mit_Jungtier,_Monteverde_(Costa_Rica).jpg",
+   "illustration": "Monteverde",
+   "requete": "Monteverde Costa Rica",
+   "fichier": "hebergement-camino-verde-b-b.jpg"
+  },
+  "hebergement-hotel-belmar": {
+   "credit": "apater, CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:Alberca, Hotel Belmar - panoramio.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Alberca,_Hotel_Belmar_-_panoramio.jpg",
+   "illustration": null,
+   "requete": "Hotel Belmar Costa Rica",
+   "fichier": "hebergement-hotel-belmar.jpg"
+  },
+  "restaurant-restaurante-sensoria": {
+   "credit": "dave massie, CC BY 2.0, via Wikimedia Commons",
+   "titre": "File:Monteverde, Costa Rica.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Monteverde,_Costa_Rica.jpg",
+   "illustration": "Monteverde",
+   "requete": "Monteverde Costa Rica",
+   "fichier": "restaurant-restaurante-sensoria.jpg"
+  },
+  "restaurant-restaurante-sabor-tico": {
+   "credit": "Cephas, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Monteverde Reserve Costa Rica 02.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Monteverde_Reserve_Costa_Rica_02.jpg",
+   "illustration": "Monteverde",
+   "requete": "Monteverde Costa Rica",
+   "fichier": "restaurant-restaurante-sabor-tico.jpg"
+  },
+  "base-monteverde-2-nuits": {
+   "credit": "Cephas, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Monteverde Cloud Forest 01.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Monteverde_Cloud_Forest_01.jpg",
+   "illustration": null,
+   "requete": "Monteverde cloud forest",
+   "fichier": "base-monteverde-2-nuits.jpg"
+  }
+ },
+ "manquants": [],
+ "videos": {
+  "site-reserve-de-la-foret-de-nuages-de-monteverde-option-c": {
+   "url": "https://www.youtube.com/watch?v=a2GApKZwUUI",
+   "titre": "Top 8 of Monteverde in 5 minutes (Quick and to the point) - Costa Rica Travel Guide 4K",
+   "chaine": "Salt Travel Co (STCo)",
+   "duree": 339,
+   "vues": 53963
+  }
+ }
+}
