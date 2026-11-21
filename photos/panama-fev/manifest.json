@@ -1,0 +1,442 @@
+{
+ "_hash": "75517e5914610620870cea887e4ed27df5854176",
+ "_demande": "ef3a0c298bdad577aa5f40138511d4f8b9cae68a",
+ "photos": {
+  "plage-isla-perro": {
+   "credit": "Mónica J. Mora, CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:Isla Perro en la Comarca Guna Yala.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Isla_Perro_en_la_Comarca_Guna_Yala.JPG",
+   "illustration": null,
+   "requete": "Isla Perro San Blas",
+   "fichier": "plage-isla-perro.jpg"
+  },
+  "plage-starfish-beach": {
+   "credit": "Michael (a.k.a. moik) McCullough from Klamath Falls, Oregon, USA, CC BY 2.0, via Wikimedia Commons",
+   "titre": "File:Women at Starfish Beach, Boca del Drago.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Women_at_Starfish_Beach,_Boca_del_Drago.jpg",
+   "illustration": null,
+   "requete": "Starfish Beach Bocas del Toro",
+   "fichier": "plage-starfish-beach.jpg"
+  },
+  "plage-zapatilla": {
+   "credit": "Dronepicr, CC BY 3.0, via Wikimedia Commons",
+   "titre": "File:Nationalpark Zapatilla Panama.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Nationalpark_Zapatilla_Panama.jpg",
+   "illustration": null,
+   "requete": "Zapatilla Panama",
+   "fichier": "plage-zapatilla.jpg"
+  },
+  "plage-red-frog-beach": {
+   "credit": "Etched99, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Red Frog Beach Island Resort.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Red_Frog_Beach_Island_Resort.jpg",
+   "illustration": null,
+   "requete": "Red Frog Beach Bastimentos",
+   "fichier": "plage-red-frog-beach.jpg"
+  },
+  "site-miraflores-visitor-center": {
+   "credit": "Markus Leupold-Löwenthal, CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:WorkerAtMirafloresLocksPanamaCanal.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:WorkerAtMirafloresLocksPanamaCanal.jpg",
+   "illustration": null,
+   "requete": "Miraflores Locks Panama Canal",
+   "fichier": "site-miraflores-visitor-center.jpg"
+  },
+  "site-casco-viejo-et-plaza-de-francia": {
+   "credit": "Rodolfo Aragundi, CC BY-SA 2.0, via Wikimedia Commons",
+   "titre": "File:Plaza de Francia Casco VIejo.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Plaza_de_Francia_Casco_VIejo.jpg",
+   "illustration": null,
+   "requete": "Plaza de Francia Casco Viejo",
+   "fichier": "site-casco-viejo-et-plaza-de-francia.jpg"
+  },
+  "site-biomuseo": {
+   "credit": "user:ArnoldReinhold, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Biomuseo rear stereo pair R.agr (cropped).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Biomuseo_rear_stereo_pair_R.agr_(cropped).jpg",
+   "illustration": null,
+   "requete": "Biomuseo Panama Gehry",
+   "fichier": "site-biomuseo.jpg"
+  },
+  "site-amador-causeway": {
+   "credit": "Ayaita, CC BY 3.0, via Wikimedia Commons",
+   "titre": "File:IslaPerico Causeway Amador.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:IslaPerico_Causeway_Amador.JPG",
+   "illustration": null,
+   "requete": "Amador Causeway Panama",
+   "fichier": "site-amador-causeway.jpg"
+  },
+  "site-village-embera-quera": {
+   "credit": "Alex Proimos from Sydney, Australia, CC BY 2.0, via Wikimedia Commons",
+   "titre": "File:The Yawn - Embera Village (8252019975).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Yawn_-_Embera_Village_(8252019975).jpg",
+   "illustration": null,
+   "requete": "Embera village Panama",
+   "fichier": "site-village-embera-quera.jpg"
+  },
+  "site-dolphin-bay": {
+   "credit": "Nonrev.me, CC BY 4.0, via Wikimedia Commons",
+   "titre": "File:Jet Ski Dolphin Tours Lagoon Pontoons.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Jet_Ski_Dolphin_Tours_Lagoon_Pontoons.jpg",
+   "illustration": null,
+   "requete": "Dolphin Bay Panama",
+   "fichier": "site-dolphin-bay.jpg"
+  },
+  "site-green-acres-chocolate-farm": {
+   "credit": "Evan Kirby evankirby2, CC0, via Wikimedia Commons",
+   "titre": "File:Bocas del Toro, Panama (Unsplash).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Bocas_del_Toro,_Panama_(Unsplash).jpg",
+   "illustration": "Bocas del Toro",
+   "requete": "Bocas del Toro beach Panama",
+   "fichier": "site-green-acres-chocolate-farm.jpg"
+  },
+  "site-finca-dos-jefes": {
+   "credit": "Didier Descouens, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Manduca lichenea MHNT CUT 2010 0 351 Alto Quiel, Boquete Chiriqui Panama, male ventral.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Manduca_lichenea_MHNT_CUT_2010_0_351_Alto_Quiel,_Boquete_Chiriqui_Panama,_male_ventral.jpg",
+   "illustration": "Boquete",
+   "requete": "Boquete Panama",
+   "fichier": "site-finca-dos-jefes.jpg"
+  },
+  "site-boquete-tree-trek": {
+   "credit": "Didier Descouens, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Manduca lichenea MHNT CUT 2010 0 351 Alto Quiel, Boquete Chiriqui Panama, male, dorsal.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Manduca_lichenea_MHNT_CUT_2010_0_351_Alto_Quiel,_Boquete_Chiriqui_Panama,_male,_dorsal.jpg",
+   "illustration": "Boquete",
+   "requete": "Boquete Panama",
+   "fichier": "site-boquete-tree-trek.jpg"
+  },
+  "site-caldera-hot-springs": {
+   "credit": "Boquete Mountain Safari, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Calderahotsprings.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Calderahotsprings.JPG",
+   "illustration": null,
+   "requete": "Caldera hot springs Panama",
+   "fichier": "site-caldera-hot-springs.jpg"
+  },
+  "site-las-tres-cascadas": {
+   "credit": "dronepicr, CC BY 2.0, via Wikimedia Commons",
+   "titre": "File:Wasserfall bei Boquete (26701709943).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Wasserfall_bei_Boquete_(26701709943).jpg",
+   "illustration": null,
+   "requete": "Boquete waterfall",
+   "fichier": "site-las-tres-cascadas.jpg"
+  },
+  "site-carnaval-de-la-cinta-costera": {
+   "credit": "Ciudad PMA500, CC BY-SA 2.0, via Wikimedia Commons",
+   "titre": "File:Cinta Costera Panama Agosto20019.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Cinta_Costera_Panama_Agosto20019.jpg",
+   "illustration": null,
+   "requete": "Cinta Costera Panama",
+   "fichier": "site-carnaval-de-la-cinta-costera.jpg"
+  },
+  "site-mercado-de-mariscos": {
+   "credit": "Virpana, CC0, via Wikimedia Commons",
+   "titre": "File:Mercado de Mariscos (Ciudad de Panamá, Panamá).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Mercado_de_Mariscos_(Ciudad_de_Panam%C3%A1,_Panam%C3%A1).jpg",
+   "illustration": null,
+   "requete": "Mercado de Mariscos Panama",
+   "fichier": "site-mercado-de-mariscos.jpg"
+  },
+  "site-front-de-mer-de-bocas-town": {
+   "credit": "Ariel Rodriguez-Vargas, CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:La Amistad Panama Biosphere Reserve - Bocas del Toro Province 46 - Buffer Zone - Bastimentos Island NW - Red Frog Beach.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:La_Amistad_Panama_Biosphere_Reserve_-_Bocas_del_Toro_Province_46_-_Buffer_Zone_-_Bastimentos_Island_NW_-_Red_Frog_Beach.jpg",
+   "illustration": "Bocas del Toro",
+   "requete": "Bocas del Toro beach Panama",
+   "fichier": "site-front-de-mer-de-bocas-town.jpg"
+  },
+  "hebergement-american-trade-hotel": {
+   "credit": "Prof Ranga Sai, CC0, via Wikimedia Commons",
+   "titre": "File:North American Trade & Transportation Company, Dawson.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:North_American_Trade_%26_Transportation_Company,_Dawson.jpg",
+   "illustration": null,
+   "requete": "American Trade Hotel",
+   "fichier": "hebergement-american-trade-hotel.jpg"
+  },
+  "hebergement-sofitel-legend-casco-viejo": {
+   "credit": "RB Photo, CC BY 2.0, via Wikimedia Commons",
+   "titre": "File:Sofitel Legend Casco Viejo, Panama City, Panama.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Sofitel_Legend_Casco_Viejo,_Panama_City,_Panama.jpg",
+   "illustration": null,
+   "requete": "Sofitel Legend Casco Viejo",
+   "fichier": "hebergement-sofitel-legend-casco-viejo.jpg"
+  },
+  "hebergement-isla-perro-cabanes-guna": {
+   "credit": "Ayaita, CC BY 3.0, via Wikimedia Commons",
+   "titre": "File:Cabañas Guna Yala.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Caba%C3%B1as_Guna_Yala.jpg",
+   "illustration": null,
+   "requete": "San Blas cabins island",
+   "fichier": "hebergement-isla-perro-cabanes-guna.jpg"
+  },
+  "hebergement-cabanas-isla-nubesidub": {
+   "credit": "Panama Tours and Scuba SA, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Beach in San Blas Islands.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Beach_in_San_Blas_Islands.jpg",
+   "illustration": "San Blas",
+   "requete": "San Blas beach Panama",
+   "fichier": "hebergement-cabanas-isla-nubesidub.jpg"
+  },
+  "hebergement-tropical-suites-hotel": {
+   "credit": "Dronepicr, CC BY 3.0, via Wikimedia Commons",
+   "titre": "File:Bocas del Toro Panama.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Bocas_del_Toro_Panama.jpg",
+   "illustration": "Bocas del Toro",
+   "requete": "Bocas del Toro Panama",
+   "fichier": "hebergement-tropical-suites-hotel.jpg"
+  },
+  "hebergement-red-frog-beach-island-resort": {
+   "credit": "Dronepicr, CC BY 3.0, via Wikimedia Commons",
+   "titre": "File:Bocas del Toro Panama 6.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Bocas_del_Toro_Panama_6.jpg",
+   "illustration": "Bocas del Toro",
+   "requete": "Bocas del Toro Panama",
+   "fichier": "hebergement-red-frog-beach-island-resort.jpg"
+  },
+  "hebergement-panamonte-inn": {
+   "credit": "Ramon J. Recinos T., CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Unión atornillada del puente Panamonte.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Uni%C3%B3n_atornillada_del_puente_Panamonte.jpg",
+   "illustration": null,
+   "requete": "Panamonte Boquete",
+   "fichier": "hebergement-panamonte-inn.jpg"
+  },
+  "hebergement-valle-escondido-resort": {
+   "credit": "Didier Descouens, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Manduca lichenea MHNT CUT 2010 0 351 Alto Quiel, Boquete Chiriqui Panama, female ventral.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Manduca_lichenea_MHNT_CUT_2010_0_351_Alto_Quiel,_Boquete_Chiriqui_Panama,_female_ventral.jpg",
+   "illustration": "Boquete",
+   "requete": "Boquete Panama",
+   "fichier": "hebergement-valle-escondido-resort.jpg"
+  },
+  "hebergement-location-a-panama-ville-airbnb": {
+   "credit": "Diego Delso, CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:Casco viejo de Dubrovnik, Croacia, 2014-04-14, DD 07.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Casco_viejo_de_Dubrovnik,_Croacia,_2014-04-14,_DD_07.JPG",
+   "illustration": null,
+   "requete": "Casco Viejo street",
+   "fichier": "hebergement-location-a-panama-ville-airbnb.jpg"
+  },
+  "restaurant-mercado-de-mariscos-restaurants": {
+   "credit": "ProtoplasmaKid, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Mercado de Mariscos Panamá.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Mercado_de_Mariscos_Panam%C3%A1.jpg",
+   "illustration": null,
+   "requete": "Mercado de Mariscos Panama",
+   "fichier": "restaurant-mercado-de-mariscos-restaurants.jpg"
+  },
+  "restaurant-mosana": {
+   "credit": "Syrio, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Mosana.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Mosana.jpg",
+   "illustration": null,
+   "requete": "MOSANA",
+   "fichier": "restaurant-mosana.jpg"
+  },
+  "restaurant-ohana-bocas": {
+   "credit": "Dronepicr, CC BY 3.0, via Wikimedia Commons",
+   "titre": "File:Bocas del Toro Panama 4.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Bocas_del_Toro_Panama_4.jpg",
+   "illustration": "Bocas del Toro",
+   "requete": "Bocas del Toro Panama",
+   "fichier": "restaurant-ohana-bocas.jpg"
+  },
+  "restaurant-el-ultimo-refugio": {
+   "credit": "hh oldman, CC BY 3.0, via Wikimedia Commons",
+   "titre": "File:Bocas del Toro Province, Panama - panoramio (18).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Bocas_del_Toro_Province,_Panama_-_panoramio_(18).jpg",
+   "illustration": "Bocas del Toro",
+   "requete": "Bocas del Toro Panama",
+   "fichier": "restaurant-el-ultimo-refugio.jpg"
+  },
+  "restaurant-buena-vista": {
+   "credit": "Elisa.rolle, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Buena Vista, Colorado, Town Hall.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Buena_Vista,_Colorado,_Town_Hall.jpg",
+   "illustration": null,
+   "requete": "Buena Vista",
+   "fichier": "restaurant-buena-vista.jpg"
+  },
+  "restaurant-donde-giselle": {
+   "credit": "Didier Descouens, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Manduca lichenea MHNT CUT 2010 0 351 Alto Quiel, Boquete Chiriqui Panama, female dorsal.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Manduca_lichenea_MHNT_CUT_2010_0_351_Alto_Quiel,_Boquete_Chiriqui_Panama,_female_dorsal.jpg",
+   "illustration": "Boquete",
+   "requete": "Boquete Panama",
+   "fichier": "restaurant-donde-giselle.jpg"
+  },
+  "restaurant-retrogusto": {
+   "credit": "FranHogan, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Aerial view of Boquete, Panama.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Boquete,_Panama.jpg",
+   "illustration": "Boquete",
+   "requete": "Boquete Panama",
+   "fichier": "restaurant-retrogusto.jpg"
+  },
+  "plat-sancocho": {
+   "credit": "Jdvillalobos, CC BY 3.0, via Wikimedia Commons",
+   "titre": "File:Barranquilla - Sancocho de mondongo.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Barranquilla_-_Sancocho_de_mondongo.jpg",
+   "illustration": null,
+   "requete": "sancocho soup",
+   "fichier": "plat-sancocho.jpg"
+  },
+  "plat-ceviche": {
+   "credit": "No machine-readable author provided. Manuel González Olaechea assumed (based on , CC BY 3.0, via Wikimedia Commons",
+   "titre": "File:Ceviche del Perú.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Ceviche_del_Per%C3%BA.jpg",
+   "illustration": null,
+   "requete": "ceviche",
+   "fichier": "plat-ceviche.jpg"
+  },
+  "plat-patacones": {
+   "credit": "Jdvillalobos, CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:Patacones.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Patacones.JPG",
+   "illustration": null,
+   "requete": "patacones",
+   "fichier": "plat-patacones.jpg"
+  },
+  "plat-arroz-con-pollo": {
+   "credit": "Kobako, CC BY-SA 2.5, via Wikimedia Commons",
+   "titre": "File:Arroz-con-Pollo.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Arroz-con-Pollo.jpg",
+   "illustration": null,
+   "requete": "arroz con pollo",
+   "fichier": "plat-arroz-con-pollo.jpg"
+  },
+  "plat-carimanolas": {
+   "credit": "Jdvillalobos, CC BY 3.0, via Wikimedia Commons",
+   "titre": "File:Barranquilla - Carimañolas.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Barranquilla_-_Carima%C3%B1olas.jpg",
+   "illustration": null,
+   "requete": "carimañola",
+   "fichier": "plat-carimanolas.jpg"
+  },
+  "plat-hojaldras": {
+   "credit": "Daderot, CC0, via Wikimedia Commons",
+   "titre": "File:Fried egg on minced beef on sourdough toast - Auckland, New Zealand.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Fried_egg_on_minced_beef_on_sourdough_toast_-_Auckland,_New_Zealand.jpg",
+   "illustration": null,
+   "requete": "fried dough breakfast",
+   "fichier": "plat-hojaldras.jpg"
+  },
+  "plat-rondon": {
+   "credit": "Remux, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Kolombio vs Panama 25.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Kolombio_vs_Panama_25.jpg",
+   "illustration": null,
+   "requete": "Rondón Panama",
+   "fichier": "plat-rondon.jpg"
+  },
+  "plat-raspao": {
+   "credit": "auteur inconnu, CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:Sorry, Snow Cone.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Sorry,_Snow_Cone.jpg",
+   "illustration": null,
+   "requete": "raspao Panama",
+   "fichier": "plat-raspao.jpg"
+  },
+  "base-panama-ville-4-1-nuits": {
+   "credit": "Holacocacola1968, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Panama City Casco Viejo.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Panama_City_Casco_Viejo.jpg",
+   "illustration": null,
+   "requete": "Casco Viejo Panama",
+   "fichier": "base-panama-ville-4-1-nuits.jpg"
+  },
+  "base-san-blas-2-nuits": {
+   "credit": "User:Stan Shebs, CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:San Blas Islands.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:San_Blas_Islands.jpg",
+   "illustration": null,
+   "requete": "San Blas islands",
+   "fichier": "base-san-blas-2-nuits.jpg"
+  },
+  "base-bocas-del-toro-4-nuits": {
+   "credit": "hh oldman, CC BY 3.0, via Wikimedia Commons",
+   "titre": "File:Bank National Bocas del Toro - panoramio.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Bank_National_Bocas_del_Toro_-_panoramio.jpg",
+   "illustration": null,
+   "requete": "Bocas del Toro",
+   "fichier": "base-bocas-del-toro-4-nuits.jpg"
+  },
+  "base-boquete-2-nuits": {
+   "credit": "Rob vanNostrand, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:RVN06957.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:RVN06957.jpg",
+   "illustration": null,
+   "requete": "Boquete Panama",
+   "fichier": "base-boquete-2-nuits.jpg"
+  }
+ },
+ "manquants": [
+  "site-monkey-island-lac-gatun",
+  "site-panama-rainforest-discovery-center",
+  "hebergement-hotel-la-compania",
+  "hebergement-location-a-bocas-del-toro-airbnb",
+  "restaurant-fonda-lo-que-hay",
+  "restaurant-el-enemigo",
+  "restaurant-kaandela",
+  "restaurant-christopher-s-steakhouse"
+ ],
+ "videos": {
+  "general-0": {
+   "url": "https://www.youtube.com/watch?v=XTeJ048XYwg",
+   "titre": "ULTIMATE Panama City TRAVEL Guide! (COMPLETE OVERVIEW)",
+   "chaine": "The Country Collectors",
+   "duree": 1909,
+   "vues": 176916
+  },
+  "general-1": {
+   "url": "https://www.youtube.com/watch?v=Kp-cXTY8z-w",
+   "titre": "TRAVEL PLAN for PANAMA WITH KIDS 🇵🇦 Complete Family Itinerary (7-day trip)",
+   "chaine": "",
+   "duree": 779,
+   "vues": 0
+  },
+  "plage-isla-perro": {
+   "url": "https://www.youtube.com/watch?v=091fnsMN9M0",
+   "titre": "San Blas Panama: The ULTIMATE Tropical Getaway!",
+   "chaine": "The Country Collectors",
+   "duree": 1680,
+   "vues": 146628
+  },
+  "plage-zapatilla": {
+   "url": "https://www.youtube.com/watch?v=wQ7yToKGzg4",
+   "titre": "Bocas Del Toro Is So Cool! 🇵🇦 PANAMA (What To Expect & Prices)",
+   "chaine": "Jumping Places",
+   "duree": 1336,
+   "vues": 149150
+  },
+  "site-miraflores-visitor-center": {
+   "url": "https://www.youtube.com/watch?v=eyZ1KzV2_7w",
+   "titre": "Ship passing through Panama Canal - Miraflores Locks",
+   "chaine": "TeamAwesome",
+   "duree": 379,
+   "vues": 1145536
+  },
+  "site-casco-viejo-et-plaza-de-francia": {
+   "url": "https://www.youtube.com/watch?v=9MRzMN9enI0",
+   "titre": "Casco Viejo Panama City Walking Tour 🇵🇦  2024 4K",
+   "chaine": "Loop Ambience",
+   "duree": 1978,
+   "vues": 45551
+  },
+  "site-monkey-island-lac-gatun": {
+   "url": "https://www.youtube.com/watch?v=sAPMhuv2bHw",
+   "titre": "Rain Forest & Monkey Island Tour | New Leaf Panama Tours",
+   "chaine": "That Mountain Life",
+   "duree": 358,
+   "vues": 15737
+  },
+  "site-finca-dos-jefes": {
+   "url": "https://www.youtube.com/watch?v=UW2wFd-AH5g",
+   "titre": "We Found PARADISE! 1 Week in Boquete, Panama (Best Expat Town)",
+   "chaine": "Eat See TV",
+   "duree": 879,
+   "vues": 106737
+  }
+ }
+}
