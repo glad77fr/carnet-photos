@@ -1,0 +1,475 @@
+{
+ "_hash": "cf351a8ddacd297c0ccf9dd057fc51490b8e9128",
+ "_demande": "cf677ab97e347178a757bfdfc61a52663131048f",
+ "photos": {
+  "plage-plage-de-qurum": {
+   "credit": "Matti Blume, CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:Qurum Beach, Muscat (20130331-DSC04117).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Qurum_Beach,_Muscat_(20130331-DSC04117).jpg",
+   "illustration": null,
+   "requete": "Qurum Beach Muscat",
+   "fichier": "plage-plage-de-qurum.jpg"
+  },
+  "plage-iles-daymaniyat": {
+   "credit": "Wusel007, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Dimaniyat Islands 2.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Dimaniyat_Islands_2.jpg",
+   "illustration": null,
+   "requete": "Daymaniyat Islands Oman",
+   "fichier": "plage-iles-daymaniyat.jpg"
+  },
+  "plage-plage-de-ras-al-jinz": {
+   "credit": "F igy, CC BY 3.0, via Wikimedia Commons",
+   "titre": "File:Green trurtle at ras al jinz oman.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Green_trurtle_at_ras_al_jinz_oman.JPG",
+   "illustration": null,
+   "requete": "Ras al Jinz green turtle",
+   "fichier": "plage-plage-de-ras-al-jinz.jpg"
+  },
+  "plage-plage-de-fins": {
+   "credit": "Diego Delso, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Escudo de Omán, palacio de Al Alam, Mascate, Omán, 2024-08-14, DD 32.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Escudo_de_Om%C3%A1n,_palacio_de_Al_Alam,_Mascate,_Om%C3%A1n,_2024-08-14,_DD_32.jpg",
+   "illustration": "Mascate",
+   "requete": "Mascate Oman",
+   "fichier": "plage-plage-de-fins.jpg"
+  },
+  "site-grande-mosquee-sultan-qaboos": {
+   "credit": "Rrburke, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Sultan Qaboos Grand Mosque Muscat 06.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Sultan_Qaboos_Grand_Mosque_Muscat_06.JPG",
+   "illustration": null,
+   "requete": "Sultan Qaboos Grand Mosque Muscat",
+   "fichier": "site-grande-mosquee-sultan-qaboos.jpg"
+  },
+  "site-souq-de-mutrah": {
+   "credit": "Dr. Thomas Liptak, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Oman, Muscat, Mutrah Souq, Kuma.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Oman,_Muscat,_Mutrah_Souq,_Kuma.jpg",
+   "illustration": null,
+   "requete": "Mutrah Souq Muscat",
+   "fichier": "site-souq-de-mutrah.jpg"
+  },
+  "site-royal-opera-house": {
+   "credit": "Chief National Guard Bureau, CC BY 2.0, via Wikimedia Commons",
+   "titre": "File:Royal Opera House Muscat, Muscat, Sultanate of Oman.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Royal_Opera_House_Muscat,_Muscat,_Sultanate_of_Oman.jpg",
+   "illustration": null,
+   "requete": "Royal Opera House Muscat",
+   "fichier": "site-royal-opera-house.jpg"
+  },
+  "site-fort-de-nizwa": {
+   "credit": "Hans Birger Nilsen, CC BY-SA 2.0, via Wikimedia Commons",
+   "titre": "File:Nizwa Fort Main Tower (41505471734).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Nizwa_Fort_Main_Tower_(41505471734).jpg",
+   "illustration": null,
+   "requete": "Nizwa Fort tower",
+   "fichier": "site-fort-de-nizwa.jpg"
+  },
+  "site-chateau-de-jabrin": {
+   "credit": "Sakralamn, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Jabrin Castle Oman 005.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Jabrin_Castle_Oman_005.jpg",
+   "illustration": null,
+   "requete": "Jabrin Castle Oman",
+   "fichier": "site-chateau-de-jabrin.jpg"
+  },
+  "site-grotte-d-al-hoota": {
+   "credit": "Paul IJpelaar, CC BY 3.0, via Wikimedia Commons",
+   "titre": "File:Rockformations near Al Hoota caves - panoramio.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Rockformations_near_Al_Hoota_caves_-_panoramio.jpg",
+   "illustration": null,
+   "requete": "Al Hoota Cave Oman",
+   "fichier": "site-grotte-d-al-hoota.jpg"
+  },
+  "site-misfat-al-abriyeen": {
+   "credit": "Broc, CC0, via Wikimedia Commons",
+   "titre": "File:Misfat Al Abriyeen Village, Oman.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Misfat_Al_Abriyeen_Village,_Oman.jpg",
+   "illustration": null,
+   "requete": "Misfat al Abriyeen",
+   "fichier": "site-misfat-al-abriyeen.jpg"
+  },
+  "site-canyon-du-jebel-shams": {
+   "credit": "albinfo, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Jebel Shams and goat.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Jebel_Shams_and_goat.jpg",
+   "illustration": null,
+   "requete": "Jebel Shams canyon",
+   "fichier": "site-canyon-du-jebel-shams.jpg"
+  },
+  "site-jebel-akhdar": {
+   "credit": "Philipp Weigell, CC BY 3.0, via Wikimedia Commons",
+   "titre": "File:Jebel Akhdar view.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Jebel_Akhdar_view.jpg",
+   "illustration": null,
+   "requete": "Jebel Akhdar terraces",
+   "fichier": "site-jebel-akhdar.jpg"
+  },
+  "site-marche-aux-chevres-de-nizwa": {
+   "credit": "Andries Oudshoorn, CC BY-SA 2.0, via Wikimedia Commons",
+   "titre": "File:Nizwa goat market (12).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Nizwa_goat_market_(12).jpg",
+   "illustration": null,
+   "requete": "Nizwa goat market",
+   "fichier": "site-marche-aux-chevres-de-nizwa.jpg"
+  },
+  "site-wadi-bani-khalid": {
+   "credit": "Richard Bartz, CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:Wadi Bani Khalid East RB.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Wadi_Bani_Khalid_East_RB.jpg",
+   "illustration": null,
+   "requete": "Wadi Bani Khalid",
+   "fichier": "site-wadi-bani-khalid.jpg"
+  },
+  "site-reserve-des-tortues-de-ras-al-jinz": {
+   "credit": "Kim Kash, CC BY-SA 2.0, via Wikimedia Commons",
+   "titre": "File:Ras Al Jinz turtle reserve (14930327261).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Ras_Al_Jinz_turtle_reserve_(14930327261).jpg",
+   "illustration": null,
+   "requete": "Ras al Jinz turtle reserve",
+   "fichier": "site-reserve-des-tortues-de-ras-al-jinz.jpg"
+  },
+  "site-chantier-des-boutres-de-sur": {
+   "credit": "Dr. Thomas Liptak, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Oman, Sur, Dhow shipyard.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Oman,_Sur,_Dhow_shipyard.jpg",
+   "illustration": null,
+   "requete": "Sur dhow Oman",
+   "fichier": "site-chantier-des-boutres-de-sur.jpg"
+  },
+  "site-wadi-shab": {
+   "credit": "albinfo, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Wadi Shab 3.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Wadi_Shab_3.jpg",
+   "illustration": null,
+   "requete": "Wadi Shab Oman",
+   "fichier": "site-wadi-shab.jpg"
+  },
+  "site-bimmah-sinkhole": {
+   "credit": "Dr. Thomas Liptak, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Oman, Dibab, Hawiyat Najm Park, Bimmah Sinkhole.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Oman,_Dibab,_Hawiyat_Najm_Park,_Bimmah_Sinkhole.jpg",
+   "illustration": null,
+   "requete": "Bimmah Sinkhole",
+   "fichier": "site-bimmah-sinkhole.jpg"
+  },
+  "site-sortie-dauphins": {
+   "credit": "Paul IJpelaar, CC BY 3.0, via Wikimedia Commons",
+   "titre": "File:Dolphin watching from Al Bandar bay - panoramio.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Dolphin_watching_from_Al_Bandar_bay_-_panoramio.jpg",
+   "illustration": null,
+   "requete": "dolphins Muscat Oman",
+   "fichier": "site-sortie-dauphins.jpg"
+  },
+  "site-corniche-de-mutrah": {
+   "credit": "Omar AV, CC BY 3.0, via Wikimedia Commons",
+   "titre": "File:Fishing at night time, Mutrah, Muscat - panoramio.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Fishing_at_night_time,_Mutrah,_Muscat_-_panoramio.jpg",
+   "illustration": null,
+   "requete": "Mutrah Corniche night",
+   "fichier": "site-corniche-de-mutrah.jpg"
+  },
+  "site-nuit-au-camp-du-desert": {
+   "credit": "albinfo, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Wahiba Sands 05.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Wahiba_Sands_05.jpg",
+   "illustration": null,
+   "requete": "Wahiba Sands sunset",
+   "fichier": "site-nuit-au-camp-du-desert.jpg"
+  },
+  "hebergement-intercontinental-muscat": {
+   "credit": "Raymond M. Coveney, …, CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:Muscat from Intercontinental Hotel - panoramio.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Muscat_from_Intercontinental_Hotel_-_panoramio.jpg",
+   "illustration": null,
+   "requete": "InterContinental Muscat",
+   "fichier": "hebergement-intercontinental-muscat.jpg"
+  },
+  "hebergement-the-st-regis-al-mouj-muscat": {
+   "credit": "A1000 (talk) 16:47, 3 January 2019 (UTC), CC0, via Wikimedia Commons",
+   "titre": "File:Al-mouj-marina.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Al-mouj-marina.jpg",
+   "illustration": null,
+   "requete": "Al Mouj Muscat",
+   "fichier": "hebergement-the-st-regis-al-mouj-muscat.jpg"
+  },
+  "hebergement-mercure-muscat": {
+   "credit": "Domenico Convertini, CC BY-SA 2.0, via Wikimedia Commons",
+   "titre": "File:Old Muscat City View, Muscat, Oman3.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Old_Muscat_City_View,_Muscat,_Oman3.jpg",
+   "illustration": null,
+   "requete": "Muscat city",
+   "fichier": "hebergement-mercure-muscat.jpg"
+  },
+  "hebergement-swiss-belhotel-nizwa": {
+   "credit": "Ji-Elle, CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:Nizwa-Vestiges de la vieille ville (1).JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Nizwa-Vestiges_de_la_vieille_ville_(1).JPG",
+   "illustration": null,
+   "requete": "Nizwa old town",
+   "fichier": "hebergement-swiss-belhotel-nizwa.jpg"
+  },
+  "hebergement-bait-alharah": {
+   "credit": "Martin Falbisoner, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Nizwa Fort and Minaret of Friday Mosque.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Nizwa_Fort_and_Minaret_of_Friday_Mosque.JPG",
+   "illustration": "Nizwa",
+   "requete": "Nizwa Oman",
+   "fichier": "hebergement-bait-alharah.jpg"
+  },
+  "hebergement-starry-domes-desert-camp": {
+   "credit": "Diego Delso, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Desierto de Wahiba, Omán, 2024-08-17, DD 17.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Desierto_de_Wahiba,_Om%C3%A1n,_2024-08-17,_DD_17.jpg",
+   "illustration": "Wahiba",
+   "requete": "Wahiba Oman",
+   "fichier": "hebergement-starry-domes-desert-camp.jpg"
+  },
+  "hebergement-sama-al-wasil-desert-camp": {
+   "credit": "Diego Delso, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Desierto de Wahiba, Omán, 2024-08-17, DD 18.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Desierto_de_Wahiba,_Om%C3%A1n,_2024-08-17,_DD_18.jpg",
+   "illustration": "Wahiba",
+   "requete": "Wahiba Oman",
+   "fichier": "hebergement-sama-al-wasil-desert-camp.jpg"
+  },
+  "hebergement-ras-al-jinz-turtle-reserve": {
+   "credit": "hotshoe!, CC BY 2.0, via Wikimedia Commons",
+   "titre": "File:Ras al jinz flickr01.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Ras_al_jinz_flickr01.jpg",
+   "illustration": null,
+   "requete": "Ras al Jinz",
+   "fichier": "hebergement-ras-al-jinz-turtle-reserve.jpg"
+  },
+  "hebergement-location-a-mascate-airbnb": {
+   "credit": "Christoph Strässler, CC BY-SA 2.0, via Wikimedia Commons",
+   "titre": "File:Coast near Muscat with Al Bustan Palace Hotel.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Coast_near_Muscat_with_Al_Bustan_Palace_Hotel.jpg",
+   "illustration": null,
+   "requete": "Muscat Oman coast",
+   "fichier": "hebergement-location-a-mascate-airbnb.jpg"
+  },
+  "restaurant-bait-al-luban": {
+   "credit": "Fabio Achilli, CC BY 2.0, via Wikimedia Commons",
+   "titre": "File:Bait Al Luban Restaurant.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Bait_Al_Luban_Restaurant.jpg",
+   "illustration": null,
+   "requete": "Bait Al Luban Oman",
+   "fichier": "restaurant-bait-al-luban.jpg"
+  },
+  "restaurant-ghamdan-palace": {
+   "credit": "Diego Delso, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Palacio de Al Alam, Mascate, Omán, 2024-08-14, DD 36.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Palacio_de_Al_Alam,_Mascate,_Om%C3%A1n,_2024-08-14,_DD_36.jpg",
+   "illustration": "Mascate",
+   "requete": "Mascate Oman",
+   "fichier": "restaurant-ghamdan-palace.jpg"
+  },
+  "restaurant-royal-house": {
+   "credit": "Tyssil, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Royal House, Machynlleth 01.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Royal_House,_Machynlleth_01.JPG",
+   "illustration": null,
+   "requete": "Royal House",
+   "fichier": "restaurant-royal-house.jpg"
+  },
+  "restaurant-green-cafe": {
+   "credit": "Michael Garlick, CC BY-SA 2.0, via Wikimedia Commons",
+   "titre": "File:Debenham, River Green Cafe - geograph.org.uk - 6798740.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Debenham,_River_Green_Cafe_-_geograph.org.uk_-_6798740.jpg",
+   "illustration": null,
+   "requete": "Green Cafe",
+   "fichier": "restaurant-green-cafe.jpg"
+  },
+  "restaurant-kwareg": {
+   "credit": "Dr. Thomas Liptak, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Oman, Nizwa, Souq (Basar).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Oman,_Nizwa,_Souq_(Basar).jpg",
+   "illustration": "Nizwa",
+   "requete": "Nizwa Oman",
+   "fichier": "restaurant-kwareg.jpg"
+  },
+  "restaurant-kattarah": {
+   "credit": "Andries Oudshoorn, CC BY-SA 2.0, via Wikimedia Commons",
+   "titre": "File:Nizwa (7).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Nizwa_(7).jpg",
+   "illustration": "Nizwa",
+   "requete": "Nizwa Oman",
+   "fichier": "restaurant-kattarah.jpg"
+  },
+  "restaurant-turath-al-mandi": {
+   "credit": "dconvertini, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Nizwa Fort, Oman 2024 28.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Nizwa_Fort,_Oman_2024_28.jpg",
+   "illustration": "Nizwa",
+   "requete": "Nizwa Oman",
+   "fichier": "restaurant-turath-al-mandi.jpg"
+  },
+  "restaurant-sahari": {
+   "credit": "Enperfectify World, CC BY 4.0, via Wikimedia Commons",
+   "titre": "File:Gunung Sahari Transjakarta BRT Station, 2023.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Gunung_Sahari_Transjakarta_BRT_Station,_2023.jpg",
+   "illustration": null,
+   "requete": "Sahari",
+   "fichier": "restaurant-sahari.jpg"
+  },
+  "restaurant-manart-sur": {
+   "credit": "Albinfo, CC BY 4.0, via Wikimedia Commons",
+   "titre": "File:Ras al-Jinz beach overview.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Ras_al-Jinz_beach_overview.jpg",
+   "illustration": "Ras al-Jinz",
+   "requete": "Ras al-Jinz beach Oman",
+   "fichier": "restaurant-manart-sur.jpg"
+  },
+  "plat-shuwa": {
+   "credit": "RamboSD, CC BY 4.0, via Wikimedia Commons",
+   "titre": "File:الشية السودانية 02.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:%D8%A7%D9%84%D8%B4%D9%8A%D8%A9_%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86%D9%8A%D8%A9_02.jpg",
+   "illustration": null,
+   "requete": "shuwa Oman",
+   "fichier": "plat-shuwa.jpg"
+  },
+  "plat-majboos": {
+   "credit": "Sammy Six, CC BY 2.0, via Wikimedia Commons",
+   "titre": "File:Kabsa (6486384335).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Kabsa_(6486384335).jpg",
+   "illustration": null,
+   "requete": "majboos",
+   "fichier": "plat-majboos.jpg"
+  },
+  "plat-harees": {
+   "credit": "Ketone16, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Armenian Harisa.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Armenian_Harisa.JPG",
+   "illustration": null,
+   "requete": "harees",
+   "fichier": "plat-harees.jpg"
+  },
+  "plat-luqaimat": {
+   "credit": "Benreis, CC BY 3.0, via Wikimedia Commons",
+   "titre": "File:Lokma Galata Bridge.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Lokma_Galata_Bridge.JPG",
+   "illustration": null,
+   "requete": "luqaimat",
+   "fichier": "plat-luqaimat.jpg"
+  },
+  "plat-halwa-omanaise": {
+   "credit": "Silpa11, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Carrot Halwa - Woodlands Indian Restaurant - Muscat, Oman - DSC 0005.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Carrot_Halwa_-_Woodlands_Indian_Restaurant_-_Muscat,_Oman_-_DSC_0005.jpg",
+   "illustration": null,
+   "requete": "Omani halwa",
+   "fichier": "plat-halwa-omanaise.jpg"
+  },
+  "plat-fahsa": {
+   "credit": "غسان السقاف, CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:Fahsa.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Fahsa.jpg",
+   "illustration": null,
+   "requete": "fahsa Yemeni",
+   "fichier": "plat-fahsa.jpg"
+  },
+  "base-mascate-2-4-nuits": {
+   "credit": "Mostafameraji, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Muscat, Oman مسقط، عمان 16.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Muscat,_Oman_%D9%85%D8%B3%D9%82%D8%B7%D8%8C_%D8%B9%D9%85%D8%A7%D9%86_16.jpg",
+   "illustration": null,
+   "requete": "Muscat Oman corniche",
+   "fichier": "base-mascate-2-4-nuits.jpg"
+  },
+  "base-nizwa-4-nuits": {
+   "credit": "dconvertini, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Nizwa Fort, Oman 2024 15.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Nizwa_Fort,_Oman_2024_15.jpg",
+   "illustration": null,
+   "requete": "Nizwa Oman",
+   "fichier": "base-nizwa-4-nuits.jpg"
+  },
+  "base-wahiba-sands-1-nuit": {
+   "credit": "albinfo, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Wahiba Sands 04.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Wahiba_Sands_04.jpg",
+   "illustration": null,
+   "requete": "Wahiba Sands camp",
+   "fichier": "base-wahiba-sands-1-nuit.jpg"
+  },
+  "base-ras-al-jinz-2-nuits": {
+   "credit": "Kim Kash, CC BY-SA 2.0, via Wikimedia Commons",
+   "titre": "File:Ras Al Jinz turtle reserve (14746761559).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Ras_Al_Jinz_turtle_reserve_(14746761559).jpg",
+   "illustration": null,
+   "requete": "Ras al Jinz turtle",
+   "fichier": "base-ras-al-jinz-2-nuits.jpg"
+  }
+ },
+ "manquants": [
+  "plat-mashuai",
+  "plat-kahwa-et-dattes"
+ ],
+ "videos": {
+  "general-0": {
+   "url": "https://www.youtube.com/watch?v=ZaCzkHkgrlc",
+   "titre": "OMAN: The Safe and Beautiful Country No One Knows About | 4K Travel Documentary",
+   "chaine": "TRUE GLOBE",
+   "duree": 2072,
+   "vues": 1376724
+  },
+  "general-1": {
+   "url": "https://www.youtube.com/watch?v=RjCUPSEz8Kk",
+   "titre": "I’m Solo Overlanding the Middle East’s Most UNDERRATED Country (Oman)",
+   "chaine": "Flora Gonning",
+   "duree": 1438,
+   "vues": 134250
+  },
+  "plage-iles-daymaniyat": {
+   "url": "https://www.youtube.com/watch?v=1J_EmN0ZoeE",
+   "titre": "DAYMANIYAT ISLANDS | SNORKELLING WITH TURTLES IN THE ARABIAN SEA!! | OMAN SERIES PT 5",
+   "chaine": "Malini Angelica",
+   "duree": 592,
+   "vues": 141747
+  },
+  "site-grande-mosquee-sultan-qaboos": {
+   "url": "https://www.youtube.com/watch?v=8xRTc6hVMJU",
+   "titre": "FIRST TIME IN OMAN! MUSCAT 🇴🇲 Mutrah & Sultan Qaboos Grand Mosque",
+   "chaine": "Jumping Places",
+   "duree": 1567,
+   "vues": 120043
+  },
+  "site-fort-de-nizwa": {
+   "url": "https://www.youtube.com/watch?v=KFpiLXElsis",
+   "titre": "Nizwa Oman | Visiting Oman's Ancient City | Groundbreaker",
+   "chaine": "GroundBreaker Explore",
+   "duree": 447,
+   "vues": 19733
+  },
+  "site-jebel-akhdar": {
+   "url": "https://www.youtube.com/watch?v=9Bcsc0TtxpQ",
+   "titre": "Alila Jabal Akhdar, a luxury and breathtaking hotel in Oman - LUXE.TV",
+   "chaine": "LUXE.TV, your luxury channel",
+   "duree": 149,
+   "vues": 24810
+  },
+  "site-wadi-bani-khalid": {
+   "url": "https://www.youtube.com/watch?v=Pdoybk3rR0A",
+   "titre": "OMAN'S BEST WADI: Visit Wadi Bani Khalid & the camel market in Sinaw",
+   "chaine": "Got2Go",
+   "duree": 1195,
+   "vues": 89335
+  },
+  "site-reserve-des-tortues-de-ras-al-jinz": {
+   "url": "https://www.youtube.com/watch?v=14S6HfjptFg",
+   "titre": "Turtle Watching in Ras Al Jinz Turtle Reserve, Ras Al Hadd, Oman",
+   "chaine": "Expat on the Road",
+   "duree": 837,
+   "vues": 13032
+  },
+  "site-wadi-shab": {
+   "url": "https://www.youtube.com/watch?v=57bTzCJMs7k",
+   "titre": "WADI SHAB & SUR | SECRET CAVE & WATERFALL!!  | OMAN SERIES PT 2",
+   "chaine": "Malini Angelica",
+   "duree": 488,
+   "vues": 199679
+  }
+ }
+}
