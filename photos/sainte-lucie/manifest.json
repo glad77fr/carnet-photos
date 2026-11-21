@@ -1,0 +1,468 @@
+{
+ "_hash": "b253d0e8b051999c15d9fb727bc3afbb82e01015",
+ "_demande": "897376272dfeb014d1cbcd17939d61b21a360de8",
+ "photos": {
+  "plage-anse-mamin": {
+   "credit": "XeresNelro, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Anse Mamin, St. Lucia ,3.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Anse_Mamin,_St._Lucia_,3.jpg",
+   "illustration": null,
+   "requete": "Anse Mamin Saint Lucia",
+   "fichier": "plage-anse-mamin.jpg"
+  },
+  "plage-sugar-beach": {
+   "credit": "Prayitno / Thank you for (12 millions +) view from Los Angeles, USA, CC BY 2.0, via Wikimedia Commons",
+   "titre": "File:Sugar Beach Viceroy Resort (23596775443).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Sugar_Beach_Viceroy_Resort_(23596775443).jpg",
+   "illustration": null,
+   "requete": "Sugar Beach Saint Lucia Pitons",
+   "fichier": "plage-sugar-beach.jpg"
+  },
+  "plage-anse-chastanet": {
+   "credit": "ROxBo at English Wikipedia, Public domain, via Wikimedia Commons",
+   "titre": "File:Anse Chastanet, Saint Lucia April 2007.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Anse_Chastanet,_Saint_Lucia_April_2007.jpg",
+   "illustration": null,
+   "requete": "Anse Chastanet Saint Lucia",
+   "fichier": "plage-anse-chastanet.jpg"
+  },
+  "plage-reduit-beach": {
+   "credit": "XeresNelro, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Reduit Beach, Rodney Bay, St. Lucia 11.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Reduit_Beach,_Rodney_Bay,_St._Lucia_11.jpg",
+   "illustration": null,
+   "requete": "Reduit Beach Saint Lucia",
+   "fichier": "plage-reduit-beach.jpg"
+  },
+  "plage-pigeon-island-beach": {
+   "credit": "Chris Hunkeler from Carlsbad, California, USA, CC BY-SA 2.0, via Wikimedia Commons",
+   "titre": "File:Pigeon Island Causeway Beaches (39071455480).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Pigeon_Island_Causeway_Beaches_(39071455480).jpg",
+   "illustration": null,
+   "requete": "Pigeon Island beach Saint Lucia",
+   "fichier": "plage-pigeon-island-beach.jpg"
+  },
+  "plage-vigie-beach": {
+   "credit": "Terry Ott from Washington, DC Metro Area, United States of America, CC BY 2.0, via Wikimedia Commons",
+   "titre": "File:St. Lucia - Castries - Vigie Beach (49436570881).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:St._Lucia_-_Castries_-_Vigie_Beach_(49436570881).jpg",
+   "illustration": null,
+   "requete": "Vigie Beach Castries",
+   "fichier": "plage-vigie-beach.jpg"
+  },
+  "site-sulphur-springs": {
+   "credit": "Sfearion, CC BY 4.0, via Wikimedia Commons",
+   "titre": "File:Sulphur Springs, St Lucia (2015).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Sulphur_Springs,_St_Lucia_(2015).jpg",
+   "illustration": null,
+   "requete": "Sulphur Springs Saint Lucia",
+   "fichier": "site-sulphur-springs.jpg"
+  },
+  "site-diamond-falls-botanical-gardens": {
+   "credit": "Enrevseluj, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Vue de Soufrière (Sainte-Lucie).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Vue_de_Soufri%C3%A8re_(Sainte-Lucie).jpg",
+   "illustration": "Soufrière",
+   "requete": "Soufrière Saint Lucia",
+   "fichier": "site-diamond-falls-botanical-gardens.jpg"
+  },
+  "site-tet-paul-nature-trail": {
+   "credit": "Jim Vajda, CC BY 2.0, via Wikimedia Commons",
+   "titre": "File:Piton Layers - Soufrière, St Lucia.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Piton_Layers_-_Soufri%C3%A8re,_St_Lucia.jpg",
+   "illustration": "Soufrière",
+   "requete": "Soufrière Saint Lucia",
+   "fichier": "site-tet-paul-nature-trail.jpg"
+  },
+  "site-morne-coubaril-estate": {
+   "credit": "Ulises Icardi, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Cacao extraído en la estancia Morne Coubaril (parroquia de Soufrière).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Cacao_extra%C3%ADdo_en_la_estancia_Morne_Coubaril_(parroquia_de_Soufri%C3%A8re).jpg",
+   "illustration": null,
+   "requete": "Morne Coubaril Soufriere",
+   "fichier": "site-morne-coubaril-estate.jpg"
+  },
+  "site-toraille-waterfall": {
+   "credit": "Aneil Lutchman, CC BY-SA 2.0, via Wikimedia Commons",
+   "titre": "File:Toraille Waterfall.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Toraille_Waterfall.JPG",
+   "illustration": null,
+   "requete": "Toraille Waterfall Saint Lucia",
+   "fichier": "site-toraille-waterfall.jpg"
+  },
+  "site-marigot-bay": {
+   "credit": "ImagePerson, CC BY 4.0, via Wikimedia Commons",
+   "titre": "File:Yachts, Marigot Bay, St. Lucia.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Yachts,_Marigot_Bay,_St._Lucia.jpg",
+   "illustration": null,
+   "requete": "Marigot Bay Saint Lucia",
+   "fichier": "site-marigot-bay.jpg"
+  },
+  "site-pigeon-island-national-landmark": {
+   "credit": "XeresNelro, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Fort Rodney, Pigeon Island, St. Lucia 5.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Fort_Rodney,_Pigeon_Island,_St._Lucia_5.jpg",
+   "illustration": null,
+   "requete": "Fort Rodney Pigeon Island",
+   "fichier": "site-pigeon-island-national-landmark.jpg"
+  },
+  "site-rainforest-adventures": {
+   "credit": "Julie Neff, CC BY-SA 2.0, via Wikimedia Commons",
+   "titre": "File:The Butterfly Palace & Rainforest Adveture -Branson, Missouri, USA-27Feb2011.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Butterfly_Palace_%26_Rainforest_Adveture_-Branson,_Missouri,_USA-27Feb2011.jpg",
+   "illustration": null,
+   "requete": "Rainforest Adventures",
+   "fichier": "site-rainforest-adventures.jpg"
+  },
+  "site-sortie-baleines-et-dauphins-vigie-marina": {
+   "credit": "ImagePerson, CC BY 4.0, via Wikimedia Commons",
+   "titre": "File:Sunset Rodney Bay St Lucia 0188a.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Sunset_Rodney_Bay_St_Lucia_0188a.jpg",
+   "illustration": "Rodney Bay",
+   "requete": "Rodney Bay beach Saint Lucia",
+   "fichier": "site-sortie-baleines-et-dauphins-vigie-marina.jpg"
+  },
+  "site-castries-et-howelton-estate-1896": {
+   "credit": "Gene93k, CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:Castries Market from Jeremie Street.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Castries_Market_from_Jeremie_Street.JPG",
+   "illustration": null,
+   "requete": "Castries market Saint Lucia",
+   "fichier": "site-castries-et-howelton-estate-1896.jpg"
+  },
+  "site-gros-piton": {
+   "credit": "XeresNelro, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:View of the Gros Piton, Jalousie.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:View_of_the_Gros_Piton,_Jalousie.jpg",
+   "illustration": null,
+   "requete": "Gros Piton Saint Lucia",
+   "fichier": "site-gros-piton.jpg"
+  },
+  "site-anse-la-raye-seafood-friday": {
+   "credit": "Brian Snelson from Hockley, Essex, England, CC BY 2.0, via Wikimedia Commons",
+   "titre": "File:Anse La Raye - Flickr - exfordy.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Anse_La_Raye_-_Flickr_-_exfordy.jpg",
+   "illustration": null,
+   "requete": "Anse La Raye Saint Lucia",
+   "fichier": "site-anse-la-raye-seafood-friday.jpg"
+  },
+  "site-croisiere-au-coucher-du-soleil-rodney-bay": {
+   "credit": "ImagePerson, CC BY 4.0, via Wikimedia Commons",
+   "titre": "File:Sunset Rodney Bay St. Lucia 0190.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Sunset_Rodney_Bay_St._Lucia_0190.jpg",
+   "illustration": "Rodney Bay",
+   "requete": "Rodney Bay beach Saint Lucia",
+   "fichier": "site-croisiere-au-coucher-du-soleil-rodney-bay.jpg"
+  },
+  "site-gros-islet-friday-street-party": {
+   "credit": "Luboš Holič, CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:Castries - Gros Islet Hwy, Choc, Saint Lucia - panoramio.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Castries_-_Gros_Islet_Hwy,_Choc,_Saint_Lucia_-_panoramio.jpg",
+   "illustration": null,
+   "requete": "Gros Islet Saint Lucia",
+   "fichier": "site-gros-islet-friday-street-party.jpg"
+  },
+  "hebergement-simon-hotel": {
+   "credit": "Thérèse Gaigé, CC0, via Wikimedia Commons",
+   "titre": "File:Plage La Française (Fort-de-France, Martinique) - 01.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Plage_La_Fran%C3%A7aise_(Fort-de-France,_Martinique)_-_01.jpg",
+   "illustration": "Fort-de-France",
+   "requete": "Fort-de-France beach",
+   "fichier": "hebergement-simon-hotel.jpg"
+  },
+  "hebergement-la-maison-de-clementine": {
+   "credit": "Jean-Louis Lascoux, CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:Plage de Fort-de-France.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Plage_de_Fort-de-France.jpg",
+   "illustration": "Fort-de-France",
+   "requete": "Fort-de-France beach",
+   "fichier": "hebergement-la-maison-de-clementine.jpg"
+  },
+  "hebergement-stonefield-villa-resort": {
+   "credit": "Ulises Icardi, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Panorámica de Soufrière, segunda ciudad santaluciana en población.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Panor%C3%A1mica_de_Soufri%C3%A8re,_segunda_ciudad_santaluciana_en_poblaci%C3%B3n.jpg",
+   "illustration": "Soufrière",
+   "requete": "Soufrière Saint Lucia",
+   "fichier": "hebergement-stonefield-villa-resort.jpg"
+  },
+  "hebergement-fond-doux-eco-resort": {
+   "credit": "Shawn from Airdrie, Canada, CC BY-SA 2.0, via Wikimedia Commons",
+   "titre": "File:Downtown Soufrière (6273292933).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Downtown_Soufri%C3%A8re_(6273292933).jpg",
+   "illustration": "Soufrière",
+   "requete": "Soufrière Saint Lucia",
+   "fichier": "hebergement-fond-doux-eco-resort.jpg"
+  },
+  "hebergement-sugar-beach-a-viceroy-resort": {
+   "credit": "Prayitno / Thank you for (12 millions +) view from Los Angeles, USA, CC BY 2.0, via Wikimedia Commons",
+   "titre": "File:Sugar Beach Viceroy Resort (24197442066).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Sugar_Beach_Viceroy_Resort_(24197442066).jpg",
+   "illustration": null,
+   "requete": "Sugar Beach Viceroy Saint Lucia",
+   "fichier": "hebergement-sugar-beach-a-viceroy-resort.jpg"
+  },
+  "hebergement-bay-gardens-beach-resort": {
+   "credit": "ImagePerson, CC BY 4.0, via Wikimedia Commons",
+   "titre": "File:Sunset Rodney Bay St Lucia 0182.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Sunset_Rodney_Bay_St_Lucia_0182.jpg",
+   "illustration": "Rodney Bay",
+   "requete": "Rodney Bay beach Saint Lucia",
+   "fichier": "hebergement-bay-gardens-beach-resort.jpg"
+  },
+  "hebergement-coco-palm-resort": {
+   "credit": "auteur inconnu, CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:Coco Palms Resort, Kaui, Hawaii.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Coco_Palms_Resort,_Kaui,_Hawaii.jpg",
+   "illustration": null,
+   "requete": "Coco Palm Resort",
+   "fichier": "hebergement-coco-palm-resort.jpg"
+  },
+  "hebergement-the-landings-resort-and-spa": {
+   "credit": "ImagePerson, CC BY 4.0, via Wikimedia Commons",
+   "titre": "File:Sunset Rodney Bay St Lucia 0200.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Sunset_Rodney_Bay_St_Lucia_0200.jpg",
+   "illustration": "Rodney Bay",
+   "requete": "Rodney Bay beach Saint Lucia",
+   "fichier": "hebergement-the-landings-resort-and-spa.jpg"
+  },
+  "hebergement-location-a-soufriere-airbnb": {
+   "credit": "DavidMPyle, CC BY 4.0, via Wikimedia Commons",
+   "titre": "File:Soufriere town and the Pitons, Saint Lucia (wide view).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Soufriere_town_and_the_Pitons,_Saint_Lucia_(wide_view).jpg",
+   "illustration": null,
+   "requete": "Soufriere Saint Lucia town",
+   "fichier": "hebergement-location-a-soufriere-airbnb.jpg"
+  },
+  "hebergement-location-a-rodney-bay-airbnb": {
+   "credit": "Chris Hunkeler from Carlsbad, California, USA, CC BY-SA 2.0, via Wikimedia Commons",
+   "titre": "File:Minderella at Rodney Bay Marina (26009110787).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Minderella_at_Rodney_Bay_Marina_(26009110787).jpg",
+   "illustration": null,
+   "requete": "Rodney Bay marina Saint Lucia",
+   "fichier": "hebergement-location-a-rodney-bay-airbnb.jpg"
+  },
+  "restaurant-island-chef": {
+   "credit": "Shawn from Airdrie, Canada, CC BY-SA 2.0, via Wikimedia Commons",
+   "titre": "File:Soufrière Waterfront (6273813542).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Soufri%C3%A8re_Waterfront_(6273813542).jpg",
+   "illustration": "Soufrière",
+   "requete": "Soufrière Saint Lucia",
+   "fichier": "restaurant-island-chef.jpg"
+  },
+  "restaurant-treetop": {
+   "credit": "Andy Li, CC0, via Wikimedia Commons",
+   "titre": "File:Kew Gardens Treetop walkway 2025-05-14.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Kew_Gardens_Treetop_walkway_2025-05-14.jpg",
+   "illustration": null,
+   "requete": "Treetop",
+   "fichier": "restaurant-treetop.jpg"
+  },
+  "restaurant-felicity-rooftop": {
+   "credit": "Enrevseluj, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Port de Soufrière (Sainte-Lucie).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Port_de_Soufri%C3%A8re_(Sainte-Lucie).jpg",
+   "illustration": "Soufrière",
+   "requete": "Soufrière Saint Lucia",
+   "fichier": "restaurant-felicity-rooftop.jpg"
+  },
+  "restaurant-3beez-beach-restaurant": {
+   "credit": "Patrick Hawks, CC BY 3.0, via Wikimedia Commons",
+   "titre": "File:Soufrière Hills - Plymouth.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Soufri%C3%A8re_Hills_-_Plymouth.jpg",
+   "illustration": "Soufrière",
+   "requete": "Soufrière beach",
+   "fichier": "restaurant-3beez-beach-restaurant.jpg"
+  },
+  "restaurant-the-mango-tree": {
+   "credit": "Aneil Lutchman, CC BY-SA 2.0, via Wikimedia Commons",
+   "titre": "File:Bubble Beach Spa at Soufrière.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Bubble_Beach_Spa_at_Soufri%C3%A8re.JPG",
+   "illustration": "Soufrière",
+   "requete": "Soufrière beach",
+   "fichier": "restaurant-the-mango-tree.jpg"
+  },
+  "restaurant-chateau-mygo": {
+   "credit": "Charles J. Sharp, CC BY 3.0, via Wikimedia Commons",
+   "titre": "File:Marigot Bay, St. Lucia.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Marigot_Bay,_St._Lucia.jpg",
+   "illustration": "Marigot Bay",
+   "requete": "Marigot Bay Saint Lucia",
+   "fichier": "restaurant-chateau-mygo.jpg"
+  },
+  "restaurant-spinnakers-beach-bar": {
+   "credit": "ImagePerson, CC BY 4.0, via Wikimedia Commons",
+   "titre": "File:Sunset Rodney Bay St Lucia 0196.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Sunset_Rodney_Bay_St_Lucia_0196.jpg",
+   "illustration": "Rodney Bay",
+   "requete": "Rodney Bay beach Saint Lucia",
+   "fichier": "restaurant-spinnakers-beach-bar.jpg"
+  },
+  "restaurant-jacques-waterfront-dining": {
+   "credit": "ImagePerson, CC BY 4.0, via Wikimedia Commons",
+   "titre": "File:Sunset Rodney Bay St Lucia 0063.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Sunset_Rodney_Bay_St_Lucia_0063.jpg",
+   "illustration": "Rodney Bay",
+   "requete": "Rodney Bay beach Saint Lucia",
+   "fichier": "restaurant-jacques-waterfront-dining.jpg"
+  },
+  "restaurant-cactus-and-lime": {
+   "credit": "ImagePerson, CC BY 4.0, via Wikimedia Commons",
+   "titre": "File:St Lucia Rodney Bay Mom Child SSet 0210.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:St_Lucia_Rodney_Bay_Mom_Child_SSet_0210.jpg",
+   "illustration": "Rodney Bay",
+   "requete": "Rodney Bay beach Saint Lucia",
+   "fichier": "restaurant-cactus-and-lime.jpg"
+  },
+  "restaurant-chef-robby-s": {
+   "credit": "ImagePerson, CC BY 4.0, via Wikimedia Commons",
+   "titre": "File:Sunset Rodney Bay St Lucia Almond Tree Terminalia catappa 0173a.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Sunset_Rodney_Bay_St_Lucia_Almond_Tree_Terminalia_catappa_0173a.jpg",
+   "illustration": "Rodney Bay",
+   "requete": "Rodney Bay beach Saint Lucia",
+   "fichier": "restaurant-chef-robby-s.jpg"
+  },
+  "plat-accras-de-morue": {
+   "credit": "Fanny Schertzer, CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:Accras de morue 2.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Accras_de_morue_2.jpg",
+   "illustration": null,
+   "requete": "Accras de morue",
+   "fichier": "plat-accras-de-morue.jpg"
+  },
+  "plat-bouyon": {
+   "credit": "Marsilar, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:02026 Tomato soup with Italian pasta on a bone broth base.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:02026_Tomato_soup_with_Italian_pasta_on_a_bone_broth_base.jpg",
+   "illustration": null,
+   "requete": "bouyon soup",
+   "fichier": "plat-bouyon.jpg"
+  },
+  "plat-callaloo": {
+   "credit": "GeoTrinity (Wikimedia Commons), CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Callaloo-GT.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Callaloo-GT.jpg",
+   "illustration": null,
+   "requete": "callaloo soup",
+   "fichier": "plat-callaloo.jpg"
+  },
+  "plat-lambi-creole": {
+   "credit": "Frédéric Ducarme, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Lambis scorpius.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Lambis_scorpius.jpg",
+   "illustration": null,
+   "requete": "lambi",
+   "fichier": "plat-lambi-creole.jpg"
+  },
+  "plat-bakes-et-saltfish": {
+   "credit": "Ll1324, CC0, via Wikimedia Commons",
+   "titre": "File:Fried Bake.png",
+   "page": "https://commons.wikimedia.org/wiki/File:Fried_Bake.png",
+   "illustration": null,
+   "requete": "fried bakes Caribbean",
+   "fichier": "plat-bakes-et-saltfish.jpg"
+  },
+  "plat-roti": {
+   "credit": "Dennis Sylvester Hurd from Canada, CC BY 2.0, via Wikimedia Commons",
+   "titre": "File:Friday Morning in Winnipeg - Flickr - Dennis S. Hurd.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Friday_Morning_in_Winnipeg_-_Flickr_-_Dennis_S._Hurd.jpg",
+   "illustration": null,
+   "requete": "Caribbean roti",
+   "fichier": "plat-roti.jpg"
+  },
+  "plat-cocoa-tea": {
+   "credit": "Yamaguchi,E, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Cocoa Tea at B.B.King in New York on September 14, 2004.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Cocoa_Tea_at_B.B.King_in_New_York_on_September_14,_2004.jpg",
+   "illustration": null,
+   "requete": "cocoa tea",
+   "fichier": "plat-cocoa-tea.jpg"
+  },
+  "base-fort-de-france-1-nuit": {
+   "credit": "David Stanley from Nanaimo, Canada, CC BY 2.0, via Wikimedia Commons",
+   "titre": "File:Centre d'Affaires Pointe Simon (49809060368).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Centre_d%27Affaires_Pointe_Simon_(49809060368).jpg",
+   "illustration": null,
+   "requete": "Fort-de-France Martinique waterfront",
+   "fichier": "base-fort-de-france-1-nuit.jpg"
+  },
+  "base-soufriere-5-nuits": {
+   "credit": "DavidMPyle, CC BY 4.0, via Wikimedia Commons",
+   "titre": "File:The Pitons, Soufriere district, Saint Lucia.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Pitons,_Soufriere_district,_Saint_Lucia.jpg",
+   "illustration": null,
+   "requete": "Soufriere Saint Lucia Pitons",
+   "fichier": "base-soufriere-5-nuits.jpg"
+  }
+ },
+ "manquants": [
+  "plage-anse-cochon",
+  "plat-green-fig-and-saltfish",
+  "base-rodney-bay-5-nuits"
+ ],
+ "videos": {
+  "general-0": {
+   "url": "https://www.youtube.com/watch?v=trmEq3e04a4",
+   "titre": "St. Lucia Vacation Travel Guide | Expedia",
+   "chaine": "",
+   "duree": 400,
+   "vues": 0
+  },
+  "general-1": {
+   "url": "https://www.youtube.com/watch?v=9YHiwParj8w",
+   "titre": "10 IMPORTANT TIPS to know before traveling to ST. LUCIA!",
+   "chaine": "Globetrotting Gang",
+   "duree": 370,
+   "vues": 215879
+  },
+  "plage-sugar-beach": {
+   "url": "https://www.youtube.com/watch?v=0capjO7vrsQ",
+   "titre": "🤯 10 Things You MUST Know Before Booking Sugar Beach St. Lucia! (It's NOT Just a Hotel)",
+   "chaine": "I Can’t Wait To Travel",
+   "duree": 207,
+   "vues": 1150
+  },
+  "site-sulphur-springs": {
+   "url": "https://www.youtube.com/watch?v=vCIp9m0y36Q",
+   "titre": "Sulphur Springs Mudbath St Lucia",
+   "chaine": "gdbear65",
+   "duree": 210,
+   "vues": 35235
+  },
+  "site-tet-paul-nature-trail": {
+   "url": "https://www.youtube.com/watch?v=IkveorSmFXE",
+   "titre": "🇱🇨📍 TET PAUL NATURE HIKE • ST LUCIA • GROS & PETIT PITONS • @LifeTravels360 • 4K",
+   "chaine": "LifeTravels360",
+   "duree": 467,
+   "vues": 3626
+  },
+  "site-marigot-bay": {
+   "url": "https://www.youtube.com/watch?v=vmdw5TZbylE",
+   "titre": "Marigot Bay in Saint Lucia ",
+   "chaine": "",
+   "duree": 524,
+   "vues": 0
+  },
+  "site-pigeon-island-national-landmark": {
+   "url": "https://www.youtube.com/watch?v=dZm2Tmreg4I",
+   "titre": "Pigeon Island National Landmark Saint Lucia",
+   "chaine": "",
+   "duree": 413,
+   "vues": 0
+  },
+  "site-rainforest-adventures": {
+   "url": "https://www.youtube.com/watch?v=VhB5HHdBQKY",
+   "titre": "Is this St. Lucia's BEST activity? | Zip-line at Rainforest Adventures",
+   "chaine": "Matt James",
+   "duree": 743,
+   "vues": 16148
+  },
+  "site-anse-la-raye-seafood-friday": {
+   "url": "https://www.youtube.com/watch?v=cPeOE-vGmT8",
+   "titre": "ANSE LA RAYE FISH FRY JAZZ (ST.LUCIA)2025 🇱🇨",
+   "chaine": "Knotlesstv758",
+   "duree": 1664,
+   "vues": 14722
+  }
+ }
+}
