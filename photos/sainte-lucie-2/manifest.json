@@ -1,0 +1,50 @@
+{
+ "_hash": "5b5216fe3e96d1a1eeb112740a1df6e290a5b1bc",
+ "_demande": "717d29a9dd2530efe1f3daf16f0cf787ab9d2776",
+ "photos": {
+  "site-rainforest-adventures": {
+   "credit": "David Lytle from San Francisco, CA, USA, CC BY 2.0, via Wikimedia Commons",
+   "titre": "File:Babonneau rainforest St Lucia.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Babonneau_rainforest_St_Lucia.jpg",
+   "illustration": null,
+   "requete": "Babonneau rainforest Saint Lucia",
+   "fichier": "site-rainforest-adventures.jpg"
+  },
+  "plat-green-fig-and-saltfish": {
+   "credit": "Karolyn, CC BY 3.0, via Wikimedia Commons",
+   "titre": "File:Jamaican breakfast ackee saltfish callaloo.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Jamaican_breakfast_ackee_saltfish_callaloo.jpg",
+   "illustration": null,
+   "requete": "saltfish and bananas",
+   "fichier": "plat-green-fig-and-saltfish.jpg"
+  },
+  "plat-lambi-creole": {
+   "credit": "Phil Venditti, CC BY 2.0, via Wikimedia Commons",
+   "titre": "File:2021--2-3 January--Conch Key, Curry Hammock State Park, Long Key State Park, & Kayaking to Lignum Vitae State Botanical Park.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:2021--2-3_January--Conch_Key,_Curry_Hammock_State_Park,_Long_Key_State_Park,_%26_Kayaking_to_Lignum_Vitae_State_Botanical_Park.jpg",
+   "illustration": null,
+   "requete": "conch curry",
+   "fichier": "plat-lambi-creole.jpg"
+  },
+  "plat-roti": {
+   "credit": "AFRICAN TIGRESS, CC BY 3.0, via Wikimedia Commons",
+   "titre": "File:Dhalpuri roti, curry chicken, aloo and channa from Hi-Way Roti Shop Nelson Rd, Freeport Trinidad.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Dhalpuri_roti,_curry_chicken,_aloo_and_channa_from_Hi-Way_Roti_Shop_Nelson_Rd,_Freeport_Trinidad.jpg",
+   "illustration": null,
+   "requete": "roti curry chicken Trinidad",
+   "fichier": "plat-roti.jpg"
+  },
+  "plat-cocoa-tea": {
+   "credit": "4028mdk09, CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:Becher Kakao mit Sahnehäubchen.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Becher_Kakao_mit_Sahneh%C3%A4ubchen.JPG",
+   "illustration": null,
+   "requete": "hot cocoa drink",
+   "fichier": "plat-cocoa-tea.jpg"
+  }
+ },
+ "manquants": [
+  "plage-anse-cochon"
+ ],
+ "videos": {}
+}
