@@ -1,0 +1,442 @@
+{
+ "_hash": "6fa683f12bc7e1dbb7673e7f2351bc5e742e5730",
+ "_demande": "12320f8ce658bb54c2a6007e2f75e7288b3c3284",
+ "photos": {
+  "plage-plage-du-souffleur": {
+   "credit": "Alexia Boulot, CC BY-SA 2.0, via Wikimedia Commons",
+   "titre": "File:Beach in Port-Louis (Guadeloupe).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Beach_in_Port-Louis_(Guadeloupe).jpg",
+   "illustration": null,
+   "requete": "Plage du Souffleur Port-Louis Guadeloupe",
+   "fichier": "plage-plage-du-souffleur.jpg"
+  },
+  "plage-anse-laborde": {
+   "credit": "lessstate, CC BY 2.0, via Wikimedia Commons",
+   "titre": "File:Anse Laborde Guadeloupe HPIM0008 (34584285460).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Anse_Laborde_Guadeloupe_HPIM0008_(34584285460).jpg",
+   "illustration": null,
+   "requete": "Anse Laborde Guadeloupe",
+   "fichier": "plage-anse-laborde.jpg"
+  },
+  "plage-plage-de-la-chapelle": {
+   "credit": "Enrevseluj, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Pointe de l'Anse-Bertrand par la plage de la Chapelle.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Pointe_de_l%27Anse-Bertrand_par_la_plage_de_la_Chapelle.jpg",
+   "illustration": null,
+   "requete": "Plage de la Chapelle",
+   "fichier": "plage-plage-de-la-chapelle.jpg"
+  },
+  "plage-plage-de-l-autre-bord": {
+   "credit": "FCK-Iceman, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Le Moule (Guadeloupe) dans son Arrondissement.png",
+   "page": "https://commons.wikimedia.org/wiki/File:Le_Moule_(Guadeloupe)_dans_son_Arrondissement.png",
+   "illustration": "Le Moule",
+   "requete": "Le Moule Guadeloupe",
+   "fichier": "plage-plage-de-l-autre-bord.jpg"
+  },
+  "plage-anse-canot": {
+   "credit": "Tjeerd Wiersma, CC BY 2.0, via Wikimedia Commons",
+   "titre": "File:Plage de Folle Anse on Marie-Galante.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Plage_de_Folle_Anse_on_Marie-Galante.jpg",
+   "illustration": null,
+   "requete": "Marie-Galante beach Saint-Louis",
+   "fichier": "plage-anse-canot.jpg"
+  },
+  "plage-plage-de-la-feuillere": {
+   "credit": "FCK-Iceman, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Capesterre-de-Marie-Galante (Guadeloupe) dans son Arrondissement.png",
+   "page": "https://commons.wikimedia.org/wiki/File:Capesterre-de-Marie-Galante_(Guadeloupe)_dans_son_Arrondissement.png",
+   "illustration": "Marie-Galante",
+   "requete": "Marie-Galante Guadeloupe",
+   "fichier": "plage-plage-de-la-feuillere.jpg"
+  },
+  "plage-baie-de-pompierre": {
+   "credit": "Patrice78500, CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:Baie de Pompierre - Vue coté Morne Morel.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Baie_de_Pompierre_-_Vue_cot%C3%A9_Morne_Morel.JPG",
+   "illustration": null,
+   "requete": "Baie de Pompierre Guadeloupe",
+   "fichier": "plage-baie-de-pompierre.jpg"
+  },
+  "plage-plage-du-pain-de-sucre": {
+   "credit": "Enrevseluj, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Pain de Sucre et anse Devant.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Pain_de_Sucre_et_anse_Devant.jpg",
+   "illustration": null,
+   "requete": "Pain de Sucre Les Saintes",
+   "fichier": "plage-plage-du-pain-de-sucre.jpg"
+  },
+  "site-pointe-de-la-grande-vigie": {
+   "credit": "Enrevseluj, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Côte de la pointe de la Grande Vigie à la pointe du Piton.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:C%C3%B4te_de_la_pointe_de_la_Grande_Vigie_%C3%A0_la_pointe_du_Piton.jpg",
+   "illustration": null,
+   "requete": "Pointe de la Grande Vigie",
+   "fichier": "site-pointe-de-la-grande-vigie.jpg"
+  },
+  "site-porte-d-enfer": {
+   "credit": "Daniel Jolivet, CC BY 2.0, via Wikimedia Commons",
+   "titre": "File:Porte d'Enfer Anse-Bertrand (Guadeloupe).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Porte_d%27Enfer_Anse-Bertrand_(Guadeloupe).jpg",
+   "illustration": null,
+   "requete": "Porte d'Enfer Anse-Bertrand",
+   "fichier": "site-porte-d-enfer.jpg"
+  },
+  "site-beauport-pays-de-la-canne": {
+   "credit": "Enrevseluj, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Train touristique de l'usine de Beauport à Port-Louis (Guadeloupe).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Train_touristique_de_l%27usine_de_Beauport_%C3%A0_Port-Louis_(Guadeloupe).jpg",
+   "illustration": null,
+   "requete": "Beauport Port-Louis Guadeloupe",
+   "fichier": "site-beauport-pays-de-la-canne.jpg"
+  },
+  "site-grand-cul-de-sac-marin": {
+   "credit": "Tournasol7, CC BY 4.0, via Wikimedia Commons",
+   "titre": "File:Trace du Grand Cul-de-Sac Marin (5).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Trace_du_Grand_Cul-de-Sac_Marin_(5).jpg",
+   "illustration": null,
+   "requete": "Grand Cul-de-Sac Marin Guadeloupe",
+   "fichier": "site-grand-cul-de-sac-marin.jpg"
+  },
+  "site-memorial-acte": {
+   "credit": "Filo gèn', CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Pointe-à-pitre ACTe Memorial.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Pointe-%C3%A0-pitre_ACTe_Memorial.jpg",
+   "illustration": null,
+   "requete": "Memorial ACTe Pointe-a-Pitre",
+   "fichier": "site-memorial-acte.jpg"
+  },
+  "site-aquarium-de-la-guadeloupe": {
+   "credit": "Collection artistes de la Guadeloupe, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Stan Musquer, Anatomie d'une culture guadeloupéenne, oct 2020, Arawak Beach Resort, Gosier, Guadeloupe II.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Stan_Musquer,_Anatomie_d%27une_culture_guadeloup%C3%A9enne,_oct_2020,_Arawak_Beach_Resort,_Gosier,_Guadeloupe_II.jpg",
+   "illustration": "Gosier",
+   "requete": "Gosier beach Guadeloupe",
+   "fichier": "site-aquarium-de-la-guadeloupe.jpg"
+  },
+  "site-gueule-grand-gouffre": {
+   "credit": "Greeg Pakary, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Gueule grand gouffre.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Gueule_grand_gouffre.jpg",
+   "illustration": null,
+   "requete": "Gueule Grand Gouffre",
+   "fichier": "site-gueule-grand-gouffre.jpg"
+  },
+  "site-habitation-murat": {
+   "credit": "LadyFo7, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Habitation Murat illuminée pour Terre de Blues 2014.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Habitation_Murat_illumin%C3%A9e_pour_Terre_de_Blues_2014.jpg",
+   "illustration": null,
+   "requete": "Habitation Murat Guadeloupe",
+   "fichier": "site-habitation-murat.jpg"
+  },
+  "site-distillerie-pere-labat": {
+   "credit": "Tschubby, CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:Gemeindeverband Marie-Galante 2018.png",
+   "page": "https://commons.wikimedia.org/wiki/File:Gemeindeverband_Marie-Galante_2018.png",
+   "illustration": "Marie-Galante",
+   "requete": "Marie-Galante Guadeloupe",
+   "fichier": "site-distillerie-pere-labat.jpg"
+  },
+  "site-moulin-de-bezard": {
+   "credit": "Enrevseluj, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Le Trou du diable à Marie-Galante 4.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Le_Trou_du_diable_%C3%A0_Marie-Galante_4.jpg",
+   "illustration": "Marie-Galante",
+   "requete": "Marie-Galante",
+   "fichier": "site-moulin-de-bezard.jpg"
+  },
+  "site-fort-napoleon": {
+   "credit": "Kim Hansen, CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:Fort Napoléon des Saintes 2010-03-30.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Fort_Napol%C3%A9on_des_Saintes_2010-03-30.jpg",
+   "illustration": null,
+   "requete": "Fort Napoleon Les Saintes",
+   "fichier": "site-fort-napoleon.jpg"
+  },
+  "site-kayak-transparent": {
+   "credit": "Josep M. Gracia, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:DS - Pompierre Beach in Terre-de-Haut, Les Saintes, Guadeloupe, 2016.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:DS_-_Pompierre_Beach_in_Terre-de-Haut,_Les_Saintes,_Guadeloupe,_2016.jpg",
+   "illustration": "Les Saintes",
+   "requete": "Les Saintes beach Guadeloupe",
+   "fichier": "site-kayak-transparent.jpg"
+  },
+  "site-terre-de-bas": {
+   "credit": "FreeProuilhe, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Lever de soleil, Terre-de-Bas, Les Saintes, Guadeloupe.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Lever_de_soleil,_Terre-de-Bas,_Les_Saintes,_Guadeloupe.jpg",
+   "illustration": null,
+   "requete": "Terre-de-Bas Les Saintes",
+   "fichier": "site-terre-de-bas.jpg"
+  },
+  "site-carnaval-de-pointe-a-pitre": {
+   "credit": "Myrabella, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Carnaval tropical Paris 2014 Golden Stars 114 Guadeloupe.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Carnaval_tropical_Paris_2014_Golden_Stars_114_Guadeloupe.jpg",
+   "illustration": null,
+   "requete": "Carnaval Guadeloupe",
+   "fichier": "site-carnaval-de-pointe-a-pitre.jpg"
+  },
+  "site-bourg-de-terre-de-haut": {
+   "credit": "Josep M. Gracia, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:DS - Street in Terre-de-Haut, Les Saintes, Guadeloupe, 2016.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:DS_-_Street_in_Terre-de-Haut,_Les_Saintes,_Guadeloupe,_2016.jpg",
+   "illustration": null,
+   "requete": "Terre-de-Haut village",
+   "fichier": "site-bourg-de-terre-de-haut.jpg"
+  },
+  "hebergement-la-villa-du-soleil-971": {
+   "credit": "FreeProuilhe, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Porte d'enfer, Anse-Bertrand, Guadeloupe.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Porte_d%27enfer,_Anse-Bertrand,_Guadeloupe.jpg",
+   "illustration": null,
+   "requete": "Anse-Bertrand Guadeloupe",
+   "fichier": "hebergement-la-villa-du-soleil-971.jpg"
+  },
+  "hebergement-locations-plus": {
+   "credit": "Tournasol7, CC BY 4.0, via Wikimedia Commons",
+   "titre": "File:Town hall of Port-Louis Guadeloupe (4).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Town_hall_of_Port-Louis_Guadeloupe_(4).jpg",
+   "illustration": null,
+   "requete": "Port-Louis Guadeloupe",
+   "fichier": "hebergement-locations-plus.jpg"
+  },
+  "hebergement-location-a-port-louis-airbnb": {
+   "credit": "Tournasol7, CC BY 4.0, via Wikimedia Commons",
+   "titre": "File:Town hall of Port-Louis Guadeloupe (2).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Town_hall_of_Port-Louis_Guadeloupe_(2).jpg",
+   "illustration": null,
+   "requete": "Port-Louis Guadeloupe",
+   "fichier": "hebergement-location-a-port-louis-airbnb.jpg"
+  },
+  "hebergement-au-village-de-menard": {
+   "credit": "Raynal, G.T. Bonne, R. Bonne, Rigobert, 1727-1794., Public domain, via Wikimedia Commons",
+   "titre": "File:Les Isles de la Guadeloupe, De Marie Galante, De La Desirade, et Celles Des Saintes- Colonie Francoise dans les Antilles. Par (IA dr les-isles-de-la-guadeloupe-de-marie-galante-de-la-desirade-et-celles-des-3083056).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Les_Isles_de_la_Guadeloupe,_De_Marie_Galante,_De_La_Desirade,_et_Celles_Des_Saintes-_Colonie_Francoise_dans_les_Antilles._Par_(IA_dr_les-isles-de-la-guadeloupe-de-marie-galante-de-la-desirade-et-celles-des-3083056).jpg",
+   "illustration": null,
+   "requete": "Marie-Galante island",
+   "fichier": "hebergement-au-village-de-menard.jpg"
+  },
+  "hebergement-location-a-marie-galante-airbnb": {
+   "credit": "Salles, André (1860-1929). Photographe, Public domain, via Wikimedia Commons",
+   "titre": "File:Marie-Galante. Moulin à cannes (mars 1895) - (photogr.) A. S(alles) - btv1b53185922t (3 of 3).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Marie-Galante._Moulin_%C3%A0_cannes_(mars_1895)_-_(photogr.)_A._S(alles)_-_btv1b53185922t_(3_of_3).jpg",
+   "illustration": null,
+   "requete": "Location à Marie-Galante Guadeloupe",
+   "fichier": "hebergement-location-a-marie-galante-airbnb.jpg"
+  },
+  "hebergement-hotel-bois-joli": {
+   "credit": "David Broad, CC BY 3.0, via Wikimedia Commons",
+   "titre": "File:Les Saintes, Marigot harbor, near Guadaloupe - panoramio.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Les_Saintes,_Marigot_harbor,_near_Guadaloupe_-_panoramio.jpg",
+   "illustration": "Les Saintes",
+   "requete": "Les Saintes beach Guadeloupe",
+   "fichier": "hebergement-hotel-bois-joli.jpg"
+  },
+  "hebergement-le-kanaoa": {
+   "credit": "Filo gèn', CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Zone éco-portuaire de Terre-de-Haut.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Zone_%C3%A9co-portuaire_de_Terre-de-Haut.jpg",
+   "illustration": null,
+   "requete": "Terre-de-Haut harbour",
+   "fichier": "hebergement-le-kanaoa.jpg"
+  },
+  "restaurant-l-oceane": {
+   "credit": "Fanny Schertzer, CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:Accras de morue 2.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Accras_de_morue_2.jpg",
+   "illustration": null,
+   "requete": "Accras de morue",
+   "fichier": "restaurant-l-oceane.jpg"
+  },
+  "restaurant-chez-coco": {
+   "credit": "Tiomax80, CC BY 2.0, via Wikimedia Commons",
+   "titre": "File:Porte d'Enfer à Anse-Bertrand.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Porte_d%27Enfer_%C3%A0_Anse-Bertrand.jpg",
+   "illustration": null,
+   "requete": "Porte d'Enfer Guadeloupe",
+   "fichier": "restaurant-chez-coco.jpg"
+  },
+  "restaurant-terre-et-mer": {
+   "credit": "Tournasol7, CC BY 4.0, via Wikimedia Commons",
+   "titre": "File:Town hall of Port-Louis Guadeloupe (1).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Town_hall_of_Port-Louis_Guadeloupe_(1).jpg",
+   "illustration": null,
+   "requete": "Port-Louis Guadeloupe",
+   "fichier": "restaurant-terre-et-mer.jpg"
+  },
+  "restaurant-le-poisson-d-or": {
+   "credit": "Tournasol7, CC BY 4.0, via Wikimedia Commons",
+   "titre": "File:Town hall of Port-Louis Guadeloupe (3).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Town_hall_of_Port-Louis_Guadeloupe_(3).jpg",
+   "illustration": null,
+   "requete": "Port-Louis Guadeloupe town",
+   "fichier": "restaurant-le-poisson-d-or.jpg"
+  },
+  "restaurant-l-oceanite": {
+   "credit": "Bellin, Jacques Nicolas, 1703-1772, Public domain, via Wikimedia Commons",
+   "titre": "File:Carte Reduite des Isles de Guadeloupe, Marie Galante et les Saintes. (inset) Environs du Fort Louis. (IA dr carte-reduite-des-isles-de-guadeloupe-marie-galante-et-les-saintes-inset-12059108).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Carte_Reduite_des_Isles_de_Guadeloupe,_Marie_Galante_et_les_Saintes._(inset)_Environs_du_Fort_Louis._(IA_dr_carte-reduite-des-isles-de-guadeloupe-marie-galante-et-les-saintes-inset-12059108).jpg",
+   "illustration": null,
+   "requete": "Marie-Galante Saint-Louis",
+   "fichier": "restaurant-l-oceanite.jpg"
+  },
+  "restaurant-le-touloulou": {
+   "credit": "Enrevseluj, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Le Trou du diable à Marie-Galante 6.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Le_Trou_du_diable_%C3%A0_Marie-Galante_6.jpg",
+   "illustration": "Marie-Galante",
+   "requete": "Marie-Galante",
+   "fichier": "restaurant-le-touloulou.jpg"
+  },
+  "restaurant-ti-kaz-la": {
+   "credit": "Filo gèn', CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Les Saintes, Terre-de-Haut 01.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Les_Saintes,_Terre-de-Haut_01.jpg",
+   "illustration": null,
+   "requete": "Terre-de-Haut Les Saintes beach",
+   "fichier": "restaurant-ti-kaz-la.jpg"
+  },
+  "plat-accras": {
+   "credit": "Arnaud 25, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Accras, boudin créole, et Ti-punch 01.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Accras,_boudin_cr%C3%A9ole,_et_Ti-punch_01.jpg",
+   "illustration": null,
+   "requete": "Accras de morue",
+   "fichier": "plat-accras.jpg"
+  },
+  "plat-colombo": {
+   "credit": "Arnaud 25, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Colombo 004.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Colombo_004.jpg",
+   "illustration": null,
+   "requete": "Colombo poulet",
+   "fichier": "plat-colombo.jpg"
+  },
+  "plat-bokit": {
+   "credit": "GrandCelinien, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Bokit au poulet 01.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Bokit_au_poulet_01.jpg",
+   "illustration": null,
+   "requete": "Bokit",
+   "fichier": "plat-bokit.jpg"
+  },
+  "plat-court-bouillon-de-poisson": {
+   "credit": "Arnaud 25, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Court-bouillon de poissons antillais 01.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Court-bouillon_de_poissons_antillais_01.jpg",
+   "illustration": null,
+   "requete": "Court-bouillon de poisson",
+   "fichier": "plat-court-bouillon-de-poisson.jpg"
+  },
+  "plat-boudin-creole": {
+   "credit": "Arnaud 25, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Accras, boudin créole, et Ti-punch 02.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Accras,_boudin_cr%C3%A9ole,_et_Ti-punch_02.jpg",
+   "illustration": null,
+   "requete": "Boudin créole",
+   "fichier": "plat-boudin-creole.jpg"
+  },
+  "plat-langouste-grillee": {
+   "credit": "Olivdediego, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Langouste grillée de Ramena.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Langouste_grill%C3%A9e_de_Ramena.JPG",
+   "illustration": null,
+   "requete": "Langouste grillée",
+   "fichier": "plat-langouste-grillee.jpg"
+  },
+  "plat-tourment-d-amour": {
+   "credit": "AnonymousUnknown author, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:7FI 00192 Ville de Brest CAF.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:7FI_00192_Ville_de_Brest_CAF.jpg",
+   "illustration": null,
+   "requete": "Tourment d'amour Les Saintes",
+   "fichier": "plat-tourment-d-amour.jpg"
+  },
+  "plat-sorbet-coco": {
+   "credit": "Dana Moos from Portland, Maine, USA, CC BY 2.0, via Wikimedia Commons",
+   "titre": "File:Coconut watermelon sorbet (5883601355).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Coconut_watermelon_sorbet_(5883601355).jpg",
+   "illustration": null,
+   "requete": "Coconut sorbet",
+   "fichier": "plat-sorbet-coco.jpg"
+  },
+  "base-port-louis-et-anse-bertrand-6-nuits": {
+   "credit": "DUKEOFGUADELOUPE971, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Port Louis beach (guadeloupe).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Port_Louis_beach_(guadeloupe).jpg",
+   "illustration": null,
+   "requete": "Port-Louis Guadeloupe beach",
+   "fichier": "base-port-louis-et-anse-bertrand-6-nuits.jpg"
+  },
+  "base-marie-galante-4-nuits": {
+   "credit": "Kijan Ay, CC BY 3.0, via Wikimedia Commons",
+   "titre": "File:Long White Sand Beach Uncrowded In The Caribbean (188395989).jpeg",
+   "page": "https://commons.wikimedia.org/wiki/File:Long_White_Sand_Beach_Uncrowded_In_The_Caribbean_(188395989).jpeg",
+   "illustration": null,
+   "requete": "Marie-Galante beach",
+   "fichier": "base-marie-galante-4-nuits.jpg"
+  },
+  "base-terre-de-haut-les-saintes-4-nuits": {
+   "credit": "Sonnate, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Baie de Terre de Haut (les Saintes, Guadeloupe) et.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Baie_de_Terre_de_Haut_(les_Saintes,_Guadeloupe)_et.jpg",
+   "illustration": null,
+   "requete": "Terre-de-Haut Les Saintes bay",
+   "fichier": "base-terre-de-haut-les-saintes-4-nuits.jpg"
+  }
+ },
+ "manquants": [],
+ "videos": {
+  "general-0": {
+   "url": "https://www.youtube.com/watch?v=f3TLbmS4S2U",
+   "titre": "GUADELOUPE TRAVEL GUIDE - 20 Incredible Things to Do and Eat on the Island",
+   "chaine": "Lucas World Travel",
+   "duree": 1448,
+   "vues": 77356
+  },
+  "general-1": {
+   "url": "https://www.youtube.com/watch?v=6DvMXbvWbXw",
+   "titre": "Exploring Guadeloupe: A Day on Marie-Galante | Your Morning",
+   "chaine": "CTV Your Morning",
+   "duree": 394,
+   "vues": 9414
+  },
+  "plage-plage-du-souffleur": {
+   "url": "https://www.youtube.com/watch?v=lk5F4f6jbmw",
+   "titre": "KABANA BEACH : Le plus grand beach bar sur la plage du souffleur à Port louis en GUADELOUPE !",
+   "chaine": "Creolementbon",
+   "duree": 1153,
+   "vues": 25640
+  },
+  "plage-anse-canot": {
+   "url": "https://www.youtube.com/watch?v=6DvMXbvWbXw",
+   "titre": "Exploring Guadeloupe: A Day on Marie-Galante | Your Morning",
+   "chaine": "CTV Your Morning",
+   "duree": 394,
+   "vues": 9414
+  },
+  "plage-plage-du-pain-de-sucre": {
+   "url": "https://www.youtube.com/watch?v=ZrrqlcIfv5w",
+   "titre": "Les Saintes: Secrets of the Caribbean Paradise",
+   "chaine": "Météo à la carte - France Télévisions",
+   "duree": 572,
+   "vues": 21407
+  },
+  "site-pointe-de-la-grande-vigie": {
+   "url": "https://www.youtube.com/watch?v=oy3XQR4HriE",
+   "titre": "Pointe de la Grande Vigie - Anse-Bertrand - Tou A man Coco by Michel R. Photography : [GUADELOUPE]",
+   "chaine": "Michel R. Photography",
+   "duree": 219,
+   "vues": 5976
+  },
+  "site-carnaval-de-pointe-a-pitre": {
+   "url": "https://www.youtube.com/watch?v=2yJ2lGSsVtI",
+   "titre": "MORNE BOURG MASS - 11.02.2024 - Dimanche Gras - Pointe-à-Pitre - Carnaval de Guadeloupe",
+   "chaine": "De l'Écume des Vagues",
+   "duree": 417,
+   "vues": 42820
+  }
+ }
+}
