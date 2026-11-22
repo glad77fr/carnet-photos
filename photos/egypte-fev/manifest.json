@@ -1,0 +1,476 @@
+{
+ "_hash": "c2a3a1f51fa1427ea2e367f4951ac6594c4db806",
+ "_demande": "90ac5fe06414406727d610643b4b45f7de209b0a",
+ "photos": {
+  "plage-orange-bay": {
+   "credit": "cattan2011, CC BY 2.0, via Wikimedia Commons",
+   "titre": "File:Giftun island, Hurghada, Egypt - Explore - Flickr - cattan2011.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Giftun_island,_Hurghada,_Egypt_-_Explore_-_Flickr_-_cattan2011.jpg",
+   "illustration": null,
+   "requete": "Giftun Island beach Hurghada",
+   "fichier": "plage-orange-bay.jpg"
+  },
+  "plage-plage-de-makadi": {
+   "credit": "Dirgela, CC0, via Wikimedia Commons",
+   "titre": "File:Red sea coast, Makadi bay.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Red_sea_coast,_Makadi_bay.jpg",
+   "illustration": null,
+   "requete": "Makadi Bay beach",
+   "fichier": "plage-plage-de-makadi.jpg"
+  },
+  "plage-mangroovy-beach": {
+   "credit": "Marc Ryckaert, CC BY 3.0, via Wikimedia Commons",
+   "titre": "File:El Gouna R11.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:El_Gouna_R11.jpg",
+   "illustration": null,
+   "requete": "Mangroovy Beach Egypt",
+   "fichier": "plage-mangroovy-beach.jpg"
+  },
+  "plage-zeytouna-beach": {
+   "credit": "Leonid Sh., CC BY 3.0, via Wikimedia Commons",
+   "titre": "File:El Gouna, Qesm Hurghada, Red Sea Governorate, Egypt - panoramio (4).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:El_Gouna,_Qesm_Hurghada,_Red_Sea_Governorate,_Egypt_-_panoramio_(4).jpg",
+   "illustration": null,
+   "requete": "El Gouna beach Red Sea",
+   "fichier": "plage-zeytouna-beach.jpg"
+  },
+  "site-pyramides-de-gizeh": {
+   "credit": "Ricardo Liberato, CC BY-SA 2.0, via Wikimedia Commons",
+   "titre": "File:All Gizah Pyramids.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:All_Gizah_Pyramids.jpg",
+   "illustration": null,
+   "requete": "Giza pyramids",
+   "fichier": "site-pyramides-de-gizeh.jpg"
+  },
+  "site-grand-musee-egyptien": {
+   "credit": "Amr F.Nagy, Public domain, via Wikimedia Commons",
+   "titre": "File:Grand Egyptian Museum 2025.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Grand_Egyptian_Museum_2025.jpg",
+   "illustration": null,
+   "requete": "Grand Egyptian Museum",
+   "fichier": "site-grand-musee-egyptien.jpg"
+  },
+  "site-saqqarah": {
+   "credit": "Vyacheslav Argenberg, CC BY 4.0, via Wikimedia Commons",
+   "titre": "File:Saqqara, Pyramid of Djoser, Ancient Egypt.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Saqqara,_Pyramid_of_Djoser,_Ancient_Egypt.jpg",
+   "illustration": null,
+   "requete": "Step Pyramid of Djoser Saqqara",
+   "fichier": "site-saqqarah.jpg"
+  },
+  "site-musee-de-la-civilisation": {
+   "credit": "Rowyda elshaer, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:National Museum of Egyptian Civilization (NMEC) 06.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:National_Museum_of_Egyptian_Civilization_(NMEC)_06.jpg",
+   "illustration": null,
+   "requete": "National Museum of Egyptian Civilization",
+   "fichier": "site-musee-de-la-civilisation.jpg"
+  },
+  "site-temple-de-philae": {
+   "credit": "Marc Ryckaert, CC BY 3.0, via Wikimedia Commons",
+   "titre": "File:Philae Temple R05.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Philae_Temple_R05.jpg",
+   "illustration": null,
+   "requete": "Philae temple Aswan",
+   "fichier": "site-temple-de-philae.jpg"
+  },
+  "site-village-nubien": {
+   "credit": "Rémih, CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:Nubian village Elephantine Island.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Nubian_village_Elephantine_Island.JPG",
+   "illustration": null,
+   "requete": "Village nubien Egypt",
+   "fichier": "site-village-nubien.jpg"
+  },
+  "site-kom-ombo": {
+   "credit": "Olaf Tausch, CC BY 3.0, via Wikimedia Commons",
+   "titre": "File:Kom Ombo 20.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Kom_Ombo_20.jpg",
+   "illustration": null,
+   "requete": "Kom Ombo temple",
+   "fichier": "site-kom-ombo.jpg"
+  },
+  "site-temple-d-edfou": {
+   "credit": "Marc Ryckaert, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Edfu Temple R04.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Edfu_Temple_R04.jpg",
+   "illustration": null,
+   "requete": "Edfu temple Horus",
+   "fichier": "site-temple-d-edfou.jpg"
+  },
+  "site-karnak": {
+   "credit": "Diego Delso, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Templo de Karnak, Luxor, Egipto, 2022-04-03, DD 146.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Templo_de_Karnak,_Luxor,_Egipto,_2022-04-03,_DD_146.jpg",
+   "illustration": null,
+   "requete": "Karnak temple hypostyle",
+   "fichier": "site-karnak.jpg"
+  },
+  "site-vallee-des-rois": {
+   "credit": "Vyacheslav Argenberg, CC BY 4.0, via Wikimedia Commons",
+   "titre": "File:Thebes, Luxor, Egypt, Valley of the Kings from above.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Thebes,_Luxor,_Egypt,_Valley_of_the_Kings_from_above.jpg",
+   "illustration": null,
+   "requete": "Valley of the Kings Luxor",
+   "fichier": "site-vallee-des-rois.jpg"
+  },
+  "site-temple-d-hatchepsout": {
+   "credit": "Diego Delso, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Templo funerario de Hatshepsut, Valle de las Reyes, Luxor, Egipto, 2022-04-03, DD 118.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Templo_funerario_de_Hatshepsut,_Valle_de_las_Reyes,_Luxor,_Egipto,_2022-04-03,_DD_118.jpg",
+   "illustration": null,
+   "requete": "Temple of Hatshepsut Deir el-Bahari",
+   "fichier": "site-temple-d-hatchepsout.jpg"
+  },
+  "site-colosses-de-memnon": {
+   "credit": "Marc Ryckaert (MJJR), CC BY 3.0, via Wikimedia Commons",
+   "titre": "File:Colossi of Memnon R02.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Colossi_of_Memnon_R02.jpg",
+   "illustration": null,
+   "requete": "Colossi of Memnon",
+   "fichier": "site-colosses-de-memnon.jpg"
+  },
+  "site-felouque-et-ile-aux-bananes": {
+   "credit": "Wouter Hagens, CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:Luxor Felucca A.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Luxor_Felucca_A.jpg",
+   "illustration": null,
+   "requete": "felucca Nile Luxor",
+   "fichier": "site-felouque-et-ile-aux-bananes.jpg"
+  },
+  "site-abou-simbel": {
+   "credit": "Diego Delso, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Templo de Ramsés II, Abu Simbel, Egipto, 2022-04-02, DD 26-28 HDR.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Templo_de_Rams%C3%A9s_II,_Abu_Simbel,_Egipto,_2022-04-02,_DD_26-28_HDR.jpg",
+   "illustration": null,
+   "requete": "Abu Simbel temple",
+   "fichier": "site-abou-simbel.jpg"
+  },
+  "site-sous-marin-sindbad": {
+   "credit": "Photographer: Mosbatho, CC BY 4.0, via Wikimedia Commons",
+   "titre": "File:Sindbad Submarine inside hatch ladder.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Sindbad_Submarine_inside_hatch_ladder.jpg",
+   "illustration": null,
+   "requete": "Sindbad submarine Hurghada",
+   "fichier": "site-sous-marin-sindbad.jpg"
+  },
+  "site-grand-aquarium-de-hurghada": {
+   "credit": "Hatem Moushir, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Hurghada Grand Aquarium by Hatem Moushir 1.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Hurghada_Grand_Aquarium_by_Hatem_Moushir_1.JPG",
+   "illustration": null,
+   "requete": "Hurghada Grand Aquarium",
+   "fichier": "site-grand-aquarium-de-hurghada.jpg"
+  },
+  "site-son-et-lumiere-des-pyramides": {
+   "credit": "Roland45, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:04037-Le Caire-Hydro.jpeg",
+   "page": "https://commons.wikimedia.org/wiki/File:04037-Le_Caire-Hydro.jpeg",
+   "illustration": "Le Caire",
+   "requete": "Le Caire",
+   "fichier": "site-son-et-lumiere-des-pyramides.jpg"
+  },
+  "site-parc-al-azhar": {
+   "credit": "Waynemowery, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Al-Azhar Sunset.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Al-Azhar_Sunset.jpg",
+   "illustration": null,
+   "requete": "Al-Azhar Park Cairo",
+   "fichier": "site-parc-al-azhar.jpg"
+  },
+  "site-khan-el-khalili": {
+   "credit": "V Manninen from Funland, CC BY 2.0, via Wikimedia Commons",
+   "titre": "File:The Khan el-Khalili market in Cairo, Egypt (2743501345).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Khan_el-Khalili_market_in_Cairo,_Egypt_(2743501345).jpg",
+   "illustration": null,
+   "requete": "Khan el-Khalili Cairo",
+   "fichier": "site-khan-el-khalili.jpg"
+  },
+  "site-temple-de-louxor": {
+   "credit": "Vyacheslav Argenberg, CC BY 4.0, via Wikimedia Commons",
+   "titre": "File:Luxor Temple at night, Luxor, Egypt.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Luxor_Temple_at_night,_Luxor,_Egypt.jpg",
+   "illustration": null,
+   "requete": "Luxor Temple night",
+   "fichier": "site-temple-de-louxor.jpg"
+  },
+  "site-marina-d-abu-tig": {
+   "credit": "Marc Ryckaert, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:El Gouna Abu Tig R03.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:El_Gouna_Abu_Tig_R03.jpg",
+   "illustration": null,
+   "requete": "Abu Tig Marina El Gouna",
+   "fichier": "site-marina-d-abu-tig.jpg"
+  },
+  "hebergement-marriott-mena-house": {
+   "credit": "Gerhard Haubold, CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:3. Mena House C.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:3._Mena_House_C.jpg",
+   "illustration": null,
+   "requete": "Mena House Hotel Giza",
+   "fichier": "hebergement-marriott-mena-house.jpg"
+  },
+  "hebergement-steigenberger-pyramids": {
+   "credit": "Mona Hassan Abo-Abda, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Giza Pyramids during \"Forever is Now\" exhibition.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Giza_Pyramids_during_%22Forever_is_Now%22_exhibition.jpg",
+   "illustration": null,
+   "requete": "Giza pyramids view",
+   "fichier": "hebergement-steigenberger-pyramids.jpg"
+  },
+  "hebergement-bateau-de-croisiere-5-etoiles": {
+   "credit": "Marc Ryckaert, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Monaco Nile cruise ship R01.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Monaco_Nile_cruise_ship_R01.jpg",
+   "illustration": null,
+   "requete": "Nile cruise ship",
+   "fichier": "hebergement-bateau-de-croisiere-5-etoiles.jpg"
+  },
+  "hebergement-movenpick-aswan": {
+   "credit": "Przemyslaw \"Blueshade\" Idzkiewicz., CC BY-SA 2.0, via Wikimedia Commons",
+   "titre": "File:Aswan, Elephantine, felucca, Egypt, Oct 2004.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Aswan,_Elephantine,_felucca,_Egypt,_Oct_2004.jpg",
+   "illustration": null,
+   "requete": "Elephantine Island Aswan",
+   "fichier": "hebergement-movenpick-aswan.jpg"
+  },
+  "hebergement-hilton-luxor": {
+   "credit": "Tom Hilton, CC BY 2.0, via Wikimedia Commons",
+   "titre": "File:Place de la Concorde and Luxor Obelisk (26994786733).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Place_de_la_Concorde_and_Luxor_Obelisk_(26994786733).jpg",
+   "illustration": null,
+   "requete": "Hilton Luxor",
+   "fichier": "hebergement-hilton-luxor.jpg"
+  },
+  "hebergement-sofitel-winter-palace": {
+   "credit": "Marc Ryckaert, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Luxor Winter Palace R01.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Luxor_Winter_Palace_R01.jpg",
+   "illustration": null,
+   "requete": "Winter Palace Luxor",
+   "fichier": "hebergement-sofitel-winter-palace.jpg"
+  },
+  "hebergement-club-lookea-makadi-oasis": {
+   "credit": "kallerna, CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:Makadi Bay from sea.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Makadi_Bay_from_sea.jpg",
+   "illustration": null,
+   "requete": "Makadi Bay resort",
+   "fichier": "hebergement-club-lookea-makadi-oasis.jpg"
+  },
+  "hebergement-movenpick-el-gouna": {
+   "credit": "Marc Ryckaert, CC BY 3.0, via Wikimedia Commons",
+   "titre": "File:El Gouna Bus R01.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:El_Gouna_Bus_R01.jpg",
+   "illustration": null,
+   "requete": "El Gouna Red Sea",
+   "fichier": "hebergement-movenpick-el-gouna.jpg"
+  },
+  "hebergement-location-a-el-gouna-airbnb": {
+   "credit": "Marc Ryckaert, CC BY 3.0, via Wikimedia Commons",
+   "titre": "File:El Gouna R23.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:El_Gouna_R23.jpg",
+   "illustration": null,
+   "requete": "El Gouna lagoon",
+   "fichier": "hebergement-location-a-el-gouna-airbnb.jpg"
+  },
+  "restaurant-zooba": {
+   "credit": "Roland45, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:04037-Le Caire-Sols.png",
+   "page": "https://commons.wikimedia.org/wiki/File:04037-Le_Caire-Sols.png",
+   "illustration": "Le Caire",
+   "requete": "Le Caire",
+   "fichier": "restaurant-zooba.jpg"
+  },
+  "restaurant-koshary-abou-tarek": {
+   "credit": "Diego Delso, CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:Koshary, gastronomía egipcia.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Koshary,_gastronom%C3%ADa_egipcia.jpg",
+   "illustration": null,
+   "requete": "Koshary Cairo",
+   "fichier": "restaurant-koshary-abou-tarek.jpg"
+  },
+  "restaurant-abou-el-sid": {
+   "credit": "Vyacheslav Argenberg, CC BY 4.0, via Wikimedia Commons",
+   "titre": "File:Egypt, Night Cairo and river Nile, Zamalek city lights.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Egypt,_Night_Cairo_and_river_Nile,_Zamalek_city_lights.jpg",
+   "illustration": null,
+   "requete": "Zamalek Cairo",
+   "fichier": "restaurant-abou-el-sid.jpg"
+  },
+  "restaurant-el-dokka": {
+   "credit": "Marc Ryckaert (MJJR), CC BY 3.0, via Wikimedia Commons",
+   "titre": "File:Aswan Nile R22.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Aswan_Nile_R22.jpg",
+   "illustration": null,
+   "requete": "Aswan Nile islands",
+   "fichier": "restaurant-el-dokka.jpg"
+  },
+  "restaurant-al-sahaby-lane": {
+   "credit": "Chabe01, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Vallée Nobles - Louxor (EG) - 2025-12-13 - 6.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Vall%C3%A9e_Nobles_-_Louxor_(EG)_-_2025-12-13_-_6.jpg",
+   "illustration": "Louxor",
+   "requete": "Louxor Egypt",
+   "fichier": "restaurant-al-sahaby-lane.jpg"
+  },
+  "restaurant-sofra": {
+   "credit": "Showshow777, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Molokhia 2.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Molokhia_2.JPG",
+   "illustration": null,
+   "requete": "Egyptian food molokhia",
+   "fichier": "restaurant-sofra.jpg"
+  },
+  "restaurant-al-halaka": {
+   "credit": "Amr F.Nagy, Public domain, via Wikimedia Commons",
+   "titre": "File:Hurghada Marina 007.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Hurghada_Marina_007.jpg",
+   "illustration": null,
+   "requete": "Hurghada marina",
+   "fichier": "restaurant-al-halaka.jpg"
+  },
+  "plat-koshari": {
+   "credit": "Dina Said, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Egyptian food Koshary.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Egyptian_food_Koshary.jpg",
+   "illustration": null,
+   "requete": "Koshari",
+   "fichier": "plat-koshari.jpg"
+  },
+  "plat-ful-medames": {
+   "credit": "Habib M'henni, CC BY-SA 3.0, via Wikimedia Commons",
+   "titre": "File:Foul Mdammis, Tunisie.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Foul_Mdammis,_Tunisie.jpg",
+   "illustration": null,
+   "requete": "Ful medames",
+   "fichier": "plat-ful-medames.jpg"
+  },
+  "plat-taameya": {
+   "credit": "Mohamed shokry algarnosy, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:الطعمية محمد شكري الجرنوسي 2.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:%D8%A7%D9%84%D8%B7%D8%B9%D9%85%D9%8A%D8%A9_%D9%85%D8%AD%D9%85%D8%AF_%D8%B4%D9%83%D8%B1%D9%8A_%D8%A7%D9%84%D8%AC%D8%B1%D9%86%D9%88%D8%B3%D9%8A_2.jpg",
+   "illustration": null,
+   "requete": "Egyptian falafel",
+   "fichier": "plat-taameya.jpg"
+  },
+  "plat-molokhia": {
+   "credit": "Dinesh Valke from Thane, India, CC BY-SA 2.0, via Wikimedia Commons",
+   "titre": "File:Corchorus olitorius (1459401640).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Corchorus_olitorius_(1459401640).jpg",
+   "illustration": null,
+   "requete": "Molokhia",
+   "fichier": "plat-molokhia.jpg"
+  },
+  "plat-fatta": {
+   "credit": "Scan by NYPL, Public domain, via Wikimedia Commons",
+   "titre": "File:Caccia fatta nella barca, e con gli archetti, o gabbiuzze (NYPL b14291206-425560).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Caccia_fatta_nella_barca,_e_con_gli_archetti,_o_gabbiuzze_(NYPL_b14291206-425560).jpg",
+   "illustration": null,
+   "requete": "Fatta Egyptian",
+   "fichier": "plat-fatta.jpg"
+  },
+  "plat-hawawshi": {
+   "credit": "Mohamed Moheyeldin, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Hawawshi 2 Mohamed Moheyeldin.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Hawawshi_2_Mohamed_Moheyeldin.jpg",
+   "illustration": null,
+   "requete": "Hawawshi",
+   "fichier": "plat-hawawshi.jpg"
+  },
+  "plat-om-ali": {
+   "credit": "Miansari66, CC0, via Wikimedia Commons",
+   "titre": "File:Umm Ali.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Umm_Ali.JPG",
+   "illustration": null,
+   "requete": "Umm Ali dessert",
+   "fichier": "plat-om-ali.jpg"
+  },
+  "plat-karkade": {
+   "credit": "Steven Sun, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Karkade tea 202406.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Karkade_tea_202406.jpg",
+   "illustration": null,
+   "requete": "Hibiscus tea karkade",
+   "fichier": "plat-karkade.jpg"
+  },
+  "base-le-caire-a-gizeh-3-nuits": {
+   "credit": "David Roberts, Public domain, via Wikimedia Commons",
+   "titre": "File:The Great Sphinx, Pyramids of Gizeh-1839) by David Roberts, RA.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Great_Sphinx,_Pyramids_of_Gizeh-1839)_by_David_Roberts,_RA.jpg",
+   "illustration": null,
+   "requete": "Giza pyramids",
+   "fichier": "base-le-caire-a-gizeh-3-nuits.jpg"
+  },
+  "base-le-nil-croisiere-ou-assouan-et-louxor-4-a-5-nuits": {
+   "credit": "Marc Ryckaert, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Esmeralda Nile cruise ship R01.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Esmeralda_Nile_cruise_ship_R01.jpg",
+   "illustration": null,
+   "requete": "Nile cruise ship Luxor",
+   "fichier": "base-le-nil-croisiere-ou-assouan-et-louxor-4-a-5-nuits.jpg"
+  },
+  "base-la-mer-rouge-makadi-ou-el-gouna-6-a-7-nuits": {
+   "credit": "Kora27, CC BY-SA 4.0, via Wikimedia Commons",
+   "titre": "File:Glasbodenboot Royal Seascope. Makadi Bay, Ägypten. 2H1A6660WI.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Glasbodenboot_Royal_Seascope._Makadi_Bay,_%C3%84gypten._2H1A6660WI.jpg",
+   "illustration": null,
+   "requete": "Makadi Bay Red Sea",
+   "fichier": "base-la-mer-rouge-makadi-ou-el-gouna-6-a-7-nuits.jpg"
+  }
+ },
+ "manquants": [
+  "hebergement-steigenberger-aqua-magic"
+ ],
+ "videos": {
+  "general-0": {
+   "url": "https://www.youtube.com/watch?v=lf0ESYOpcOs",
+   "titre": "Egypt With Kids | What a Family Holiday Is REALLY Like",
+   "chaine": "",
+   "duree": 1397,
+   "vues": 0
+  },
+  "general-1": {
+   "url": "https://www.youtube.com/watch?v=zaqbCTGWujs",
+   "titre": "What I Wish I'd Know BEFORE Doing My Nile River Cruise!",
+   "chaine": "Tips For Travellers",
+   "duree": 791,
+   "vues": 714349
+  },
+  "plage-orange-bay": {
+   "url": "https://www.youtube.com/watch?v=gzCv9ehLcgg",
+   "titre": "🇪🇬 Hurghada Egypt: $16 Boat Trip to Orange Bay Giftun Island",
+   "chaine": "",
+   "duree": 1194,
+   "vues": 0
+  },
+  "site-pyramides-de-gizeh": {
+   "url": "https://www.youtube.com/watch?v=QVaJtcrWknM",
+   "titre": "Search & Explore: the Pyramids of Giza 🐫 | Full Episode | ABCmouse Preschool Learning Video 📚✨",
+   "chaine": "ABCmouse",
+   "duree": 688,
+   "vues": 3100308
+  },
+  "site-grand-musee-egyptien": {
+   "url": "https://www.youtube.com/watch?v=xhArwI0BEEg",
+   "titre": "Get a First Look Inside the New $1B Grand Egyptian Museum",
+   "chaine": "TODAY",
+   "duree": 276,
+   "vues": 1568441
+  },
+  "site-temple-de-philae": {
+   "url": "https://www.youtube.com/watch?v=-wDyUx4mJ5k",
+   "titre": "Philae Temple in Aswan, Egypt: The Temple of Isis that floats on an island in the Nile!",
+   "chaine": "Egypt Adventures Travel",
+   "duree": 765,
+   "vues": 2476
+  },
+  "site-karnak": {
+   "url": "https://www.youtube.com/watch?v=9_6inr3KLx0",
+   "titre": "Virtual Egypt: The Biggest Egyptian Temple - Karnak",
+   "chaine": "Manuel Bravo",
+   "duree": 594,
+   "vues": 1753338
+  }
+ }
+}
